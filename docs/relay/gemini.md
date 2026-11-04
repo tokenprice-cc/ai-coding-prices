@@ -1,14 +1,14 @@
 ---
 title: "Gemini API 中转站价格榜（每日更新）"
-description: "Gemini 中转站今天最低 0.1x（约官方价的 0.15 折），1,425 家可比、中位 0.75x，按倍率、可用率、模型数排序，每小时更新。"
+description: "Gemini 中转站今天最低 0.1x（约官方价的 0.15 折），1,416 家可比、中位 0.75x，按倍率、可用率、模型数排序，每小时更新。"
 permalink: /relay/gemini/
 ---
 
 # Gemini API 中转站价格榜
 
-> Gemini 中转站今天最低 0.1x（约官方价的 0.15 折），1,425 家可比、中位 0.75x，按倍率、可用率、模型数排序，每小时更新。
+> Gemini 中转站今天最低 0.1x（约官方价的 0.15 折），1,416 家可比、中位 0.75x，按倍率、可用率、模型数排序，每小时更新。
 
-数据更新：2026-11-03 14:27（北京时间） · 数据来自 [TokenPrice](https://tokenprice.cc/relay/gemini)
+数据更新：2026-11-04 15:44（北京时间） · 数据来自 [TokenPrice](https://tokenprice.cc/relay/gemini)
 
 ## 倍率最低的前 30 名
 
@@ -19,31 +19,31 @@ permalink: /relay/gemini/
 | 3 | Mikiko CC | https://mikiko.cc | 0.1x | 0.1x | ¥1 = $1 | Sub2API | 约官方价的 0.15 折 | 100% |
 | 4 | Offices AI | https://officesai.top | 0.1x | 0.1x | ¥0.1 = $1 | New API | 约官方价的 0.15 折 | 100% |
 | 5 | 云枢AI | https://yunshuaiapi.com | 0.1x | 0.3x | ¥1 = $1 | New API | 约官方价的 0.15 折 | 100% |
-| 6 | MaiAI | https://mydamoxing.cn | 0.1x | 0.1x | ¥1 = $1 | New API | 约官方价的 0.15 折 | 100% |
-| 7 | ZLKpro api | https://zlkpro.tech | 0.1x | 1x | ¥1 = $1 | New API | 约官方价的 0.15 折 | 100% |
-| 8 | AI Leopard | https://api.jinqianbao.icu | 0.1x | 0.1x | ¥1 = $1 | New API | 约官方价的 0.15 折 | 100% |
-| 9 | 天才第一步-歪歪纸尿裤 | https://ai.939593.xyz | 0.1x | 1.7x | ¥0.1 = $1 | New API | 约官方价的 0.15 折 | 100% |
-| 10 | OKINTO 模型网关 | https://api.okinto.com | 0.1x | 0.1x | ¥0.1 = $1 | New API | 约官方价的 0.15 折 | 100% |
-| 11 | Deer Codex | https://api.codexopenai.cloud | 0.1x | 0.1x | ¥1 = $1 | New API | 约官方价的 0.15 折 | 100% |
-| 12 | XingWan Club | https://xingwan.store | 0.1x | 0.1x | ¥1 = $1 | New API | 约官方价的 0.15 折 | 100% |
-| 13 | NikoAPI | https://nikoapi.xyz | 0.1x | 1.1x | ¥1 = $1 | New API | 约官方价的 0.15 折 | 100% |
-| 14 | Buzz · AI | https://buzzai.cc | 0.1x | 0.1x | ¥1 = $1 | New API | 约官方价的 0.15 折 | 100% |
-| 15 | 77code | https://doce.77code.fun | 0.1x | 0.1x | ¥1 = $1 | New API | 约官方价的 0.15 折 | 100% |
-| 16 | Cang API | https://sub2.palerock.cn | 0.1x | 0.2x | ¥1 = $1 | Sub2API | 约官方价的 0.15 折 | 100% |
-| 17 | ApiGate | https://apigate.online | 0.1x | 0.1x | ¥1 = $1 | Sub2API | 约官方价的 0.15 折 | 100% |
-| 18 | 顾得api | https://api.llmgw.xyz | 0.1x | 0.42x | ¥1 = $1 | New API | 约官方价的 0.15 折 | 100% |
+| 6 | 云影 API | https://yyapi.cloud | 0.1x | 0.35x | ¥1 = $1 | New API | 约官方价的 0.15 折 | 100% |
+| 7 | AI Leopard | https://api.jinqianbao.icu | 0.1x | 0.1x | ¥1 = $1 | New API | 约官方价的 0.15 折 | 100% |
+| 8 | MaiAI | https://maiai.ai | 0.1x | 0.1x | ¥1 = $1 | New API | 约官方价的 0.15 折 | 100% |
+| 9 | ZLKpro api | https://api.zlkpro.tech | 0.1x | 1x | ¥1 = $1 | New API | 约官方价的 0.15 折 | 100% |
+| 10 | 天才第一步-歪歪纸尿裤 | https://ai.939593.xyz | 0.1x | 1.7x | ¥0.1 = $1 | New API | 约官方价的 0.15 折 | 100% |
+| 11 | OKINTO 模型网关 | https://api.okinto.com | 0.1x | 0.1x | ¥0.1 = $1 | New API | 约官方价的 0.15 折 | 100% |
+| 12 | Deer Codex | https://api.codexopenai.cloud | 0.1x | 0.1x | ¥1 = $1 | New API | 约官方价的 0.15 折 | 100% |
+| 13 | 猫猫 | https://catapi.catcard.uk | 0.1x | 1.8x | ¥1 = $1 | New API | 约官方价的 0.15 折 | 100% |
+| 14 | XingWan Club | https://xingwan.store | 0.1x | 0.1x | ¥1 = $1 | New API | 约官方价的 0.15 折 | 100% |
+| 15 | NikoAPI | https://nikoapi.xyz | 0.1x | 1.1x | ¥1 = $1 | New API | 约官方价的 0.15 折 | 100% |
+| 16 | Buzz · AI | https://buzzai.cc | 0.1x | 0.1x | ¥1 = $1 | New API | 约官方价的 0.15 折 | 100% |
+| 17 | Cang API | https://sub2.palerock.cn | 0.1x | 0.2x | ¥1 = $1 | Sub2API | 约官方价的 0.15 折 | 100% |
+| 18 | ApiGate | https://apigate.online | 0.1x | 0.1x | ¥1 = $1 | Sub2API | 约官方价的 0.15 折 | 100% |
 | 19 | 水果的API | https://newapi.wad4614.cn | 0.1x | 1x | ¥1 = $1 | New API | 约官方价的 0.15 折 | 100% |
 | 20 | HPD-DOG | https://ai.luogu.me | 0.1x | 0.1x | ¥0.1 = $1 | New API | 约官方价的 0.15 折 | 100% |
 | 21 | FlowNode | https://flow-node.com | 0.1x | 0.1x | ¥1 = $1 | Sub2API | 约官方价的 0.15 折 | 100% |
-| 22 | 西瓜皮API | https://xiguapi.icu | 0.1x | 1.34x | ¥1 = $1 | New API | 约官方价的 0.15 折 | 100% |
-| 23 | Aoen API | https://newapi.aoenan.com | 0.11x | 0.11x | ¥1 = $1 | New API | 约官方价的 0.17 折 | 100% |
-| 24 | 88API | https://api.88api.shop | 0.11x | 1.43x | ¥1 = $1 | New API | 约官方价的 0.17 折 | 100% |
+| 22 | ComputChat | https://comput.chat | 0.1x | 0.1x | ¥1 = $1 | New API | 约官方价的 0.15 折 | 95% |
+| 23 | 西瓜皮API | https://xiguapi.icu | 0.1x | 1.34x | ¥1 = $1 | New API | 约官方价的 0.15 折 | 100% |
+| 24 | Aoen API | https://newapi.aoenan.com | 0.11x | 0.11x | ¥1 = $1 | New API | 约官方价的 0.16 折 | 100% |
 | 25 | 梨子中转API | https://youziapi.com | 0.11x | 1.43x | ¥1 = $1 | New API | 约官方价的 0.17 折 | 100% |
-| 26 | 中转API | https://aijudaoyun.com | 0.11x | 1.47x | ¥1 = $1 | New API | 约官方价的 0.17 折 | 100% |
-| 27 | RelayBases | https://relaybases.com | 0.11x | 0.11x | ¥0.143 = $1 | New API | 约官方价的 0.17 折 | 100% |
-| 28 | 无限API | https://infai.cc | 0.12x | 1.1x | ¥1 = $1 | New API | 约官方价的 0.17 折 | 100% |
-| 29 | 主站 aabao.ai | https://api.aabao.top | 0.12x | 0.45x | ¥0.14925373 = $1 | New API | 约官方价的 0.18 折 | 100% |
-| 30 | deepkey.top | https://us.deepkey.top | 0.12x | 2x | ¥1 = $1 | New API | 约官方价的 0.18 折 | 100% |
+| 26 | 88API | https://api.88api.shop | 0.11x | 1.43x | ¥1 = $1 | New API | 约官方价的 0.17 折 | 100% |
+| 27 | 中转API | https://aijudaoyun.com | 0.11x | 1.47x | ¥1 = $1 | New API | 约官方价的 0.17 折 | 100% |
+| 28 | RelayBases | https://relaybases.com | 0.11x | 0.11x | ¥0.143 = $1 | New API | 约官方价的 0.17 折 | 100% |
+| 29 | 无限API | https://infai.cc | 0.12x | 1.1x | ¥1 = $1 | New API | 约官方价的 0.17 折 | 100% |
+| 30 | 主站 aabao.ai | https://api.aabao.ai | 0.12x | 0.45x | ¥0.14925373 = $1 | New API | 约官方价的 0.18 折 | 100% |
 
 完整榜单（前 100 名）：[https://tokenprice.cc/relay/gemini](https://tokenprice.cc/relay/gemini)
 

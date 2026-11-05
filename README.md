@@ -2,7 +2,7 @@
 
 > Claude Code、Codex、Cursor 怎么用最便宜？把官方订阅最低区、卡网代充与成品号、API 中转站三条路的实时价格放在一起比。数据来自 [TokenPrice](https://tokenprice.cc)（AI 编程省钱比价网站，每小时更新），本仓库每天自动同步一次。
 
-数据更新：2026-11-04 15:22（北京时间） · 网页版：[tokenprice.cc](https://tokenprice.cc)
+数据更新：2026-11-05 07:36（北京时间） · 网页版：[tokenprice.cc](https://tokenprice.cc)
 
 在线浏览（每个模型系列一页）：[https://tokenprice-cc.github.io/ai-coding-prices/](https://tokenprice-cc.github.io/ai-coding-prices/)
 
@@ -10,17 +10,17 @@
 
 | 档位 | 工具 | 卡网有货最低 | 带质保最低 | 有货店数 | 官方美国价 | 官方最便宜的地区 | 最低的那家店 |
 | --- | --- | ---: | ---: | ---: | --- | --- | --- |
-| Claude Pro | Claude Code | ¥138 | ¥138 | 442 | $20 | 巴基斯坦 ¥118 | 卡网大全：Claude Pro 月卡 iOS 美区官方代充｜质保30天订阅 |
-| Claude Max（原 Max 5x） | Claude Code | ¥490 | ¥490 | 209 | $100 | 奥兰群岛 ¥668 | AI工具大全：Claude Max 5✖️成品号 订阅质保 |
+| Claude Pro | Claude Code | ¥138 | ¥138 | 432 | $20 | 巴基斯坦 ¥118 | 卡网大全：Claude Pro 月卡 iOS 美区官方代充｜质保30天订阅 |
+| Claude Max（原 Max 5x） | Claude Code | ¥488 | ¥490 | 211 | $100 | 塞舌尔 ¥668 | AI CDK 商店：Claude Max5X 特殊渠道稳定直充） |
 | Claude Ultra（原 Max 20x） | Claude Code | ¥1,050 | ¥1,400 | 181 | $200 | 乌克兰 ¥1,337 | 凉热葵：clade max20稳定账号以及防风文档 |
 | ChatGPT Go | Codex | ¥27.89 | ¥27.89 | 292 | $8 | 埃及 ¥26.56 | 凌越穹顶：ChatGPT Go 月卡 \| 埃及区官方网页端充值 \| Free 新开 \| 自动发货【质保30天】 |
-| ChatGPT Plus | Codex | ¥12.1 | ¥56 | 1126 | $20 | 菲律宾 ¥105 | 码农：【源头产出】Plus独享成品账号纯手工\|质保首登\|未接马\|账密+2fa 招代理 |
-| ChatGPT Pro $100 | Codex | ¥370 | ¥516 | 864 | $100 | 墨西哥 ¥606 | AI CDK 商店：G codex 5X 质保首登 |
-| ChatGPT Pro $200 | Codex | ¥620 | ¥620 | 803 | $200 | 菲律宾 ¥1,051 | AI CDK 商店：【质保订阅】IOS Pro 10x 1个月 |
-| ChatGPT Business（原 Team） | Codex | ¥35 | ¥52 | 196 | — | — | AI小墨（对接🐴：XIAOMO）：【质保7天】Team 长期标准席位续费码【仅限旧空间续费】 |
+| ChatGPT Plus | Codex | ¥12.1 | ¥56 | 1123 | $20 | 菲律宾 ¥105 | 马了个马：【源头产出】Plus独享成品账号纯手工\|质保首登\|未接马\|账密+2fa 招代理 |
+| ChatGPT Pro $100 | Codex | ¥388 | ¥388 | 865 | $100 | 墨西哥 ¥606 | AI CDK 商店：gro bot super 100刀官充保订阅 |
+| ChatGPT Pro $200 | Codex | ¥620 | ¥620 | 807 | $200 | 菲律宾 ¥1,051 | AI CDK 商店：【质保订阅】IOS Pro 10x 1个月 |
+| ChatGPT Business（原 Team） | Codex | ¥35 | ¥52 | 201 | — | — | AI小墨（对接🐴：XIAOMO）：【质保7天】Team 长期标准席位续费码【仅限旧空间续费】 |
 | Cursor Pro | Cursor | ¥29 | ¥118 | 57 | — | — | Cursor续杯-ZYC：【Cursor+Augment-美刀】50刀+Claude5.1/5.5+G6.1+Gem3.8模型+免魔法+不限设备 |
-| Google AI Pro | Gemini | ¥6 | ¥11.8 | 369 | $19.99 | 土耳其 ¥72.12 | AI CDK 商店：Gemini Pro Pixel开通人机成品号（需绑定手机申诉使用） |
-| Google AI Ultra | Gemini | ¥156 | ¥156 | 84 | $99.99 | 土耳其 ¥198 | 鹰鹰小铺：Google AI Ultra 5x【质保订阅】支持Antigravity反重力｜【家庭组车位】月权益 |
+| Google AI Pro | Gemini | ¥6 | ¥11.8 | 369 | $19.99 | 土耳其 ¥72.12 | Gemini源头供货商：Gemini Pro Pixel和18月混装人机成品号（需绑定手机申诉使用） |
+| Google AI Ultra | Gemini | ¥156 | ¥156 | 85 | $99.99 | 土耳其 ¥198 | 鹰鹰小铺：Google AI Ultra 5x【质保订阅】支持Antigravity反重力｜【家庭组车位】月权益 |
 | Kiro | Kiro | ¥105 | — | 49 | — | — | 加菲猫的千层饼ai源头：Kiro Pro+ 2000积分账号 |
 
 卡网价只算有货的标准商品（日抛、拼车这类非标商品不算）；“带质保”指写明质保 28 天以上。官方价按当天汇率折算。
@@ -29,15 +29,15 @@
 
 | 模型系列 | 进榜中转站 | 最低倍率 | 中位倍率 | 中位折合官方 | 最低的那家 |
 | --- | ---: | ---: | ---: | --- | --- |
-| Claude API 中转 | 1927 | 0.1x | 0.66x | 约官方价的 0.98 折 | ClaudeHub（qinzhiai.com） |
-| GPT API 中转 | 2121 | 0.1x | 0.3x | 约官方价的 0.45 折 | Pro API（newapi.prorisehub.com） |
-| Gemini API 中转 | 1416 | 0.1x | 0.75x | 约官方价的 1.1 折 | RouteEasy（api.routeeasy.ai） |
-| DeepSeek API 中转 | 1551 | 0.05x | 0.6x | 约官方价的 0.9 折 | Pixel API（api.ai-pixel.online） |
-| GLM API 中转 | 1328 | 0.05x | 0.6x | 约官方价的 0.9 折 | KUNKUN AI API（ai.saigou.work） |
-| Kimi API 中转 | 1222 | 0.05x | 0.6x | 约官方价的 0.9 折 | Pixel API（api.ai-pixel.online） |
-| Qwen API 中转 | 802 | 0.05x | 0.8x | 约官方价的 1.2 折 | KUNKUN AI API（ai.saigou.work） |
-| MiniMax API 中转 | 781 | 0.05x | 0.7x | 约官方价的 1 折 | KUNKUN AI API（ai.saigou.work） |
-| Grok API 中转 | 1298 | 0.1x | 0.35x | 约官方价的 0.52 折 | deepkey.top（us.deepkey.top） |
+| Claude API 中转 | 1941 | 0.1x | 0.66x | 约官方价的 0.99 折 | ClaudeHub（qinzhiai.com） |
+| GPT API 中转 | 2124 | 0.1x | 0.3x | 约官方价的 0.45 折 | Pro API（newapi.prorisehub.com） |
+| Gemini API 中转 | 1431 | 0.1x | 0.73x | 约官方价的 1.1 折 | RouteEasy（api.routeeasy.ai） |
+| DeepSeek API 中转 | 1556 | 0.05x | 0.6x | 约官方价的 0.9 折 | Pixel API（api.ai-pixel.online） |
+| GLM API 中转 | 1333 | 0.05x | 0.6x | 约官方价的 0.9 折 | KUNKUN AI API（ai.kunkun.chat） |
+| Kimi API 中转 | 1226 | 0.05x | 0.6x | 约官方价的 0.9 折 | Pixel API（api.ai-pixel.online） |
+| Qwen API 中转 | 818 | 0.05x | 0.8x | 约官方价的 1.2 折 | KUNKUN AI API（ai.kunkun.chat） |
+| MiniMax API 中转 | 795 | 0.05x | 0.7x | 约官方价的 1 折 | KUNKUN AI API（ai.kunkun.chat） |
+| Grok API 中转 | 1303 | 0.1x | 0.35x | 约官方价的 0.52 折 | deepkey.top（deepkey.top） |
 
 倍率 = 充值系数 × 分组倍率，即官方每 1 美元的用量在中转站要花多少人民币；1x 约等于官方价的 1.5 折。最低价多是引流价，参考中位数更稳。
 
@@ -50,28 +50,28 @@
 | 3 | RouteEasy | https://api.routeeasy.ai | 0.1x | 3.9x | ¥1 = $1 | New API | 约官方价的 0.15 折 | 100% |
 | 4 | 良心 API | https://liangxinapi.top | 0.1x | 3x | ¥1 = $1 | New API | 约官方价的 0.15 折 | 100% |
 | 5 | Mikiko CC | https://mikiko.cc | 0.1x | 0.19x | ¥1 = $1 | Sub2API | 约官方价的 0.15 折 | 100% |
-| 6 | YUapi | https://yuaiapi.com | 0.1x | 2.3x | ¥1 = $1 | New API | 约官方价的 0.15 折 | 100% |
-| 7 | 叮咚鸡 | https://api.nionio2026.xyz | 0.1x | 0.2x | ¥0.1 = $1 | New API | 约官方价的 0.15 折 | 100% |
+| 6 | 叮咚鸡 | https://api.nionio2026.xyz | 0.1x | 0.2x | ¥0.1 = $1 | New API | 约官方价的 0.15 折 | 100% |
+| 7 | YUapi | https://yuaiapi.com | 0.1x | 2.3x | ¥1 = $1 | New API | 约官方价的 0.15 折 | 100% |
 | 8 | 1024 TOKEN | https://api.1024token.xyz | 0.1x | 5x | ¥1 = $1 | New API | 约官方价的 0.15 折 | 100% |
-| 9 | EthanCode | https://api.ethancode.xyz | 0.1x | 5.2x | ¥1 = $1 | New API | 约官方价的 0.15 折 | 100% |
-| 10 | PureAI | https://api.pureai.ink | 0.1x | 3.8x | ¥1 = $1 | Sub2API | 约官方价的 0.15 折 | 100% |
-| 11 | Sixoner AI中转站 | https://api.sixoner.com | 0.1x | 1.8x | ¥1 = $1 | Sub2API | 约官方价的 0.15 折 | 100% |
-| 12 | THQ API：最佳企业级 AI大模型中转站 | https://api.tohoqing.com | 0.1x | 1.25x | ¥1 = $1 | Sub2API | 约官方价的 0.15 折 | 100% |
-| 13 | 零延API | https://sub.skypoem.top | 0.1x | 1.3x | ¥1 = $1 | Sub2API | 约官方价的 0.15 折 | 100% |
-| 14 | GreatWall Link | https://gwlink.cc | 0.1x | 1x | ¥1 = $1 | New API | 约官方价的 0.15 折 | 100% |
-| 15 | New API | https://xinfeng.best | 0.1x | 1.45x | ¥1 = $1 | New API | 约官方价的 0.15 折 | 100% |
-| 16 | 星盘 | https://xingpan.site | 0.1x | 3x | ¥1 = $1 | New API | 约官方价的 0.15 折 | 100% |
-| 17 | CaMeL ToB | https://b.kr777.top | 0.1x | 1x | ¥1 = $1 | New API | 约官方价的 0.15 折 | 100% |
-| 18 | MaiAI | https://maiai.ai | 0.1x | 4.5x | ¥1 = $1 | New API | 约官方价的 0.15 折 | 100% |
-| 19 | 星枢 AI | https://claudeaihub.cloud | 0.1x | 1x | ¥1 = $1 | New API | 约官方价的 0.15 折 | 100% |
+| 9 | 云影 API | https://yyapi.cloud | 0.1x | 2.2x | ¥1 = $1 | New API | 约官方价的 0.15 折 | 100% |
+| 10 | CaMeL ToB | https://b.kr777.top | 0.1x | 1x | ¥1 = $1 | New API | 约官方价的 0.15 折 | 100% |
+| 11 | 星盘 | https://xingpan.site | 0.1x | 3x | ¥1 = $1 | New API | 约官方价的 0.15 折 | 100% |
+| 12 | EthanCode | https://api.ethancode.xyz | 0.1x | 5.2x | ¥1 = $1 | New API | 约官方价的 0.15 折 | 100% |
+| 13 | PureAI | https://api.pureai.ink | 0.1x | 3.8x | ¥1 = $1 | Sub2API | 约官方价的 0.15 折 | 100% |
+| 14 | Sixoner AI中转站 | https://sub.sixoner.com | 0.1x | 1.8x | ¥1 = $1 | Sub2API | 约官方价的 0.15 折 | 100% |
+| 15 | THQ API：最佳企业级 AI大模型中转站 | https://sub.thqllm.com | 0.1x | 1.25x | ¥1 = $1 | Sub2API | 约官方价的 0.15 折 | 100% |
+| 16 | 零延API | https://sub.skypoem.top | 0.1x | 1.3x | ¥1 = $1 | Sub2API | 约官方价的 0.15 折 | 100% |
+| 17 | New API | https://xinfeng.best | 0.1x | 1.45x | ¥1 = $1 | New API | 约官方价的 0.15 折 | 100% |
+| 18 | GreatWall Link | https://greatwalllink.top | 0.1x | 1x | ¥1 = $1 | New API | 约官方价的 0.15 折 | 100% |
+| 19 | MaiAI | https://maiai.ai | 0.1x | 4.5x | ¥1 = $1 | New API | 约官方价的 0.15 折 | 100% |
 | 20 | BuaGa API | https://buaga.dpdns.org | 0.1x | 1.2x | ¥1 = $1 | Sub2API | 约官方价的 0.15 折 | 100% |
 
 完整榜单（前 100 名，可按名字筛选）：[https://tokenprice.cc/relay](https://tokenprice.cc/relay)
 
 ## 各模型系列中转站价格榜
 
-- [Claude API 中转站价格榜](docs/relay/claude.md)：Claude 中转站今天最低 0.1x（约官方价的 0.15 折），1,927 家可比、中位 0.66x，按倍率、可用率、模型数排序，每小时更新。
-- [GPT（Codex） API 中转站价格榜](docs/relay/gpt.md)：GPT 中转站今天最低 0.1x（约官方价的 0.15 折），2,121 家可比、中位 0.3x，按倍率、可用率、模型数排序，每小时更新。
+- [Claude API 中转站价格榜](docs/relay/claude.md)：Claude 中转站今天最低 0.1x（约官方价的 0.15 折），1,943 家可比、中位 0.66x，按倍率、可用率、模型数排序，每小时更新。
+- [GPT（Codex） API 中转站价格榜](docs/relay/gpt.md)：GPT 中转站今天最低 0.1x（约官方价的 0.15 折），2,125 家可比、中位 0.3x，按倍率、可用率、模型数排序，每小时更新。
 - [Gemini API 中转站价格榜](docs/relay/gemini.md)：Gemini 中转站今天最低 0.1x（约官方价的 0.15 折），1,416 家可比、中位 0.75x，按倍率、可用率、模型数排序，每小时更新。
 - [DeepSeek API 中转站价格榜](docs/relay/deepseek.md)：DeepSeek 中转站今天最低 0.05x（约官方价的 0.07 折），1,551 家可比、中位 0.6x，按倍率、可用率、模型数排序，每小时更新。DeepSeek 也能接进 Claude Code。
 - [智谱 GLM API 中转站价格榜](docs/relay/glm.md)：智谱 GLM 中转站今天最低 0.05x（约官方价的 0.07 折），1,328 家可比、中位 0.6x，按倍率、可用率、模型数排序，每小时更新。GLM 也能接进 Claude Code。

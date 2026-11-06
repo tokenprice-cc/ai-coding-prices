@@ -1,14 +1,14 @@
 ---
 title: "DeepSeek API 中转站价格榜（每日更新）"
-description: "DeepSeek 中转站今天最低 0.05x（约官方价的 0.07 折），1,551 家可比、中位 0.6x，按倍率、可用率、模型数排序，每小时更新。DeepSeek 也能接进 Claude Code。"
+description: "DeepSeek 中转站今天最低 0.05x（约官方价的 0.07 折），1,550 家可比、中位 0.6x，按倍率、可用率、模型数排序，每小时更新。DeepSeek 也能接进 Claude Code。"
 permalink: /relay/deepseek/
 ---
 
 # DeepSeek API 中转站价格榜
 
-> DeepSeek 中转站今天最低 0.05x（约官方价的 0.07 折），1,551 家可比、中位 0.6x，按倍率、可用率、模型数排序，每小时更新。DeepSeek 也能接进 Claude Code。
+> DeepSeek 中转站今天最低 0.05x（约官方价的 0.07 折），1,550 家可比、中位 0.6x，按倍率、可用率、模型数排序，每小时更新。DeepSeek 也能接进 Claude Code。
 
-数据更新：2026-11-04 15:42（北京时间） · 数据来自 [TokenPrice](https://tokenprice.cc/relay/deepseek)
+数据更新：2026-11-05 15:48（北京时间） · 数据来自 [TokenPrice](https://tokenprice.cc/relay/deepseek)
 
 ## 倍率最低的前 30 名
 
@@ -21,29 +21,29 @@ permalink: /relay/deepseek/
 | 5 | ZLKpro api | https://api.zlkpro.tech | 0.05x | 1x | ¥1 = $1 | New API | 约官方价的 0.07 折 | 100% |
 | 6 | 可达鸭鸭 API | https://ai.kdysite.cloud | 0.05x | 1x | ¥1 = $1 | New API | 约官方价的 0.07 折 | 100% |
 | 7 | 墨羽AI | https://api.inktandwkx.top | 0.05x | 0.4x | ¥1 = $1 | Sub2API | 约官方价的 0.07 折 | 100% |
-| 8 | 七七Api | https://api.tmiaow.cn | 0.05x | 0.05x | ¥1 = $1 | Sub2API | 约官方价的 0.07 折 | 100% |
-| 9 | 遂人 API | https://api.haokun.de | 0.05x | 1x | ¥1 = $1 | New API | 约官方价的 0.07 折 | 100% |
-| 10 | 百分之五 | https://ai.hdd.sb | 0.05x | 0.05x | ¥1 = $1 | New API | 约官方价的 0.07 折 | 100% |
-| 11 | 哈基米biu | https://o10.top | 0.05x | 0.06x | ¥1 = $1 | Sub2API | 约官方价的 0.07 折 | 100% |
-| 12 | 长顺 | https://api.changsf.top | 0.05x | 0.25x | ¥1 = $1 | New API | 约官方价的 0.07 折 | 100% |
-| 13 | Kunkunout API | https://api.kunkunout.qzz.io | 0.05x | 0.063x | ¥0.05 = $1 | New API | 约官方价的 0.07 折 | 100% |
-| 14 | TNTAPI | https://tntapi.com | 0.05x | 0.05x | ¥1 = $1 | Sub2API | 约官方价的 0.07 折 | 100% |
-| 15 | HUDAPI | https://api.hud.im | 0.05x | 0.08x | ¥1 = $1 | Sub2API | 约官方价的 0.07 折 | 100% |
-| 16 | Sub2API | https://qwer069.com | 0.05x | 0.14x | ¥1 = $1 | Sub2API | 约官方价的 0.07 折 | 100% |
-| 17 | Kimera奇美拉 API | https://kimera.cc | 0.05x | 0.3x | ¥1 = $1 | Sub2API | 约官方价的 0.07 折 | 100% |
-| 18 | Orbelis | https://nova.vcrauo.com | 0.05x | 1x | ¥1 = $1 | New API | 约官方价的 0.07 折 | 100% |
+| 8 | 遂人 API | https://api.haokun.de | 0.05x | 1x | ¥1 = $1 | New API | 约官方价的 0.07 折 | 100% |
+| 9 | 七七Api | https://api.tmiaow.cn | 0.05x | 0.05x | ¥1 = $1 | Sub2API | 约官方价的 0.07 折 | 100% |
+| 10 | e-flowcode | https://api.e-flowcode.cc | 0.05x | 0.05x | ¥1 = $1 | New API | 约官方价的 0.07 折 | 100% |
+| 11 | 百分之五 | https://ai.hdd.sb | 0.05x | 0.05x | ¥1 = $1 | New API | 约官方价的 0.07 折 | 100% |
+| 12 | Sub2API | https://qwer069.com | 0.05x | 1x | ¥1 = $1 | Sub2API | 约官方价的 0.07 折 | 100% |
+| 13 | 哈基米biu | https://o10.top | 0.05x | 0.06x | ¥1 = $1 | Sub2API | 约官方价的 0.07 折 | 100% |
+| 14 | Kunkunout API | https://api.kunkunout.com | 0.05x | 0.063x | ¥0.05 = $1 | New API | 约官方价的 0.07 折 | 100% |
+| 15 | ChooHub | https://choohub.net | 0.05x | 0.05x | ¥1 = $1 | Sub2API | 约官方价的 0.07 折 | 100% |
+| 16 | TNTAPI | https://tntapi.com | 0.05x | 0.05x | ¥1 = $1 | Sub2API | 约官方价的 0.07 折 | 100% |
+| 17 | HUDAPI | https://api.hud.im | 0.05x | 0.08x | ¥1 = $1 | Sub2API | 约官方价的 0.07 折 | 100% |
+| 18 | Kimera奇美拉 API | https://kimera.cc | 0.05x | 0.3x | ¥1 = $1 | Sub2API | 约官方价的 0.07 折 | 100% |
 | 19 | 星舟API | https://ai.070798.xyz | 0.05x | 0.15x | ¥1 = $1 | New API | 约官方价的 0.07 折 | 100% |
 | 20 | GINKA API | https://api.ginka.cloud | 0.05x | 1x | ¥1 = $1 | New API | 约官方价的 0.07 折 | 100% |
-| 21 | 办办API | https://api.banban.plus | 0.05x | 0.5x | ¥1 = $1 | New API | 约官方价的 0.07 折 | 100% |
+| 21 | 办办API | https://api.banban.plus | 0.05x | 1x | ¥1 = $1 | New API | 约官方价的 0.07 折 | 100% |
 | 22 | 421 | https://token.54421666.xyz | 0.05x | 0.25x | ¥1 = $1 | Sub2API | 约官方价的 0.07 折 | 100% |
 | 23 | 沉默API | https://hk.chenmoai.cn | 0.05x | 1x | ¥1 = $1 | New API | 约官方价的 0.07 折 | 100% |
 | 24 | LeekBox | https://leekbox.ai | 0.05x | 0.2x | ¥1 = $1 | Sub2API | 约官方价的 0.07 折 | 100% |
 | 25 | 智叶API | https://api.ziyelian.site | 0.05x | 1x | ¥1 = $1 | New API | 约官方价的 0.07 折 | 100% |
 | 26 | xem API | https://ai.xem8k5.top | 0.05x | 0.05x | ¥0.1 = $1 | New API | 约官方价的 0.07 折 | 100% |
-| 27 | AI终点站 | https://wzhxiaozhan.top | 0.05x | 0.5x | ¥1 = $1 | New API | 约官方价的 0.07 折 | 96% |
-| 28 | 鑫旺Neko API | https://api.790053500.com | 0.055x | 0.25x | ¥1 = $1 | Sub2API | 约官方价的 0.08 折 | 100% |
-| 29 | 猫肥Neko API | https://api.999555999.com | 0.055x | 0.25x | ¥1 = $1 | Sub2API | 约官方价的 0.08 折 | 100% |
-| 30 | 超稳AI中转站 | https://chaowen.asia | 0.056x | 0.056x | ¥1 = $1 | Sub2API | 约官方价的 0.08 折 | 100% |
+| 27 | AI终点站 | https://wzhxiaozhan.top | 0.05x | 0.5x | ¥1 = $1 | New API | 约官方价的 0.07 折 | 99% |
+| 28 | 平价api | https://api.asdfas.party | 0.05x | 0.35x | ¥1 = $1 | Sub2API | 约官方价的 0.07 折 | 97% |
+| 29 | 鑫旺Neko API | https://api.790053500.com | 0.055x | 0.25x | ¥1 = $1 | Sub2API | 约官方价的 0.08 折 | 100% |
+| 30 | 猫肥Neko API | https://999555999.com | 0.055x | 0.25x | ¥1 = $1 | Sub2API | 约官方价的 0.08 折 | 100% |
 
 完整榜单（前 100 名）：[https://tokenprice.cc/relay/deepseek](https://tokenprice.cc/relay/deepseek)
 

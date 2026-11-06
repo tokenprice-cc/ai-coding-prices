@@ -1,14 +1,14 @@
 ---
 title: "Kimi API 中转站价格榜（每日更新）"
-description: "Kimi 中转站今天最低 0.05x（约官方价的 0.07 折），1,222 家可比、中位 0.6x，按倍率、可用率、模型数排序，每小时更新。Kimi 也能接进 Claude Code。"
+description: "Kimi 中转站今天最低 0.05x（约官方价的 0.07 折），1,221 家可比、中位 0.6x，按倍率、可用率、模型数排序，每小时更新。Kimi 也能接进 Claude Code。"
 permalink: /relay/kimi/
 ---
 
 # Kimi API 中转站价格榜
 
-> Kimi 中转站今天最低 0.05x（约官方价的 0.07 折），1,222 家可比、中位 0.6x，按倍率、可用率、模型数排序，每小时更新。Kimi 也能接进 Claude Code。
+> Kimi 中转站今天最低 0.05x（约官方价的 0.07 折），1,221 家可比、中位 0.6x，按倍率、可用率、模型数排序，每小时更新。Kimi 也能接进 Claude Code。
 
-数据更新：2026-11-04 15:43（北京时间） · 数据来自 [TokenPrice](https://tokenprice.cc/relay/kimi)
+数据更新：2026-11-05 15:47（北京时间） · 数据来自 [TokenPrice](https://tokenprice.cc/relay/kimi)
 
 ## 倍率最低的前 30 名
 
@@ -21,11 +21,11 @@ permalink: /relay/kimi/
 | 5 | 可达鸭鸭 API | https://ai.kdysite.cloud | 0.05x | 0.3x | ¥1 = $1 | New API | 约官方价的 0.07 折 | 100% |
 | 6 | 墨羽AI | https://api.inktandwkx.top | 0.05x | 0.05x | ¥1 = $1 | Sub2API | 约官方价的 0.07 折 | 100% |
 | 7 | 百分之五 | https://ai.hdd.sb | 0.05x | 0.05x | ¥1 = $1 | New API | 约官方价的 0.07 折 | 100% |
-| 8 | CHANG API | https://changapi.club | 0.05x | 1.6x | ¥1 = $1 | Sub2API | 约官方价的 0.07 折 | 100% |
-| 9 | HUDAPI | https://api.hud.im | 0.05x | 0.08x | ¥1 = $1 | Sub2API | 约官方价的 0.07 折 | 100% |
-| 10 | Sub2API | https://qwer069.com | 0.05x | 0.14x | ¥1 = $1 | Sub2API | 约官方价的 0.07 折 | 100% |
+| 8 | Sub2API | https://qwer069.com | 0.05x | 1x | ¥1 = $1 | Sub2API | 约官方价的 0.07 折 | 100% |
+| 9 | CHANG API | https://changapi.club | 0.05x | 1.6x | ¥1 = $1 | Sub2API | 约官方价的 0.07 折 | 100% |
+| 10 | HUDAPI | https://api.hud.im | 0.05x | 0.08x | ¥1 = $1 | Sub2API | 约官方价的 0.07 折 | 100% |
 | 11 | Kimera奇美拉 API | https://kimera.cc | 0.05x | 0.3x | ¥1 = $1 | Sub2API | 约官方价的 0.07 折 | 100% |
-| 12 | Ccode API | https://api.ccode.vip | 0.05x | 0.75x | ¥1 = $1 | New API | 约官方价的 0.07 折 | 100% |
+| 12 | Ccode API | https://api.ccode.vip | 0.05x | 0.7x | ¥1 = $1 | New API | 约官方价的 0.07 折 | 100% |
 | 13 | 星舟API | https://ai.070798.xyz | 0.05x | 1x | ¥1 = $1 | New API | 约官方价的 0.07 折 | 100% |
 | 14 | GINKA API | https://api.ginka.cloud | 0.05x | 1x | ¥1 = $1 | New API | 约官方价的 0.07 折 | 100% |
 | 15 | 办办API | https://api.banban.plus | 0.05x | 0.15x | ¥1 = $1 | New API | 约官方价的 0.07 折 | 100% |
@@ -33,15 +33,15 @@ permalink: /relay/kimi/
 | 17 | 沉默API | https://hk.chenmoai.cn | 0.05x | 1x | ¥1 = $1 | New API | 约官方价的 0.07 折 | 100% |
 | 18 | LeekBox | https://leekbox.ai | 0.05x | 0.2x | ¥1 = $1 | Sub2API | 约官方价的 0.07 折 | 100% |
 | 19 | xem API | https://ai.xem8k5.top | 0.05x | 0.05x | ¥0.1 = $1 | New API | 约官方价的 0.07 折 | 100% |
-| 20 | Super Subscribe | https://supersubscribe689.com | 0.057x | 0.057x | ¥1 = $1 | Sub2API | 约官方价的 0.09 折 | 100% |
-| 21 | Top API | https://topapi.io | 0.057x | 0.057x | ¥0.1429 = $1 | New API | 约官方价的 0.09 折 | 100% |
-| 22 | Uno Router | https://api.unorouter.com | 0.058x | 4x | ¥1 = $1 | New API | 约官方价的 0.09 折 | 100% |
-| 23 | YUapi | https://yuaiapi.com | 0.06x | 1x | ¥1 = $1 | New API | 约官方价的 0.09 折 | 100% |
-| 24 | Jasper | https://api.yjs.im | 0.06x | 1x | ¥1 = $1 | New API | 约官方价的 0.09 折 | 100% |
-| 25 | RelayCore | https://relaycore.cn | 0.06x | 0.39x | ¥1 = $1 | — | 约官方价的 0.09 折 | 100% |
-| 26 | 云影 API | https://yyapi.cloud | 0.06x | 0.4x | ¥1 = $1 | New API | 约官方价的 0.09 折 | 100% |
-| 27 | 河图 | https://api.hetune.top | 0.06x | 0.15x | ¥1 = $1 | Sub2API | 约官方价的 0.09 折 | 100% |
-| 28 | tokenshop | https://api-cn.tokenshop.homes | 0.06x | 0.2x | ¥1 = $1 | — | 约官方价的 0.09 折 | 100% |
+| 20 | 平价api | https://api.asdfas.party | 0.05x | 0.35x | ¥1 = $1 | Sub2API | 约官方价的 0.07 折 | 97% |
+| 21 | Uno Router | https://api.unorouter.com | 0.055x | 4x | ¥1 = $1 | New API | 约官方价的 0.08 折 | 100% |
+| 22 | Super Subscribe | https://supersubscribe689.com | 0.057x | 0.057x | ¥1 = $1 | Sub2API | 约官方价的 0.09 折 | 100% |
+| 23 | Top API | https://topapi.io | 0.057x | 0.057x | ¥0.1429 = $1 | New API | 约官方价的 0.09 折 | 100% |
+| 24 | YUapi | https://yuaiapi.com | 0.06x | 1x | ¥1 = $1 | New API | 约官方价的 0.09 折 | 100% |
+| 25 | Jasper | https://api.yjs.im | 0.06x | 1x | ¥1 = $1 | New API | 约官方价的 0.09 折 | 100% |
+| 26 | 云影 API | https://zl.yyapi.cloud | 0.06x | 0.4x | ¥1 = $1 | New API | 约官方价的 0.09 折 | 100% |
+| 27 | RelayCore | https://relaycore.cn | 0.06x | 0.39x | ¥1 = $1 | — | 约官方价的 0.09 折 | 100% |
+| 28 | tokenshop | https://tokenshop.homes | 0.06x | 0.2x | ¥1 = $1 | — | 约官方价的 0.09 折 | 100% |
 | 29 | YMeng CC | https://ymeng.cc | 0.06x | 0.06x | ¥1 = $1 | New API | 约官方价的 0.09 折 | 100% |
 | 30 | 星云AI | https://faojzoo.cn | 0.06x | 0.06x | ¥0.5 = $1 | New API | 约官方价的 0.09 折 | 100% |
 

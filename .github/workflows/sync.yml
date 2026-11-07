@@ -23,39 +23,49 @@ jobs:
           mkdir -p scripts
           cat > scripts/build.mjs <<'BUILD_EOF'
           /**
-           * 从 TokenPrice（https://tokenprice.cc）拉各页面的 Markdown 版，生成本仓库的 README.md 和 docs/（GitHub Pages 网页）。
+           * 从 TokenPrice（https://tokenprice.cc）拉各页面的 Markdown 版（/md/index.md、/md/relay/<系列>.md），生成本仓库的 README.md 和 docs/（GitHub Pages 网页）。
            * GitHub Actions 每天跑一次（.github/workflows/sync.yml）；本地也能跑：node scripts/build.mjs
            * 只用 Node 自带的 fetch，不装依赖。
            */
-          import { mkdir, writeFile } from 'node:fs/promises';
+          import { mkdir, rm, writeFile } from 'node:fs/promises';
 
           const SITE = 'https://tokenprice.cc';
+          // 本地验证时可以指向预览地址：TOKENPRICE_SOURCE=http://127.0.0.1:3206 node scripts/build.mjs（生成的链接仍写正式网址）
+          const SOURCE = (process.env.TOKENPRICE_SOURCE || SITE).replace(/\/+$/, '');
           // 仓库地址和网页地址跟着仓库走（Actions 里有 GITHUB_REPOSITORY=账号/仓库名），换账号、改仓库名都不用改代码
-          const [OWNER, REPO] = (process.env.GITHUB_REPOSITORY || 'tokenprice/ai-coding-prices').split('/');
+          const [OWNER, REPO] = (process.env.GITHUB_REPOSITORY || 'tokenprice-cc/ai-coding-prices').split('/');
           const PAGES = `https://${OWNER.toLowerCase()}.github.io/${REPO}/`;
 
+          // 2026-11-06 起 TokenPrice 换成新版：Markdown 版统一在 /md/… 下，各系列排行在 /relay/<系列>
           const FAMILIES = [
-            { slug: 'claude', path: '/relay', name: 'Claude' },
-            { slug: 'gpt', path: '/relay/gpt', name: 'GPT（Codex）' },
-            { slug: 'gemini', path: '/relay/gemini', name: 'Gemini' },
-            { slug: 'deepseek', path: '/relay/deepseek', name: 'DeepSeek' },
-            { slug: 'glm', path: '/relay/glm', name: '智谱 GLM' },
-            { slug: 'kimi', path: '/relay/kimi', name: 'Kimi' },
-            { slug: 'qwen', path: '/relay/qwen', name: '通义千问 Qwen' },
-            { slug: 'minimax', path: '/relay/minimax', name: 'MiniMax' },
-            { slug: 'grok', path: '/relay/grok', name: 'Grok' },
+            { slug: 'claude', name: 'Claude' },
+            { slug: 'gpt', name: 'GPT（Codex）' },
+            { slug: 'gemini', name: 'Gemini' },
+            { slug: 'grok', name: 'Grok' },
+            { slug: 'deepseek', name: 'DeepSeek' },
+            { slug: 'glm', name: '智谱 GLM' },
+            { slug: 'kimi', name: 'Kimi' },
+            { slug: 'qwen', name: '通义千问 Qwen' },
+          ];
+          const GUIDES = [
+            ['怎么看懂中转站比价榜', '/guide/start-here'],
+            ['API 中转站倍率怎么看', '/guide/relay-ratio'],
+            ['Claude Code、Codex 怎么接 API 中转站', '/guide/claude-code-relay'],
+            ['API 中转站跑路、掺假怎么避开', '/guide/relay-safety'],
+            ['API 中转站比价网站有哪些', '/guide/relay-price-sites'],
           ];
           /** README 里 Claude 中转站列前几名；各系列网页列前几名（完整榜单在 TokenPrice 网站上） */
           const TOP_README = 20;
           const TOP_PAGE = 30;
 
           async function fetchMd(path) {
-            const res = await fetch(`${SITE}${path === '/' ? '/index' : path}.md`, {
+            const res = await fetch(`${SOURCE}/md${path === '/' ? '/index' : path}.md`, {
               headers: { 'user-agent': `${REPO}-sync (+https://github.com/${OWNER}/${REPO})` },
               signal: AbortSignal.timeout(60_000),
             });
             if (!res.ok) throw new Error(`${path}: HTTP ${res.status}`);
-            return res.text();
+            // 本地验证时把预览地址换回正式网址
+            return (await res.text()).replaceAll(SOURCE, SITE);
           }
 
           /** 二级标题（以 prefix 开头）下面紧跟的那张表；rows 是保留的数据行数 */
@@ -72,73 +82,60 @@ jobs:
             return table.slice(0, 2 + rows).join('\n');
           }
 
-          /** 二级标题下的列表项（攻略列表用） */
-          function listUnder(md, prefix) {
-            const lines = md.split('\n');
-            const start = lines.findIndex(l => l.startsWith(`## ${prefix}`));
-            if (start < 0) return [];
-            const items = [];
-            for (const line of lines.slice(start + 1)) {
-              if (line.startsWith('## ')) break;
-              if (line.startsWith('- ')) items.push(line);
-            }
-            return items;
-          }
-
-          /** 文件头：“> 一句话摘要”和“- 数据更新：…（北京时间）”这一行 */
-          const summaryOf = md => md.match(/^> (.+)$/m)?.[1] ?? '';
-          const updatedOf = md => (md.match(/^- 数据更新：(.+)$/m)?.[1] ?? '').split('；')[0];
+          /** 文件头“> 一句话摘要。来源：…”只取摘要；“- 数据更新：…”这一行取时间 */
+          const summaryOf = md => (md.match(/^> (.+)$/m)?.[1] ?? '').split('来源：')[0].trim();
+          const updatedOf = md => (md.match(/^- 数据更新：(.+)$/m)?.[1] ?? '').replace(/（.*$/, '');
 
           const home = await fetchMd('/');
           const relays = [];
-          for (const f of FAMILIES) relays.push({ ...f, md: await fetchMd(f.path) });
-          const updated = updatedOf(home);
-          const guides = listUnder(home, '省钱攻略');
+          for (const f of FAMILIES) relays.push({ ...f, path: `/relay/${f.slug}`, md: await fetchMd(`/relay/${f.slug}`) });
+          const updated = `${updatedOf(relays[0].md)}（北京时间）`;
 
           const intro = [
-            `> Claude Code、Codex、Cursor 怎么用最便宜？把官方订阅最低区、卡网代充与成品号、API 中转站三条路的实时价格放在一起比。数据来自 [TokenPrice](${SITE})（AI 编程省钱比价网站，每小时更新），本仓库每天自动同步一次。`,
+            `> 哪家 API 中转站最便宜？Claude、GPT（Codex）、Gemini、DeepSeek 等 8 个模型系列的中转站按实际倍率排名，附每百万词元（token）官方价与中转价。数据来自 [TokenPrice](${SITE})（API 中转站比价网站，每小时更新），本仓库每天自动同步一次。`,
             '',
             `数据更新：${updated} · 网页版：[tokenprice.cc](${SITE})`,
           ];
 
           const body = (relayLink) => [
-            '## 会员订阅：各档位今日最低价（人民币 / 月）',
+            '## 各模型系列：今日中转站倍率',
             '',
-            tableUnder(home, '会员订阅'),
+            tableUnder(home, '各模型系列中转站价格'),
             '',
-            '卡网价只算有货的标准商品（日抛、拼车这类非标商品不算）；“带质保”指写明质保 28 天以上。官方价按当天汇率折算。',
+            '实际倍率 = 充值倍率 × 分组倍率，即官方每 1 美元的用量在中转站要付多少人民币。最低价多是少数几家，参考中位数更稳。',
             '',
-            '## API 中转站：各模型系列今日倍率',
+            '## Claude：每百万词元价格（人民币）',
             '',
-            tableUnder(home, 'API 中转'),
-            '',
-            '倍率 = 充值系数 × 分组倍率，即官方每 1 美元的用量在中转站要花多少人民币；1x 约等于官方价的 1.5 折。最低价多是引流价，参考中位数更稳。',
+            tableUnder(relays[0].md, '每百万词元价格'),
             '',
             `## Claude 中转站：倍率最低的前 ${TOP_README} 名`,
             '',
             tableUnder(relays[0].md, '榜单', TOP_README),
             '',
-            `完整榜单（前 100 名，可按名字筛选）：[${SITE}/relay](${SITE}/relay)`,
+            `完整榜单：[${SITE}/relay/claude](${SITE}/relay/claude)`,
             '',
-            '## 各模型系列中转站价格榜',
+            '## 各模型系列中转站排行',
             '',
-            ...relays.map(f => `- [${f.name} API 中转站价格榜](${relayLink(f)})：${summaryOf(f.md)}`),
+            ...relays.map(f => `- [${f.name} API 中转站排行](${relayLink(f)})：${summaryOf(f.md)}`),
             '',
-            ...(guides.length ? ['## 省钱攻略', '', ...guides, ''] : []),
+            '## 指南',
+            '',
+            ...GUIDES.map(([title, path]) => `- [${title}](${SITE}${path})`),
+            '',
             '## 口径',
             '',
-            '- 中转站倍率读自各站公开的定价接口（New API、Sub2API、ai-transit 披露等），每小时采集；Claude / GPT / Gemini / Grok 低于 0.1x、其他模型低于 0.05x 的体验或引流分组不算，可用率低于 95% 的站不进榜。',
-            '- 标“官方合作”的中转站是 TokenPrice 的合作位，固定排第 1，不按倍率排，也不算进最低价和中位数。',
-            '- 卡网价只算有货的标准商品；官方价来自 App Store 和官网的公开价格。',
+            '- 中转站倍率读自各站公开的定价接口（New API、Sub2API 等），每小时采集；Claude / GPT / Gemini / Grok 低于 0.1x、其他模型低于 0.05x 的体验或引流分组不计入排名。',
+            '- 标“官方合作”的中转站与 TokenPrice 有合作或关联关系，固定排第 1，不按倍率排，也不算进最低价和中位数。',
+            '- 每百万词元中转价 = 官方美元价 × 该系列的最低 / 中位实际倍率。',
             '',
             '## 来源',
             '',
-            `数据来自 [TokenPrice](${SITE}) 的公开页面，转载请注明来源并附链接。价格仅供参考，购买和售后都在原平台完成；中转站请先小额测试。`,
+            `数据来自 [TokenPrice](${SITE}) 的公开页面，转载请注明来源并附链接。价格仅供参考，充值和售后都在各中转站完成，请先小额测试。`,
             '',
           ];
 
           const readme = [
-            '# AI 编程省钱比价：Claude Code / Codex 订阅代充与 API 中转站价格榜',
+            '# API 中转站比价：Claude、GPT、Gemini 中转倍率与每百万词元价格',
             '',
             ...intro,
             '',
@@ -150,7 +147,7 @@ jobs:
           const front = (title, description, permalink) => ['---', `title: "${title}"`, `description: "${description.replace(/"/g, '\\"')}"`, `permalink: ${permalink}`, '---', ''].join('\n');
 
           const indexPage = [
-            front('AI 编程省钱比价：Claude Code / Codex 订阅代充与 API 中转站价格榜', 'Claude Code、Codex 怎么用最便宜：官方订阅最低区、卡网代充、9 个模型系列的 API 中转站倍率，每日同步自 TokenPrice。', '/'),
+            front('API 中转站比价：Claude、GPT、Gemini 中转倍率与每百万词元价格', '哪家 API 中转站最便宜：8 个模型系列的中转站实际倍率排名和每百万词元价格，每日同步自 TokenPrice。', '/'),
             ...intro,
             '',
             ...body(f => `relay/${f.slug}/`),
@@ -158,8 +155,8 @@ jobs:
 
           // GitHub Pages（Jekyll）设置：表格按 GitHub 的写法渲染，自动生成站点地图和搜索引擎标签
           const pagesConfig = [
-            'title: AI 编程省钱比价 · 中转站价格榜',
-            'description: Claude Code、Codex 订阅代充与 9 个模型系列的 API 中转站价格，每日同步自 TokenPrice（tokenprice.cc）。',
+            'title: API 中转站比价 · 中转倍率与词元价格',
+            'description: Claude、GPT、Gemini、DeepSeek 等 8 个模型系列的 API 中转站实际倍率与每百万词元价格，每日同步自 TokenPrice（tokenprice.cc）。',
             'lang: zh-CN',
             'markdown: kramdown',
             'kramdown:',
@@ -175,22 +172,25 @@ jobs:
           await writeFile('docs/_config.yml', pagesConfig);
           await writeFile('README.md', readme);
           await writeFile('docs/index.md', indexPage);
+          // 已经下线的系列页（旧版有 MiniMax）删掉，免得网页上留着过期数据
+          await rm('docs/relay/minimax.md', { force: true });
           for (const f of relays) {
             const page = [
-              front(`${f.name} API 中转站价格榜（每日更新）`, summaryOf(f.md), `/relay/${f.slug}/`),
-              `# ${f.name} API 中转站价格榜`,
+              front(`${f.name} API 中转站排行（每日更新）`, summaryOf(f.md), `/relay/${f.slug}/`),
+              `# ${f.name} API 中转站排行`,
               '',
               `> ${summaryOf(f.md)}`,
               '',
-              `数据更新：${updatedOf(f.md)} · 数据来自 [TokenPrice](${SITE}${f.path})`,
+              `数据更新：${updatedOf(f.md)}（北京时间） · 数据来自 [TokenPrice](${SITE}${f.path})`,
               '',
+              ...(f.md.includes('## 每百万词元价格') ? ['## 每百万词元价格（人民币）', '', tableUnder(f.md, '每百万词元价格'), ''] : []),
               `## 倍率最低的前 ${TOP_PAGE} 名`,
               '',
               tableUnder(f.md, '榜单', TOP_PAGE),
               '',
-              `完整榜单（前 100 名）：[${SITE}${f.path}](${SITE}${f.path})`,
+              `完整榜单：[${SITE}${f.path}](${SITE}${f.path})`,
               '',
-              '倍率 = 充值系数 × 分组倍率，即官方每 1 美元的用量在这家花多少人民币。标“官方合作”的是 TokenPrice 的合作位，固定排第 1，不按倍率排。倍率低不代表是真模型，先小额测试。',
+              '实际倍率 = 充值倍率 × 分组倍率，即官方每 1 美元的用量在这家付多少人民币。标“官方合作”的固定排第 1，不参与排名。倍率低不代表是真模型，先小额测试。',
               '',
               '其他系列：' + relays.filter(x => x !== f).map(x => `[${x.name}](../${x.slug}/)`).join(' · ') + ' · [返回首页](../../)',
               '',

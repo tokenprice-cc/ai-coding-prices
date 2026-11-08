@@ -1,52 +1,60 @@
 ---
-title: "通义千问 Qwen API 中转站价格榜（每日更新）"
-description: "通义千问 Qwen 中转站今天最低 0.05x（约官方价的 0.07 折），812 家可比、中位 0.8x，按倍率、可用率、模型数排序，每小时更新。Qwen 也能接进 Claude Code。"
+title: "通义千问 Qwen API 中转站排行（每日更新）"
+description: "1,225 家支持 Qwen 的 API 中转站，实际倍率最低 0.05x，中位 0.8x。"
 permalink: /relay/qwen/
 ---
 
-# 通义千问 Qwen API 中转站价格榜
+# 通义千问 Qwen API 中转站排行
 
-> 通义千问 Qwen 中转站今天最低 0.05x（约官方价的 0.07 折），812 家可比、中位 0.8x，按倍率、可用率、模型数排序，每小时更新。Qwen 也能接进 Claude Code。
+> 1,225 家支持 Qwen 的 API 中转站，实际倍率最低 0.05x，中位 0.8x。
 
-数据更新：2026-11-05 15:48（北京时间） · 数据来自 [TokenPrice](https://tokenprice.cc/relay/qwen)
+数据更新：2026-11-08 15:19（北京时间） · 数据来自 [TokenPrice](https://tokenprice.cc/relay/qwen)
+
+## 每百万词元价格（人民币）
+
+| 模型 | 官方输入 | 官方输出 | 中转最低输入 | 中转最低输出 | 中转中位输入 | 中转中位输出 |
+| --- | --- | --- | --- | --- | --- | --- |
+| qwen3.8-max | ¥13.4 | ¥40.1 | ¥0.1 | ¥0.3 | ¥1.6 | ¥4.8 |
+| qwen3.8-flash | ¥1 | ¥3.14 | ¥0.01 | ¥0.02 | ¥0.12 | ¥0.38 |
+| qwen3.8-omni-flash | ¥1 | ¥3.14 | ¥0.01 | ¥0.02 | ¥0.12 | ¥0.38 |
 
 ## 倍率最低的前 30 名
 
-| # | 中转站 | 网址 | 倍率 | 最高分组 | 充值 | 系统 | 折合官方 | 可用率 |
-| --- | --- | --- | ---: | ---: | ---: | --- | --- | ---: |
-| 1 | KUNKUN AI API | https://ai.kunkun.chat | 0.05x | 0.05x | ¥0.02 = $1 | New API | 约官方价的 0.07 折 | 100% |
-| 2 | ZLKpro api | https://api.zlkpro.tech | 0.05x | 1x | ¥1 = $1 | New API | 约官方价的 0.07 折 | 100% |
-| 3 | 可达鸭鸭 API | https://ai.kdysite.cloud | 0.05x | 1x | ¥1 = $1 | New API | 约官方价的 0.07 折 | 100% |
-| 4 | 遂人 API | https://api.haokun.de | 0.05x | 1x | ¥1 = $1 | New API | 约官方价的 0.07 折 | 100% |
-| 5 | e-flowcode | https://api.e-flowcode.cc | 0.05x | 1x | ¥1 = $1 | New API | 约官方价的 0.07 折 | 100% |
-| 6 | 星渡 | https://xindu.xyz | 0.05x | 0.2x | ¥1 = $1 | Sub2API | 约官方价的 0.07 折 | 100% |
-| 7 | 百分之五 | https://ai.hdd.sb | 0.05x | 0.05x | ¥1 = $1 | New API | 约官方价的 0.07 折 | 100% |
-| 8 | Kimera奇美拉 API | https://kimera.cc | 0.05x | 0.13x | ¥1 = $1 | Sub2API | 约官方价的 0.07 折 | 100% |
-| 9 | Ccode API | https://api.ccode.vip | 0.05x | 0.7x | ¥1 = $1 | New API | 约官方价的 0.07 折 | 100% |
-| 10 | Sub2API | https://api.247kan.com | 0.05x | 0.1x | ¥1 = $1 | Sub2API | 约官方价的 0.07 折 | 100% |
-| 11 | 平价api | https://api.asdfas.party | 0.05x | 0.35x | ¥1 = $1 | Sub2API | 约官方价的 0.07 折 | 97% |
-| 12 | YUapi | https://yuaiapi.com | 0.06x | 0.3x | ¥1 = $1 | New API | 约官方价的 0.09 折 | 100% |
-| 13 | 52codeflow | https://apiv3.52codeflow.top | 0.06x | 1x | ¥1 = $1 | New API | 约官方价的 0.09 折 | 100% |
-| 14 | RelayCore | https://relaycore.cn | 0.06x | 0.39x | ¥1 = $1 | — | 约官方价的 0.09 折 | 100% |
-| 15 | tokenshop | https://tokenshop.homes | 0.06x | 0.06x | ¥1 = $1 | — | 约官方价的 0.09 折 | 100% |
-| 16 | YMeng CC | https://ymeng.cc | 0.06x | 0.06x | ¥1 = $1 | New API | 约官方价的 0.09 折 | 100% |
-| 17 | 热核算力 | https://api.codexhot.com | 0.06x | 0.08x | ¥1 = $1 | Sub2API | 约官方价的 0.09 折 | 100% |
-| 18 | RapidApi | https://rapidapi.cc | 0.06x | 0.15x | ¥1 = $1 | Sub2API | 约官方价的 0.09 折 | 100% |
-| 19 | ZZ API Console | https://zz1cc.cc.cd | 0.062x | 0.24x | ¥0.0621 = $1 | New API | 约官方价的 0.09 折 | 100% |
-| 20 | Shour token | https://tk.shour.bond | 0.065x | 0.25x | ¥1 = $1 | Sub2API | 约官方价的 0.1 折 | 100% |
-| 21 | abin | https://abinapi.com | 0.065x | 1.2x | ¥1 = $1 | Sub2API | 约官方价的 0.1 折 | 100% |
-| 22 | 凉热葵 | https://api.liangrekui.com | 0.065x | 1x | ¥1 = $1 | New API | 约官方价的 0.1 折 | 100% |
-| 23 | 钧临JunLin API | https://api-hub.asia | 0.07x | 0.12x | ¥1 = $1 | Sub2API | 约官方价的 0.1 折 | 100% |
-| 24 | AIAPIBANK | https://aiapibank.com | 0.07x | 0.5x | ¥1 = $1 | Sub2API | 约官方价的 0.1 折 | 100% |
-| 25 | llm-coding | https://llm-coding.space | 0.07x | 4.9x | ¥1 = $1 | Sub2API | 约官方价的 0.1 折 | 100% |
-| 26 | 德波尼亚 | https://deponia.me | 0.07x | 0.07x | ¥1 = $1 | Sub2API | 约官方价的 0.1 折 | 100% |
-| 27 | 智叶API | https://api.ziyelian.site | 0.07x | 0.12x | ¥1 = $1 | New API | 约官方价的 0.1 折 | 100% |
-| 28 | AllTokens | https://alltokens.cc | 0.07x | 1.5x | ¥1 = $1 | Sub2API | 约官方价的 0.1 折 | 100% |
-| 29 | 摆烂中转站 | https://api.bailan.store | 0.07x | 0.25x | ¥1 = $1 | Sub2API | 约官方价的 0.1 折 | 97% |
-| 30 | 主站 aabao.ai | https://api.aabao.ai | 0.075x | 0.15x | ¥0.14925373 = $1 | New API | 约官方价的 0.11 折 | 100% |
+| 排名 | 站点 | 网址 | 实际倍率 | 比中位 | 可用性 | 模型数 |
+| --- | --- | --- | --- | --- | --- | --- |
+| 1 | KUNKUN AI API | ai.kunkun.chat | 0.05x | -94% | 100% | 215 |
+| 2 | ZLKpro api | zlkpro.tech | 0.05x | -94% | 100% | 82 |
+| 3 | 可达鸭鸭 API | ai.kdysite.cloud | 0.05x | -94% | 100% | 78 |
+| 4 | 遂人 API | api.haokun.de | 0.05x | -94% | 100% | 69 |
+| 5 | 星渡 | xindu.xyz | 0.05x | -94% | 100% | 58 |
+| 6 | 百分之五 | ai.hdd.sb | 0.05x | -94% | 100% | 41 |
+| 7 | Kimera奇美拉 API | kimera.cc | 0.05x | -94% | 100% | 128 |
+| 8 | Ccode API | api.ccode.vip | 0.05x | -94% | 100% | 157 |
+| 9 | Sub2API | api.247kan.com | 0.05x | -94% | 100% | 178 |
+| 10 | 平价api | api.asdfas.party | 0.05x | -94% | 100% | 102 |
+| 11 | YUapi | yuaiapi.com | 0.06x | -93% | 100% | 150 |
+| 12 | Oreniva | api.oreniva.com | 0.06x | -93% | 100% | 113 |
+| 13 | 哈基米API | idc.hilxyo.cn | 0.06x | -93% | 100% | 96 |
+| 14 | RelayCore | api.relaycore.cn | 0.06x | -93% | 100% | 85 |
+| 15 | 梦幻API | mhapi.net | 0.06x | -93% | 100% | 63 |
+| 16 | 热核算力 | api.codexhot.com | 0.06x | -93% | 100% | 46 |
+| 17 | RapidApi | rapidapi.cc | 0.06x | -93% | 100% | 62 |
+| 18 | 一锅炖Ai | ai-api-router.manylisten.ccwu.cc | 0.06x | -93% | 100% | 41 |
+| 19 | 星宇Token Hub | vip.xyapi.club | 0.06x | -93% | 99% | 27 |
+| 20 | ZZ API Console | zz1cc.cc.cd | 0.062x | -92% | 100% | 69 |
+| 21 | Shour token | api-image.shour.bond | 0.065x | -92% | 100% | 66 |
+| 22 | abin | direct.abinapi.com | 0.065x | -92% | 100% | 52 |
+| 23 | 凉热葵 | api.liangrekui.com | 0.065x | -92% | 100% | 118 |
+| 24 | 钧临JunLin API | api-hub.asia | 0.07x | -91% | 100% | 210 |
+| 25 | AIAPIBANK | aiapibank.com | 0.07x | -91% | 100% | 122 |
+| 26 | llm-coding | llm-coding.space | 0.07x | -91% | 100% | 80 |
+| 27 | tokenshop | vvvvvip.tststs.shop | 0.07x | -91% | 100% | 60 |
+| 28 | Orbelis | nova.vcrauo.com | 0.07x | -91% | 100% | 148 |
+| 29 | 德波尼亚 | deponia.me | 0.07x | -91% | 100% | 48 |
+| 30 | 智叶API | api.ziyelian.site | 0.07x | -91% | 100% | 73 |
 
-完整榜单（前 100 名）：[https://tokenprice.cc/relay/qwen](https://tokenprice.cc/relay/qwen)
+完整榜单：[https://tokenprice.cc/relay/qwen](https://tokenprice.cc/relay/qwen)
 
-倍率 = 充值系数 × 分组倍率，即官方每 1 美元的用量在这家花多少人民币。标“官方合作”的是 TokenPrice 的合作位，固定排第 1，不按倍率排。倍率低不代表是真模型，先小额测试。
+实际倍率 = 充值倍率 × 分组倍率，即官方每 1 美元的用量在这家付多少人民币。标“官方合作”的固定排第 1，不参与排名。倍率低不代表是真模型，先小额测试。
 
-其他系列：[Claude](../claude/) · [GPT（Codex）](../gpt/) · [Gemini](../gemini/) · [DeepSeek](../deepseek/) · [智谱 GLM](../glm/) · [Kimi](../kimi/) · [MiniMax](../minimax/) · [Grok](../grok/) · [返回首页](../../)
+其他系列：[Claude](../claude/) · [GPT（Codex）](../gpt/) · [Gemini](../gemini/) · [Grok](../grok/) · [DeepSeek](../deepseek/) · [智谱 GLM](../glm/) · [Kimi](../kimi/) · [返回首页](../../)

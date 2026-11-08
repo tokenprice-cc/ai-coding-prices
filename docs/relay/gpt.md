@@ -1,52 +1,60 @@
 ---
-title: "GPT（Codex） API 中转站价格榜（每日更新）"
-description: "GPT 中转站今天最低 0.1x（约官方价的 0.15 折），2,095 家可比、中位 0.3x，按倍率、可用率、模型数排序，每小时更新。"
+title: "GPT（Codex） API 中转站排行（每日更新）"
+description: "3,048 家支持 GPT 的 API 中转站，实际倍率最低 0.1x，中位 0.35x。"
 permalink: /relay/gpt/
 ---
 
-# GPT（Codex） API 中转站价格榜
+# GPT（Codex） API 中转站排行
 
-> GPT 中转站今天最低 0.1x（约官方价的 0.15 折），2,095 家可比、中位 0.3x，按倍率、可用率、模型数排序，每小时更新。
+> 3,048 家支持 GPT 的 API 中转站，实际倍率最低 0.1x，中位 0.35x。
 
-数据更新：2026-11-06 10:47（北京时间） · 数据来自 [TokenPrice](https://tokenprice.cc/relay/gpt)
+数据更新：2026-11-08 15:19（北京时间） · 数据来自 [TokenPrice](https://tokenprice.cc/relay/gpt)
+
+## 每百万词元价格（人民币）
+
+| 模型 | 官方输入 | 官方输出 | 中转最低输入 | 中转最低输出 | 中转中位输入 | 中转中位输出 |
+| --- | --- | --- | --- | --- | --- | --- |
+| gpt-6.1-sol | ¥13.4 | ¥66.9 | ¥0.2 | ¥1 | ¥0.7 | ¥3.5 |
+| gpt-6.1-terra | ¥6.69 | ¥33.5 | ¥0.1 | ¥0.5 | ¥0.35 | ¥1.75 |
+| gpt-6-astra | ¥66.9 | ¥334.5 | ¥1 | ¥5 | ¥3.5 | ¥17.5 |
 
 ## 倍率最低的前 30 名
 
-| # | 中转站 | 网址 | 倍率 | 最高分组 | 充值 | 系统 | 折合官方 | 可用率 |
-| --- | --- | --- | ---: | ---: | ---: | --- | --- | ---: |
-| 1 | Pro API | https://newapi.prorisehub.com | 0.1x | 10x | ¥1 = $1 | New API | 约官方价的 0.15 折 | 100% |
-| 2 | Senera API | https://chat.senerapi.com | 0.1x | 2x | ¥1 = $1 | New API | 约官方价的 0.15 折 | 100% |
-| 3 | 深流 API | https://api.deepflowapi.com | 0.1x | 1.53x | ¥1 = $1 | New API | 约官方价的 0.15 折 | 100% |
-| 4 | OpenLux | https://api.openlux.ai | 0.1x | 0.9x | ¥1 = $1 | New API | 约官方价的 0.15 折 | 100% |
-| 5 | 圣诞老人AI | https://sd.santaa.ai | 0.1x | 0.1x | ¥1 = $1 | New API | 约官方价的 0.15 折 | 100% |
-| 6 | New API | https://apijing.com | 0.1x | 3.5x | ¥1 = $1 | New API | 约官方价的 0.15 折 | 100% |
-| 7 | 汪汪の中转站 | https://api.hyhawang.com | 0.1x | 3.2x | ¥1 = $1 | Sub2API | 约官方价的 0.15 折 | 100% |
-| 8 | 怪兽Chat | https://chat.openapi.wang | 0.1x | 5.32x | ¥1 = $1 | New API | 约官方价的 0.15 折 | 100% |
-| 9 | Pixel API | https://api.ai-pixel.online | 0.1x | 10x | ¥1 = $1 | New API | 约官方价的 0.15 折 | 100% |
-| 10 | AceAI | https://api-cn.aceai.space | 0.1x | 1x | ¥1 = $1 | Sub2API | 约官方价的 0.15 折 | 100% |
-| 11 | 6345ywz API | https://api.6345ywz.cn | 0.1x | 5x | ¥1 = $1 | New API | 约官方价的 0.15 折 | 100% |
-| 12 | 词元神 - 全球AI聚合平台 | https://api.ciyuanshen.top | 0.1x | 1x | ¥1 = $1 | New API | 约官方价的 0.15 折 | 100% |
-| 13 | 银子 API | https://api.yinziapi.top | 0.1x | 1.2x | ¥1 = $1 | New API | 约官方价的 0.15 折 | 100% |
-| 14 | BearLab AI | https://bearlab.space | 0.1x | 1x | ¥1 = $1 | New API | 约官方价的 0.15 折 | 100% |
-| 15 | 叮咚鸡 | https://api.nionio2026.xyz | 0.1x | 0.8x | ¥0.1 = $1 | New API | 约官方价的 0.15 折 | 100% |
-| 16 | API-Paths | https://apipaths.com | 0.1x | 1x | ¥1 = $1 | New API | 约官方价的 0.15 折 | 100% |
-| 17 | 夜总会 | https://api.yezonghui.org | 0.1x | 0.3x | ¥1 = $1 | Sub2API | 约官方价的 0.15 折 | 100% |
-| 18 | momo | https://momoapi.xin | 0.1x | 0.19x | ¥1 = $1 | New API | 约官方价的 0.15 折 | 100% |
-| 19 | 云影 API | https://yyapi.cloud | 0.1x | 0.7x | ¥1 = $1 | New API | 约官方价的 0.15 折 | 100% |
-| 20 | 6HU | https://open.6hu.cc | 0.1x | 0.1x | ¥1 = $1 | Sub2API | 约官方价的 0.15 折 | 100% |
-| 21 | 白白AI | https://chat.aiprox.net | 0.1x | 0.35x | ¥1 = $1 | Sub2API | 约官方价的 0.15 折 | 100% |
-| 22 | EthanCode | https://api.ethancode.xyz | 0.1x | 5x | ¥1 = $1 | New API | 约官方价的 0.15 折 | 100% |
-| 23 | AIAPIBANK | https://aiapibank.com | 0.1x | 0.5x | ¥1 = $1 | Sub2API | 约官方价的 0.15 折 | 100% |
-| 24 | 极算智枢 | https://apis.yiqidc.com | 0.1x | 0.5x | ¥1 = $1 | New API | 约官方价的 0.15 折 | 100% |
-| 25 | AI-ONE | https://ai-one.vip | 0.1x | 7.65x | ¥0.5 = $1 | New API | 约官方价的 0.15 折 | 100% |
-| 26 | PureAI | https://api.pureai.ink | 0.1x | 0.55x | ¥1 = $1 | Sub2API | 约官方价的 0.15 折 | 100% |
-| 27 | 超级稳定API | https://ai.gpt666claude.top | 0.1x | 1x | ¥1 = $1 | New API | 约官方价的 0.15 折 | 100% |
-| 28 | Oreniva | https://api.oreniva.com | 0.1x | 0.22x | ¥1 = $1 | Sub2API | 约官方价的 0.15 折 | 100% |
-| 29 | GreatWall Link | https://gwlink.cc | 0.1x | 1x | ¥1 = $1 | New API | 约官方价的 0.15 折 | 100% |
-| 30 | THQ API：最佳企业级 AI大模型中转站 | https://sub.thqllm.com | 0.1x | 0.6x | ¥1 = $1 | Sub2API | 约官方价的 0.15 折 | 100% |
+| 排名 | 站点 | 网址 | 实际倍率 | 比中位 | 可用性 | 模型数 |
+| --- | --- | --- | --- | --- | --- | --- |
+| 1 | Pro API | newapi.prorisehub.com | 0.1x | -71% | 100% | 825 |
+| 2 | Senera API | chat.senerapi.com | 0.1x | -71% | 100% | 345 |
+| 3 | OpenLux | api.openlux.ai | 0.1x | -71% | 100% | 329 |
+| 4 | 深流 API | api.deepflowapi.com | 0.1x | -71% | 100% | 329 |
+| 5 | New API | apijing.com | 0.1x | -71% | 100% | 295 |
+| 6 | 圣诞老人AI | sd.santaa.ai | 0.1x | -71% | 100% | 288 |
+| 7 | 怪兽Chat | chat.openapi.wang | 0.1x | -71% | 100% | 207 |
+| 8 | Pixel API | api.ai-pixel.online | 0.1x | -71% | 100% | 193 |
+| 9 | AceAI | api-cn.aceai.space | 0.1x | -71% | 100% | 187 |
+| 10 | 6345ywz API | api.6345ywz.cn | 0.1x | -71% | 100% | 182 |
+| 11 | 银子 API | api.yinziapi.top | 0.1x | -71% | 100% | 181 |
+| 12 | 词元神 - 全球AI聚合平台 | api.ciyuanshen.top | 0.1x | -71% | 100% | 180 |
+| 13 | mumu Router | code.gzkmdsj.cn | 0.1x | -71% | 100% | 163 |
+| 14 | momo | momoapi.xin | 0.1x | -71% | 100% | 152 |
+| 15 | 叮咚鸡 | api.nionio2026.xyz | 0.1x | -71% | 100% | 146 |
+| 16 | API-Paths | apipaths.com | 0.1x | -71% | 100% | 144 |
+| 17 | BearLab AI | bearlab.ai | 0.1x | -71% | 100% | 144 |
+| 18 | 夜总会 | api.yezonghui.org | 0.1x | -71% | 100% | 143 |
+| 19 | 汪汪の中转站 | api.hyhawang.com | 0.1x | -71% | 100% | 142 |
+| 20 | 8888 Api | 8888.name | 0.1x | -71% | 100% | 140 |
+| 21 | 云影 API | zl.yyapi.cloud | 0.1x | -71% | 100% | 135 |
+| 22 | 6HU | open.6hu.cc | 0.1x | -71% | 100% | 127 |
+| 23 | AIAPIBANK | aiapibank.com | 0.1x | -71% | 100% | 122 |
+| 24 | 极算智枢 | apis.yiqidc.com | 0.1x | -71% | 100% | 121 |
+| 25 | AI-ONE | ai-one.vip | 0.1x | -71% | 100% | 119 |
+| 26 | EthanCode | api.ethancode.xyz | 0.1x | -71% | 100% | 119 |
+| 27 | PureAI | api.pureai.ink | 0.1x | -71% | 100% | 115 |
+| 28 | 超级稳定API | ai.gpt666claude.top | 0.1x | -71% | 100% | 114 |
+| 29 | Oreniva | api.oreniva.com | 0.1x | -71% | 100% | 113 |
+| 30 | GreatWall Link | gwlink.cc | 0.1x | -71% | 100% | 109 |
 
-完整榜单（前 100 名）：[https://tokenprice.cc/relay/gpt](https://tokenprice.cc/relay/gpt)
+完整榜单：[https://tokenprice.cc/relay/gpt](https://tokenprice.cc/relay/gpt)
 
-倍率 = 充值系数 × 分组倍率，即官方每 1 美元的用量在这家花多少人民币。标“官方合作”的是 TokenPrice 的合作位，固定排第 1，不按倍率排。倍率低不代表是真模型，先小额测试。
+实际倍率 = 充值倍率 × 分组倍率，即官方每 1 美元的用量在这家付多少人民币。标“官方合作”的固定排第 1，不参与排名。倍率低不代表是真模型，先小额测试。
 
-其他系列：[Claude](../claude/) · [Gemini](../gemini/) · [DeepSeek](../deepseek/) · [智谱 GLM](../glm/) · [Kimi](../kimi/) · [通义千问 Qwen](../qwen/) · [MiniMax](../minimax/) · [Grok](../grok/) · [返回首页](../../)
+其他系列：[Claude](../claude/) · [Gemini](../gemini/) · [Grok](../grok/) · [DeepSeek](../deepseek/) · [智谱 GLM](../glm/) · [Kimi](../kimi/) · [通义千问 Qwen](../qwen/) · [返回首页](../../)

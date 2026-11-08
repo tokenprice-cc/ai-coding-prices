@@ -1,5 +1,5 @@
-title: AI 编程省钱比价 · 中转站价格榜
-description: Claude Code、Codex 订阅代充与 9 个模型系列的 API 中转站价格，每日同步自 TokenPrice（tokenprice.cc）。
+title: API 中转站比价 · 中转倍率与词元价格
+description: Claude、GPT、Gemini、DeepSeek 等 8 个模型系列的 API 中转站实际倍率与每百万词元价格，每日同步自 TokenPrice（tokenprice.cc）。
 lang: zh-CN
 markdown: kramdown
 kramdown:

@@ -1,57 +1,57 @@
 ---
 title: "智谱 GLM API 中转站排行（每日更新）"
-description: "1,953 家支持 GLM 的 API 中转站，实际倍率最低 0.05x，中位 0.61x。"
+description: "1,953 家支持 GLM 的 API 中转站，实际倍率最低 0.05x，中位 0.6x。"
 permalink: /relay/glm/
 ---
 
 # 智谱 GLM API 中转站排行
 
-> 1,953 家支持 GLM 的 API 中转站，实际倍率最低 0.05x，中位 0.61x。
+> 1,953 家支持 GLM 的 API 中转站，实际倍率最低 0.05x，中位 0.6x。
 
-数据更新：2026-11-08 15:19（北京时间） · 数据来自 [TokenPrice](https://tokenprice.cc/relay/glm)
+数据更新：2026-11-09 15:39（北京时间） · 数据来自 [TokenPrice](https://tokenprice.cc/relay/glm)
 
 ## 每百万词元价格（人民币）
 
 | 模型 | 官方输入 | 官方输出 | 中转最低输入 | 中转最低输出 | 中转中位输入 | 中转中位输出 |
 | --- | --- | --- | --- | --- | --- | --- |
-| glm-5.3 | ¥9.37 | ¥29.4 | ¥0.07 | ¥0.22 | ¥0.85 | ¥2.67 |
-| glm-5.3-flash | ¥1 | ¥3.35 | ¥0.01 | ¥0.03 | ¥0.09 | ¥0.3 |
-| glm-5v-turbo | ¥8.03 | ¥26.8 | ¥0.06 | ¥0.2 | ¥0.73 | ¥2.42 |
+| glm-5.3 | ¥9.35 | ¥29.4 | ¥0.07 | ¥0.22 | ¥0.84 | ¥2.64 |
+| glm-5.3-flash | ¥1 | ¥3.34 | ¥0.01 | ¥0.03 | ¥0.09 | ¥0.3 |
+| glm-5v-turbo | ¥8.02 | ¥26.7 | ¥0.06 | ¥0.2 | ¥0.72 | ¥2.4 |
 
 ## 倍率最低的前 30 名
 
 | 排名 | 站点 | 网址 | 实际倍率 | 比中位 | 可用性 | 模型数 |
 | --- | --- | --- | --- | --- | --- | --- |
 | 1 | KUNKUN AI API | ai.kunkun.chat | 0.05x | -92% | 100% | 215 |
-| 2 | VC | sub.vcnovb.cn | 0.05x | -92% | 100% | 201 |
-| 3 | Pixel API | api.ai-pixel.online | 0.05x | -92% | 100% | 193 |
-| 4 | ZLKpro api | zlkpro.tech | 0.05x | -92% | 100% | 82 |
+| 2 | VC | sub.vcnovb.cn | 0.05x | -92% | 100% | 193 |
+| 3 | ZLKpro api | zlkpro.tech | 0.05x | -92% | 100% | 82 |
+| 4 | Pixel API | api.ai-pixel.online | 0.05x | -92% | 100% | 79 |
 | 5 | 可达鸭鸭 API | ai.kdysite.cloud | 0.05x | -92% | 100% | 78 |
 | 6 | 遂人 API | api.haokun.de | 0.05x | -92% | 100% | 69 |
 | 7 | 百分之五 | ai.hdd.sb | 0.05x | -92% | 100% | 41 |
 | 8 | 星月API | api.xingyueapi.com | 0.05x | -92% | 100% | 40 |
-| 9 | Kunkunout API | api.kunkunout.com | 0.05x | -92% | 100% | 30 |
+| 9 | Kunkunout API | api.kunkunout.qzz.io | 0.05x | -92% | 100% | 30 |
 | 10 | TNTAPI | tntapi.com | 0.05x | -92% | 100% | 28 |
 | 11 | HUDAPI | api.hud.im | 0.05x | -92% | 100% | 25 |
-| 12 | Sub2API | qwer069.com | 0.05x | -92% | 100% | 19 |
-| 13 | Kimera奇美拉 API | kimera.cc | 0.05x | -92% | 100% | 128 |
-| 14 | Ccode API | api.ccode.vip | 0.05x | -92% | 100% | 157 |
+| 12 | Kimera奇美拉 API | kimera.cc | 0.05x | -92% | 100% | 130 |
+| 13 | Ccode API | api.ccode.vip | 0.05x | -92% | 100% | 157 |
+| 14 | Sub2API | api.247kan.com | 0.05x | -92% | 100% | 178 |
 | 15 | 星舟API | ai.070798.xyz | 0.05x | -92% | 100% | 48 |
 | 16 | GINKA API | api.ginka.cloud | 0.05x | -92% | 100% | 28 |
-| 17 | 421 | token.54421666.xyz | 0.05x | -92% | 100% | 34 |
-| 18 | 沉默API | hk.chenmoai.cn | 0.05x | -92% | 100% | 554 |
-| 19 | LeekBox | leekbox.ai | 0.05x | -92% | 100% | 55 |
-| 20 | 智叶API | api.ziyelian.site | 0.05x | -92% | 100% | 73 |
-| 21 | AI终点站 | wzhxiaozhan.top | 0.05x | -92% | 100% | 38 |
-| 22 | 平价api | api.asdfas.party | 0.05x | -92% | 100% | 102 |
-| 23 | 苹果社区AI站 | api2.mcapple.top | 0.05x | -92% | 100% | 146 |
-| 24 | 毛豆API | maodouapi.cc | 0.05x | -92% | 95% | 76 |
-| 25 | 墨羽AI | api.inktandwkx.top | 0.05x | -92% | 88% | 66 |
-| 26 | Lili API | api.lulili.online | 0.05x | -92% | 85% | 23 |
-| 27 | 方长 | aikey.top | 0.05x | -92% | 84% | 59 |
-| 28 | YUapi | yuaiapi.com | 0.06x | -90% | 100% | 150 |
-| 29 | Jasper | api.yjs.im | 0.06x | -90% | 100% | 146 |
-| 30 | 云影 API | zl.yyapi.cloud | 0.06x | -90% | 100% | 135 |
+| 17 | 沉默API | hk.chenmoai.cn | 0.05x | -92% | 100% | 555 |
+| 18 | 智叶API | api.ziyelian.site | 0.05x | -92% | 100% | 72 |
+| 19 | AI终点站 | wzhxiaozhan.top | 0.05x | -92% | 100% | 38 |
+| 20 | 平价api | api.asdfas.party | 0.05x | -92% | 100% | 102 |
+| 21 | 苹果社区AI站 | api.mcapple.top | 0.05x | -92% | 100% | 146 |
+| 22 | 毛豆API | maodouapi.cc | 0.05x | -92% | 99% | 76 |
+| 23 | Krisphyn API | api.krisphyn.cc | 0.05x | -92% | 97% | 120 |
+| 24 | 墨羽AI | api.inktandwkx.top | 0.05x | -92% | 97% | 66 |
+| 25 | 方长 | aikey.top | 0.05x | -92% | 96% | 59 |
+| 26 | Lili API | api.lulili.online | 0.05x | -92% | 58% | 23 |
+| 27 | 無忧 Ai | www.wuyouai.online | 0.06x | -90% | 100% | 225 |
+| 28 | YUapi | api.yuaiapi.com | 0.06x | -90% | 100% | 149 |
+| 29 | Jasper | api.yjs.im | 0.06x | -90% | 100% | 149 |
+| 30 | 云影 API | zl.yyapi.cloud | 0.06x | -90% | 100% | 133 |
 
 完整榜单：[https://tokenprice.cc/relay/glm](https://tokenprice.cc/relay/glm)
 

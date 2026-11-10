@@ -6,20 +6,20 @@ permalink: /
 
 > 哪家 API 中转站最便宜？Claude、GPT（Codex）、Gemini、DeepSeek 等 8 个模型系列的中转站按实际倍率排名，附每百万词元（token）官方价与中转价。数据来自 [TokenPrice](https://tokenprice.cc)（API 中转站比价网站，每小时更新），本仓库每天自动同步一次。
 
-数据更新：2026-11-09 15:39（北京时间） · 网页版：[tokenprice.cc](https://tokenprice.cc)
+数据更新：2026-11-10 16:36（北京时间） · 网页版：[tokenprice.cc](https://tokenprice.cc)
 
 ## 各模型系列：今日中转站倍率
 
 | 模型系列 | 支持站点 | 最低实际倍率 | 中位倍率 | 最便宜的几家 |
 | --- | --- | --- | --- | --- |
-| Claude | 2787 | 0.1x | 0.7x | [ClaudeHub](https://tokenprice.cc/llm-gateway/qinzhiai-com) 0.1x、[RouteEasy](https://tokenprice.cc/llm-gateway/routeeasy-ai) 0.1x、[momo](https://tokenprice.cc/llm-gateway/momoapi-xin) 0.1x |
-| GPT（Codex） | 3049 | 0.1x | 0.35x | [Pro API](https://tokenprice.cc/llm-gateway/newapi-prorisehub-com) 0.1x、[Senera API](https://tokenprice.cc/llm-gateway/chat-senerapi-com) 0.1x、[深流 API](https://tokenprice.cc/llm-gateway/deepflowapi-com) 0.1x |
-| Gemini | 2100 | 0.1x | 0.75x | [RouteEasy](https://tokenprice.cc/llm-gateway/routeeasy-ai) 0.1x、[6345ywz API](https://tokenprice.cc/llm-gateway/6345ywz-cn) 0.1x、[Offices AI](https://tokenprice.cc/llm-gateway/officesai-top) 0.1x |
-| Grok | 1861 | 0.1x | 0.35x | [deepkey.top](https://tokenprice.cc/llm-gateway/deepkey-top) 0.1x、[Whale API](https://tokenprice.cc/llm-gateway/open-xiaojingai-com) 0.1x、[AceAI](https://tokenprice.cc/llm-gateway/api-cn-aceai-space) 0.1x |
-| DeepSeek | 2268 | 0.05x | 0.6x | [VC](https://tokenprice.cc/llm-gateway/sub-vcnovb-cn) 0.05x、[momo](https://tokenprice.cc/llm-gateway/momoapi-xin) 0.05x、[ZLKpro api](https://tokenprice.cc/llm-gateway/zlkpro-tech) 0.05x |
-| GLM | 1953 | 0.05x | 0.6x | [KUNKUN AI API](https://tokenprice.cc/llm-gateway/ai-kunkun-chat) 0.05x、[VC](https://tokenprice.cc/llm-gateway/sub-vcnovb-cn) 0.05x、[ZLKpro api](https://tokenprice.cc/llm-gateway/zlkpro-tech) 0.05x |
-| Kimi | 1823 | 0.05x | 0.6x | [momo](https://tokenprice.cc/llm-gateway/momoapi-xin) 0.05x、[ZLKpro api](https://tokenprice.cc/llm-gateway/zlkpro-tech) 0.05x、[可达鸭鸭 API](https://tokenprice.cc/llm-gateway/ai-kdysite-cloud) 0.05x |
-| Qwen | 1226 | 0.05x | 0.8x | [KUNKUN AI API](https://tokenprice.cc/llm-gateway/ai-kunkun-chat) 0.05x、[ZLKpro api](https://tokenprice.cc/llm-gateway/zlkpro-tech) 0.05x、[可达鸭鸭 API](https://tokenprice.cc/llm-gateway/ai-kdysite-cloud) 0.05x |
+| Claude | 2783 | 0.1x | 0.7x | [ClaudeHub](https://tokenprice.cc/llm-gateway/qinzhiai-com) 0.1x、[RouteEasy](https://tokenprice.cc/llm-gateway/routeeasy-ai) 0.1x、[AceAI](https://tokenprice.cc/llm-gateway/api-cn-aceai-space) 0.1x |
+| GPT（Codex） | 3040 | 0.1x | 0.32x | [Pro API](https://tokenprice.cc/llm-gateway/newapi-prorisehub-com) 0.1x、[可乐AI](https://tokenprice.cc/llm-gateway/code28-ccwu-cc) 0.1x、[Senera API](https://tokenprice.cc/llm-gateway/chat-senerapi-com) 0.1x |
+| Gemini | 2102 | 0.1x | 0.75x | [RouteEasy](https://tokenprice.cc/llm-gateway/routeeasy-ai) 0.1x、[6345ywz API](https://tokenprice.cc/llm-gateway/6345ywz-cn) 0.1x、[Offices AI](https://tokenprice.cc/llm-gateway/officesai-top) 0.1x |
+| Grok | 1862 | 0.1x | 0.35x | [deepkey.top](https://tokenprice.cc/llm-gateway/us-deepkey-top) 0.1x、[AceAI](https://tokenprice.cc/llm-gateway/api-cn-aceai-space) 0.1x、[Whale API](https://tokenprice.cc/llm-gateway/open-xiaojingai-com) 0.1x |
+| DeepSeek | 2275 | 0.05x | 0.6x | [VC](https://tokenprice.cc/llm-gateway/sub-vcnovb-cn) 0.05x、[momo](https://tokenprice.cc/llm-gateway/momoapi-xin) 0.05x、[Jasper](https://tokenprice.cc/llm-gateway/yjs-im) 0.05x |
+| GLM | 1960 | 0.05x | 0.6x | [VC](https://tokenprice.cc/llm-gateway/sub-vcnovb-cn) 0.05x、[Jasper](https://tokenprice.cc/llm-gateway/yjs-im) 0.05x、[ZLKpro api](https://tokenprice.cc/llm-gateway/zlkpro-tech) 0.05x |
+| Kimi | 1833 | 0.05x | 0.6x | [momo](https://tokenprice.cc/llm-gateway/momoapi-xin) 0.05x、[Jasper](https://tokenprice.cc/llm-gateway/yjs-im) 0.05x、[ZLKpro api](https://tokenprice.cc/llm-gateway/zlkpro-tech) 0.05x |
+| Qwen | 1232 | 0.05x | 0.8x | [ZLKpro api](https://tokenprice.cc/llm-gateway/zlkpro-tech) 0.05x、[可达鸭鸭 API](https://tokenprice.cc/llm-gateway/ai-kdysite-cloud) 0.05x、[遂人 API](https://tokenprice.cc/llm-gateway/haokun-de) 0.05x |
 
 实际倍率 = 充值倍率 × 分组倍率，即官方每 1 美元的用量在中转站要付多少人民币。最低价多是少数几家，参考中位数更稳。
 
@@ -27,47 +27,47 @@ permalink: /
 
 | 模型 | 官方输入 | 官方输出 | 中转最低输入 | 中转最低输出 | 中转中位输入 | 中转中位输出 |
 | --- | --- | --- | --- | --- | --- | --- |
-| claude-fable-5-1 | ¥66.8 | ¥334 | ¥1 | ¥5 | ¥7 | ¥35 |
-| claude-opus-5-5 | ¥26.7 | ¥133.6 | ¥0.4 | ¥2 | ¥2.8 | ¥14 |
-| claude-sonnet-5-5 | ¥13.4 | ¥66.8 | ¥0.2 | ¥1 | ¥1.4 | ¥7 |
+| claude-fable-5-2 | ¥53.5 | ¥267.5 | ¥0.8 | ¥4 | ¥5.6 | ¥28 |
+| claude-opus-5-5 | ¥26.7 | ¥133.7 | ¥0.4 | ¥2 | ¥2.8 | ¥14 |
+| claude-sonnet-5-5 | ¥13.4 | ¥66.9 | ¥0.2 | ¥1 | ¥1.4 | ¥7 |
 
 ## Claude 中转站：倍率最低的前 20 名
 
 | 排名 | 站点 | 网址 | 实际倍率 | 比中位 | 可用性 | 模型数 |
 | --- | --- | --- | --- | --- | --- | --- |
-| 官方合作（固定第 1，不参与排名） | VM2 | vm2.pro | 0.68x | — | 100% | 3 |
-| 1 | ClaudeHub | qinzhiai.com | 0.1x | -86% | 100% | 589 |
-| 2 | RouteEasy | api.routeeasy.ai | 0.1x | -86% | 100% | 444 |
-| 3 | momo | momoapi.xin | 0.1x | -86% | 100% | 156 |
-| 4 | YUapi | api.yuaiapi.com | 0.1x | -86% | 100% | 149 |
+| 官方合作（固定第 1，不参与排名） | Sidrune AI | cn.sidrune.ai | 0.25x | — | 100% | 104 |
+| 官方合作（固定第 1，不参与排名） | VM2 | vm2.pro | 0.68x | — | 100% | 4 |
+| 1 | ClaudeHub | qinzhiai.com | 0.1x | -86% | 100% | 590 |
+| 2 | RouteEasy | api.routeeasy.ai | 0.1x | -86% | 100% | 446 |
+| 3 | AceAI | api-cn.aceai.space | 0.1x | -86% | 100% | 199 |
+| 4 | YUapi | yuaiapi.com | 0.1x | -86% | 100% | 150 |
 | 5 | 叮咚鸡 | api.nionio2026.xyz | 0.1x | -86% | 100% | 146 |
-| 6 | 夜总会 | api.yezonghui.org | 0.1x | -86% | 100% | 143 |
+| 6 | 云影 API | zl.yyapi.cloud | 0.1x | -86% | 100% | 139 |
 | 7 | 1024 TOKEN | api.1024token.xyz | 0.1x | -86% | 100% | 137 |
-| 8 | 云影 API | zl.yyapi.cloud | 0.1x | -86% | 100% | 133 |
-| 9 | 星盘 | xingpan.site | 0.1x | -86% | 100% | 130 |
-| 10 | Sixoner AI中转站 | sub.sixoner.com | 0.1x | -86% | 100% | 123 |
-| 11 | EthanCode | api.ethancode.xyz | 0.1x | -86% | 100% | 122 |
-| 12 | CaMeL ToB | b.kr777.top | 0.1x | -86% | 100% | 121 |
-| 13 | DragonAPI | cf.dragon3api.com | 0.1x | -86% | 100% | 121 |
-| 14 | PureAI | api.pureai.ink | 0.1x | -86% | 100% | 115 |
-| 15 | New API | xinfeng.best | 0.1x | -86% | 100% | 109 |
-| 16 | GreatWall Link | greatwalllink.top | 0.1x | -86% | 100% | 107 |
-| 17 | 零延API | sub.skypoem.top | 0.1x | -86% | 100% | 104 |
-| 18 | BuaGa API | buaga.dpdns.org | 0.1x | -86% | 100% | 101 |
-| 19 | MaiAI | mydamoxing.cn | 0.1x | -86% | 100% | 100 |
+| 8 | Sixoner AI中转站 | api.sixoner.com | 0.1x | -86% | 100% | 131 |
+| 9 | CaMeL ToB | b.kr777.top | 0.1x | -86% | 100% | 122 |
+| 10 | DragonAPI | cf.dragon3api.com | 0.1x | -86% | 100% | 121 |
+| 11 | EthanCode | api.ethancode.xyz | 0.1x | -86% | 100% | 117 |
+| 12 | PureAI | api.pureai.ink | 0.1x | -86% | 100% | 115 |
+| 13 | New API | xinfeng.best | 0.1x | -86% | 100% | 109 |
+| 14 | GreatWall Link | greatwalllink.top | 0.1x | -86% | 100% | 107 |
+| 15 | 零延API | sub.skypoem.top | 0.1x | -86% | 100% | 104 |
+| 16 | BuaGa API | buaga.dpdns.org | 0.1x | -86% | 100% | 102 |
+| 17 | MaiAI | maiai.ai | 0.1x | -86% | 100% | 101 |
+| 18 | codex666ai | api.codex666ai.com | 0.1x | -86% | 100% | 98 |
 
 完整榜单：[https://tokenprice.cc/relay/claude](https://tokenprice.cc/relay/claude)
 
 ## 各模型系列中转站排行
 
-- [Claude API 中转站排行](relay/claude/)：2,787 家支持 Claude 的 API 中转站，实际倍率最低 0.1x，中位 0.7x。
-- [GPT（Codex） API 中转站排行](relay/gpt/)：3,049 家支持 GPT 的 API 中转站，实际倍率最低 0.1x，中位 0.35x。
-- [Gemini API 中转站排行](relay/gemini/)：2,100 家支持 Gemini 的 API 中转站，实际倍率最低 0.1x，中位 0.75x。
-- [Grok API 中转站排行](relay/grok/)：1,860 家支持 Grok 的 API 中转站，实际倍率最低 0.1x，中位 0.35x。
-- [DeepSeek API 中转站排行](relay/deepseek/)：2,269 家支持 DeepSeek 的 API 中转站，实际倍率最低 0.05x，中位 0.6x。
-- [智谱 GLM API 中转站排行](relay/glm/)：1,953 家支持 GLM 的 API 中转站，实际倍率最低 0.05x，中位 0.6x。
-- [Kimi API 中转站排行](relay/kimi/)：1,823 家支持 Kimi 的 API 中转站，实际倍率最低 0.05x，中位 0.6x。
-- [通义千问 Qwen API 中转站排行](relay/qwen/)：1,227 家支持 Qwen 的 API 中转站，实际倍率最低 0.05x，中位 0.8x。
+- [Claude API 中转站排行](relay/claude/)：2,783 家支持 Claude 的 API 中转站，实际倍率最低 0.1x，中位 0.7x。
+- [GPT（Codex） API 中转站排行](relay/gpt/)：3,040 家支持 GPT 的 API 中转站，实际倍率最低 0.1x，中位 0.32x。
+- [Gemini API 中转站排行](relay/gemini/)：2,102 家支持 Gemini 的 API 中转站，实际倍率最低 0.1x，中位 0.75x。
+- [Grok API 中转站排行](relay/grok/)：1,862 家支持 Grok 的 API 中转站，实际倍率最低 0.1x，中位 0.35x。
+- [DeepSeek API 中转站排行](relay/deepseek/)：2,275 家支持 DeepSeek 的 API 中转站，实际倍率最低 0.05x，中位 0.6x。
+- [智谱 GLM API 中转站排行](relay/glm/)：1,960 家支持 GLM 的 API 中转站，实际倍率最低 0.05x，中位 0.6x。
+- [Kimi API 中转站排行](relay/kimi/)：1,833 家支持 Kimi 的 API 中转站，实际倍率最低 0.05x，中位 0.6x。
+- [通义千问 Qwen API 中转站排行](relay/qwen/)：1,232 家支持 Qwen 的 API 中转站，实际倍率最低 0.05x，中位 0.8x。
 
 ## 指南
 

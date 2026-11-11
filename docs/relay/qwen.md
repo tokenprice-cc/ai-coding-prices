@@ -1,14 +1,14 @@
 ---
 title: "通义千问 Qwen API 中转站排行（每日更新）"
-description: "1,232 家支持 Qwen 的 API 中转站，实际倍率最低 0.05x，中位 0.8x。"
+description: "1,227 家支持 Qwen 的 API 中转站，实际倍率最低 0.05x，中位 0.8x。"
 permalink: /relay/qwen/
 ---
 
 # 通义千问 Qwen API 中转站排行
 
-> 1,232 家支持 Qwen 的 API 中转站，实际倍率最低 0.05x，中位 0.8x。
+> 1,227 家支持 Qwen 的 API 中转站，实际倍率最低 0.05x，中位 0.8x。
 
-数据更新：2026-11-10 16:36（北京时间） · 数据来自 [TokenPrice](https://tokenprice.cc/relay/qwen)
+数据更新：2026-11-11 15:57（北京时间） · 数据来自 [TokenPrice](https://tokenprice.cc/relay/qwen)
 
 ## 每百万词元价格（人民币）
 
@@ -22,36 +22,36 @@ permalink: /relay/qwen/
 
 | 排名 | 站点 | 网址 | 实际倍率 | 比中位 | 可用性 | 模型数 |
 | --- | --- | --- | --- | --- | --- | --- |
-| 官方合作（固定第 1，不参与排名） | Sidrune AI | cn.sidrune.ai | 0.5x | — | 100% | 104 |
-| 1 | ZLKpro api | zlkpro.tech | 0.05x | -94% | 100% | 87 |
-| 2 | 可达鸭鸭 API | ai.kdysite.cloud | 0.05x | -94% | 100% | 79 |
-| 3 | 遂人 API | api.haokun.de | 0.05x | -94% | 100% | 70 |
-| 4 | 星渡 | xindu.xyz | 0.05x | -94% | 100% | 62 |
-| 5 | 百分之五 | ai.hdd.sb | 0.05x | -94% | 100% | 41 |
-| 6 | Kimera奇美拉 API | kimera.cc | 0.05x | -94% | 100% | 131 |
-| 7 | Ccode API | api.ccode.vip | 0.05x | -94% | 100% | 157 |
-| 8 | Sub2API | api.247kan.com | 0.05x | -94% | 100% | 196 |
-| 9 | 平价api | api.asdfas.party | 0.05x | -94% | 100% | 102 |
-| 10 | KUNKUN AI API | ai.saigou.work | 0.05x | -94% | 90% | 215 |
-| 11 | Aicca | ai.aicca.cc | 0.06x | -93% | 100% | 52 |
-| 12 | YUapi | yuaiapi.com | 0.06x | -93% | 100% | 150 |
-| 13 | 哈基米API | idc.hilxyo.cn | 0.06x | -93% | 100% | 96 |
-| 14 | 梦幻API | mhapi.net | 0.06x | -93% | 100% | 64 |
-| 15 | 热核算力 | api.codexhot.com | 0.06x | -93% | 100% | 46 |
-| 16 | 星宇Token Hub | vip.xyapi.club | 0.06x | -93% | 100% | 27 |
-| 17 | Krisphyn API | api.krisphyn.cc | 0.06x | -93% | 99% | 126 |
-| 18 | RapidApi | rapidapi.cc | 0.06x | -93% | 90% | 61 |
-| 19 | ZZ API Console | zz1cc.cc.cd | 0.062x | -92% | 100% | 69 |
-| 20 | Shour token | tk.shour.bond | 0.065x | -92% | 100% | 69 |
-| 21 | 凉热葵 | api.liangrekui.com | 0.065x | -92% | 100% | 125 |
-| 22 | 钧临JunLin API | api-hub.asia | 0.07x | -91% | 100% | 234 |
-| 23 | AIAPIBANK | aiapibank.com | 0.07x | -91% | 100% | 123 |
-| 24 | ThinkingCODE | thinkingcode.uk | 0.07x | -91% | 100% | 119 |
-| 25 | llm-coding | llm-coding.space | 0.07x | -91% | 100% | 80 |
-| 26 | tokenshop | tokenshop.homes | 0.07x | -91% | 100% | 61 |
-| 27 | Orbelis | nova.vcrauo.com | 0.07x | -91% | 100% | 149 |
-| 28 | 德波尼亚 | deponia.me | 0.07x | -91% | 100% | 53 |
-| 29 | 智叶API | api.ziyelian.site | 0.07x | -91% | 100% | 71 |
+| 官方合作（固定第 1，不参与排名） | Sidrune AI | cn.sidrune.ai | 0.5x | — | 100% | 105 |
+| 1 | ZLKpro api | api.zlkpro.tech | 0.05x | -94% | 100% | 92 |
+| 2 | 可达鸭鸭 API | ai.kdysite.cloud | 0.05x | -94% | 100% | 74 |
+| 3 | 遂人 API | api.haokun.de | 0.05x | -94% | 100% | 72 |
+| 4 | e-flowcode | e-flowcode.cc | 0.05x | -94% | 100% | 64 |
+| 5 | 星渡 | xindu.xyz | 0.05x | -94% | 100% | 63 |
+| 6 | 百分之五 | ai.hdd.sb | 0.05x | -94% | 100% | 41 |
+| 7 | Kimera奇美拉 API | kimera.cc | 0.05x | -94% | 100% | 135 |
+| 8 | Zenith AI | ai.daoyivip.com | 0.05x | -94% | 100% | 54 |
+| 9 | Ccode API | api.ccode.vip | 0.05x | -94% | 100% | 158 |
+| 10 | Sub2API | api.247kan.com | 0.05x | -94% | 100% | 197 |
+| 11 | 平价api | api.asdfas.party | 0.05x | -94% | 100% | 102 |
+| 12 | Aicca | ai.aicca.cc | 0.06x | -93% | 100% | 52 |
+| 13 | YUapi | api.yuaiapi.com | 0.06x | -93% | 100% | 150 |
+| 14 | AIAPIBANK | aiapibank.com | 0.06x | -93% | 100% | 123 |
+| 15 | 哈基米API | idc.hilxyo.cn | 0.06x | -93% | 100% | 96 |
+| 16 | 梦幻API | mhapi.net | 0.06x | -93% | 100% | 68 |
+| 17 | 热核算力 | api.codexhot.com | 0.06x | -93% | 100% | 55 |
+| 18 | 星宇Token Hub | vip.xyapi.club | 0.06x | -93% | 100% | 27 |
+| 19 | 鸡出没-API | xcmapi.org | 0.06x | -93% | 100% | 116 |
+| 20 | RapidApi | rapidapi.cc | 0.06x | -93% | 97% | 61 |
+| 21 | ZZ API Console | zz1cc.cc.cd | 0.062x | -92% | 100% | 69 |
+| 22 | Shour token | token.shour.top | 0.065x | -92% | 100% | 70 |
+| 23 | 凉热葵 | api.liangrekui.com | 0.065x | -92% | 100% | 126 |
+| 24 | 钧临JunLin API | api-hub.asia | 0.07x | -91% | 100% | 234 |
+| 25 | ThinkingCODE | thinkingcode.uk | 0.07x | -91% | 100% | 119 |
+| 26 | llm-coding | llm-coding.space | 0.07x | -91% | 100% | 77 |
+| 27 | tokenshop | vvvvvip.tststs.shop | 0.07x | -91% | 100% | 65 |
+| 28 | 德波尼亚 | deponia.me | 0.07x | -91% | 100% | 61 |
+| 29 | 智叶API | api.ziyelian.site | 0.07x | -91% | 100% | 74 |
 
 完整榜单：[https://tokenprice.cc/relay/qwen](https://tokenprice.cc/relay/qwen)
 

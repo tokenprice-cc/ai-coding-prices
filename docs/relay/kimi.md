@@ -1,14 +1,14 @@
 ---
 title: "Kimi API 中转站排行（每日更新）"
-description: "1,834 家支持 Kimi 的 API 中转站，实际倍率最低 0.05x，中位 0.6x。"
+description: "1,775 家支持 Kimi 的 API 中转站，实际倍率最低 0.05x，中位 0.6x。"
 permalink: /relay/kimi/
 ---
 
 # Kimi API 中转站排行
 
-> 1,834 家支持 Kimi 的 API 中转站，实际倍率最低 0.05x，中位 0.6x。
+> 1,775 家支持 Kimi 的 API 中转站，实际倍率最低 0.05x，中位 0.6x。
 
-数据更新：2026-11-11 15:57（北京时间） · 数据来自 [TokenPrice](https://tokenprice.cc/relay/kimi)
+数据更新：2026-11-12 16:35（北京时间） · 数据来自 [TokenPrice](https://tokenprice.cc/relay/kimi)
 
 ## 每百万词元价格（人民币）
 
@@ -16,7 +16,7 @@ permalink: /relay/kimi/
 | --- | --- | --- | --- | --- | --- | --- |
 | kimi-k3.1-pro | ¥13.4 | ¥66.9 | ¥0.1 | ¥0.5 | ¥1.2 | ¥6 |
 | kimi-k3 | ¥20.1 | ¥100.3 | ¥0.15 | ¥0.75 | ¥1.8 | ¥9 |
-| kimi-k2.7-code | ¥6.35 | ¥26.8 | ¥0.05 | ¥0.2 | ¥0.57 | ¥2.4 |
+| kimi-k2.7-code | ¥6.35 | ¥26.7 | ¥0.05 | ¥0.2 | ¥0.57 | ¥2.4 |
 
 ## 倍率最低的前 30 名
 
@@ -25,33 +25,33 @@ permalink: /relay/kimi/
 | 官方合作（固定第 1，不参与排名） | Sidrune AI | cn.sidrune.ai | 0.6x | — | 100% | 105 |
 | 官方合作（固定第 1，不参与排名） | VM2 | vm2.pro | 0.68x | — | 100% | 38 |
 | 1 | momo | momoapi.xin | 0.05x | -92% | 100% | 178 |
-| 2 | ZLKpro api | api.zlkpro.tech | 0.05x | -92% | 100% | 92 |
-| 3 | AIGC Pro | code.ezaigc.cn | 0.05x | -92% | 100% | 82 |
-| 4 | 可达鸭鸭 API | ai.kdysite.cloud | 0.05x | -92% | 100% | 74 |
-| 5 | Oreniva | api.oreniva.com | 0.05x | -92% | 100% | 72 |
+| 2 | ZLKpro api | zlkpro.tech | 0.05x | -92% | 100% | 93 |
+| 3 | AIGC Pro | eo.aigcpro.org | 0.05x | -92% | 100% | 84 |
+| 4 | 可达鸭鸭 API | ai.kdysite.cloud | 0.05x | -92% | 100% | 78 |
+| 5 | Oreniva | api.oreniva.com | 0.05x | -92% | 100% | 70 |
 | 6 | 百分之五 | ai.hdd.sb | 0.05x | -92% | 100% | 41 |
-| 7 | CHANG API | changapi.club | 0.05x | -92% | 100% | 34 |
+| 7 | CHANG API | changapi.club | 0.05x | -92% | 100% | 37 |
 | 8 | HUDAPI | api.hud.im | 0.05x | -92% | 100% | 25 |
 | 9 | Kimera奇美拉 API | kimera.cc | 0.05x | -92% | 100% | 135 |
-| 10 | Zenith AI | ai.daoyivip.com | 0.05x | -92% | 100% | 54 |
-| 11 | Ccode API | api.ccode.vip | 0.05x | -92% | 100% | 158 |
-| 12 | Sub2API | api.247kan.com | 0.05x | -92% | 100% | 197 |
-| 13 | 星舟API | ai.070798.xyz | 0.05x | -92% | 100% | 48 |
-| 14 | GINKA API | api.ginka.cloud | 0.05x | -92% | 100% | 29 |
-| 15 | 沉默API | hk.chenmoai.cn | 0.05x | -92% | 100% | 562 |
-| 16 | 智叶API | api.ziyelian.site | 0.05x | -92% | 100% | 74 |
-| 17 | 平价api | api.asdfas.party | 0.05x | -92% | 100% | 102 |
-| 18 | 毛豆API | maodouapi.cc | 0.05x | -92% | 100% | 76 |
-| 19 | Krisphyn API | api.krisphyn.cc | 0.05x | -92% | 100% | 141 |
-| 20 | 墨羽AI | api.inktandwkx.top | 0.05x | -92% | 100% | 74 |
+| 10 | Ccode API | api.ccode.vip | 0.05x | -92% | 100% | 157 |
+| 11 | Sub2API | api.247kan.com | 0.05x | -92% | 100% | 200 |
+| 12 | 星舟API | ai.070798.xyz | 0.05x | -92% | 100% | 48 |
+| 13 | GINKA API | api.ginka.cloud | 0.05x | -92% | 100% | 28 |
+| 14 | 沉默API | hk.chenmoai.cn | 0.05x | -92% | 100% | 572 |
+| 15 | 智叶API | api.ziyelian.site | 0.05x | -92% | 100% | 76 |
+| 16 | 平价api | api.asdfas.party | 0.05x | -92% | 100% | 104 |
+| 17 | 毛豆API | maodouapi.cc | 0.05x | -92% | 100% | 78 |
+| 18 | Krisphyn API | api.krisphyn.cc | 0.05x | -92% | 100% | 142 |
+| 19 | 墨羽AI | api.inktandwkx.top | 0.05x | -92% | 100% | 76 |
+| 20 | Pixel API | api.ai-pixel.online | 0.055x | -91% | 100% | 83 |
 | 21 | xem API | ai.xem8k5.top | 0.055x | -91% | 100% | 77 |
 | 22 | Super Subscribe | supersubscribe689.com | 0.057x | -91% | 100% | 191 |
-| 23 | Top API | topapi.io | 0.057x | -90% | 100% | 44 |
-| 24 | Aicca | ai.aicca.cc | 0.06x | -90% | 100% | 52 |
+| 23 | Top API | topapi.io | 0.057x | -90% | 100% | 45 |
+| 24 | Aicca | ai.aicca.cc | 0.06x | -90% | 100% | 54 |
 | 25 | YUapi | api.yuaiapi.com | 0.06x | -90% | 100% | 150 |
-| 26 | 哈基米API | idc.hilxyo.cn | 0.06x | -90% | 100% | 96 |
-| 27 | LLM Hub | llmhub.ltd | 0.06x | -90% | 100% | 86 |
-| 28 | Pixel API | api.ai-pixel.online | 0.06x | -90% | 100% | 82 |
+| 26 | bblabu算力中心 | api.bblabu.ai | 0.06x | -90% | 100% | 133 |
+| 27 | 哈基米API | idc.hilxyo.cn | 0.06x | -90% | 100% | 96 |
+| 28 | LLM Hub | llmhub.uk | 0.06x | -90% | 100% | 88 |
 
 完整榜单：[https://tokenprice.cc/relay/kimi](https://tokenprice.cc/relay/kimi)
 

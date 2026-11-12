@@ -1,14 +1,14 @@
 ---
 title: "智谱 GLM API 中转站排行（每日更新）"
-description: "1,958 家支持 GLM 的 API 中转站，实际倍率最低 0.05x，中位 0.6x。"
+description: "1,895 家支持 GLM 的 API 中转站，实际倍率最低 0.05x，中位 0.6x。"
 permalink: /relay/glm/
 ---
 
 # 智谱 GLM API 中转站排行
 
-> 1,958 家支持 GLM 的 API 中转站，实际倍率最低 0.05x，中位 0.6x。
+> 1,895 家支持 GLM 的 API 中转站，实际倍率最低 0.05x，中位 0.6x。
 
-数据更新：2026-11-11 15:57（北京时间） · 数据来自 [TokenPrice](https://tokenprice.cc/relay/glm)
+数据更新：2026-11-12 16:35（北京时间） · 数据来自 [TokenPrice](https://tokenprice.cc/relay/glm)
 
 ## 每百万词元价格（人民币）
 
@@ -16,7 +16,7 @@ permalink: /relay/glm/
 | --- | --- | --- | --- | --- | --- | --- |
 | glm-5.3 | ¥9.36 | ¥29.4 | ¥0.07 | ¥0.22 | ¥0.84 | ¥2.64 |
 | glm-5.3-flash | ¥1 | ¥3.34 | ¥0.01 | ¥0.03 | ¥0.09 | ¥0.3 |
-| glm-5v-turbo | ¥8.03 | ¥26.8 | ¥0.06 | ¥0.2 | ¥0.72 | ¥2.4 |
+| glm-5v-turbo | ¥8.02 | ¥26.7 | ¥0.06 | ¥0.2 | ¥0.72 | ¥2.4 |
 
 ## 倍率最低的前 30 名
 
@@ -25,33 +25,33 @@ permalink: /relay/glm/
 | 官方合作（固定第 1，不参与排名） | Sidrune AI | cn.sidrune.ai | 0.6x | — | 100% | 105 |
 | 官方合作（固定第 1，不参与排名） | VM2 | vm2.pro | 0.68x | — | 100% | 38 |
 | 1 | VC | sub.vcnovb.cn | 0.05x | -92% | 100% | 163 |
-| 2 | ZLKpro api | api.zlkpro.tech | 0.05x | -92% | 100% | 92 |
-| 3 | AIGC Pro | code.ezaigc.cn | 0.05x | -92% | 100% | 82 |
-| 4 | Pixel API | api.ai-pixel.online | 0.05x | -92% | 100% | 82 |
-| 5 | 可达鸭鸭 API | ai.kdysite.cloud | 0.05x | -92% | 100% | 74 |
-| 6 | Oreniva | api.oreniva.com | 0.05x | -92% | 100% | 72 |
-| 7 | 遂人 API | api.haokun.de | 0.05x | -92% | 100% | 72 |
-| 8 | e-flowcode | e-flowcode.cc | 0.05x | -92% | 100% | 64 |
+| 2 | ZLKpro api | zlkpro.tech | 0.05x | -92% | 100% | 93 |
+| 3 | AIGC Pro | eo.aigcpro.org | 0.05x | -92% | 100% | 84 |
+| 4 | Pixel API | api.ai-pixel.online | 0.05x | -92% | 100% | 83 |
+| 5 | 可达鸭鸭 API | ai.kdysite.cloud | 0.05x | -92% | 100% | 78 |
+| 6 | 遂人 API | api.haokun.de | 0.05x | -92% | 100% | 73 |
+| 7 | Oreniva | api.oreniva.com | 0.05x | -92% | 100% | 70 |
+| 8 | e-flowcode | api.e-flowcode.cc | 0.05x | -92% | 100% | 65 |
 | 9 | 百分之五 | ai.hdd.sb | 0.05x | -92% | 100% | 41 |
 | 10 | 星月API | api.xingyueapi.com | 0.05x | -92% | 100% | 40 |
 | 11 | TNTAPI | tntapi.com | 0.05x | -92% | 100% | 36 |
 | 12 | Kunkunout API | api.kunkunout.com | 0.05x | -92% | 100% | 30 |
 | 13 | HUDAPI | api.hud.im | 0.05x | -92% | 100% | 25 |
 | 14 | Kimera奇美拉 API | kimera.cc | 0.05x | -92% | 100% | 135 |
-| 15 | Zenith AI | ai.daoyivip.com | 0.05x | -92% | 100% | 54 |
-| 16 | Ccode API | api.ccode.vip | 0.05x | -92% | 100% | 158 |
-| 17 | Sub2API | api.247kan.com | 0.05x | -92% | 100% | 197 |
-| 18 | 星舟API | ai.070798.xyz | 0.05x | -92% | 100% | 48 |
-| 19 | GINKA API | api.ginka.cloud | 0.05x | -92% | 100% | 29 |
-| 20 | 沉默API | hk.chenmoai.cn | 0.05x | -92% | 100% | 562 |
-| 21 | 智叶API | api.ziyelian.site | 0.05x | -92% | 100% | 74 |
-| 22 | AI终点站 | wzhxiaozhan.top | 0.05x | -92% | 100% | 38 |
-| 23 | 平价api | api.asdfas.party | 0.05x | -92% | 100% | 102 |
-| 24 | 苹果社区AI站 | api.mcapple.top | 0.05x | -92% | 100% | 147 |
-| 25 | 毛豆API | maodouapi.cc | 0.05x | -92% | 100% | 76 |
-| 26 | Krisphyn API | api.krisphyn.cc | 0.05x | -92% | 100% | 141 |
-| 27 | 墨羽AI | api.inktandwkx.top | 0.05x | -92% | 100% | 74 |
-| 28 | 方长 | aikey.top | 0.05x | -92% | 99% | 60 |
+| 15 | Ccode API | api.ccode.vip | 0.05x | -92% | 100% | 157 |
+| 16 | Sub2API | api.247kan.com | 0.05x | -92% | 100% | 200 |
+| 17 | 星舟API | ai.070798.xyz | 0.05x | -92% | 100% | 48 |
+| 18 | GINKA API | api.ginka.cloud | 0.05x | -92% | 100% | 28 |
+| 19 | 沉默API | hk.chenmoai.cn | 0.05x | -92% | 100% | 572 |
+| 20 | 智叶API | api.ziyelian.site | 0.05x | -92% | 100% | 76 |
+| 21 | AI终点站 | wzhxiaozhan.top | 0.05x | -92% | 100% | 39 |
+| 22 | 平价api | api.asdfas.party | 0.05x | -92% | 100% | 104 |
+| 23 | 苹果社区AI站 | api.mcapple.top | 0.05x | -92% | 100% | 147 |
+| 24 | 毛豆API | maodouapi.cc | 0.05x | -92% | 100% | 78 |
+| 25 | Krisphyn API | api.krisphyn.cc | 0.05x | -92% | 100% | 142 |
+| 26 | 墨羽AI | api.inktandwkx.top | 0.05x | -92% | 100% | 76 |
+| 27 | 方长 | aikey.top | 0.05x | -92% | 100% | 61 |
+| 28 | Lili API | api.lulili.online | 0.05x | -92% | 36% | 25 |
 
 完整榜单：[https://tokenprice.cc/relay/glm](https://tokenprice.cc/relay/glm)
 

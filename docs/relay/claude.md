@@ -1,22 +1,22 @@
 ---
 title: "Claude API 中转站排行（每日更新）"
-description: "2,702 家支持 Claude 的 API 中转站，实际倍率最低 0.1x，中位 0.66x。"
+description: "2,693 家支持 Claude 的 API 中转站，实际倍率最低 0.1x，中位 0.65x。"
 permalink: /relay/claude/
 ---
 
 # Claude API 中转站排行
 
-> 2,702 家支持 Claude 的 API 中转站，实际倍率最低 0.1x，中位 0.66x。
+> 2,693 家支持 Claude 的 API 中转站，实际倍率最低 0.1x，中位 0.65x。
 
-数据更新：2026-11-14 15:33（北京时间） · 数据来自 [TokenPrice](https://tokenprice.cc/relay/claude)
+数据更新：2026-11-15 16:06（北京时间） · 数据来自 [TokenPrice](https://tokenprice.cc/relay/claude)
 
 ## 每百万词元价格（人民币）
 
 | 模型 | 官方输入 | 官方输出 | 中转最低输入 | 中转最低输出 | 中转中位输入 | 中转中位输出 |
 | --- | --- | --- | --- | --- | --- | --- |
-| claude-fable-5-2 | ¥53.5 | ¥267.4 | ¥0.8 | ¥4 | ¥5.26 | ¥26.3 |
-| claude-opus-5-5 | ¥26.7 | ¥133.7 | ¥0.4 | ¥2 | ¥2.63 | ¥13.1 |
-| claude-sonnet-5-5 | ¥13.4 | ¥66.9 | ¥0.2 | ¥1 | ¥1.31 | ¥6.57 |
+| claude-fable-5-2 | ¥53.5 | ¥267.4 | ¥0.8 | ¥4 | ¥5.2 | ¥26 |
+| claude-opus-5-5 | ¥26.7 | ¥133.7 | ¥0.4 | ¥2 | ¥2.6 | ¥13 |
+| claude-sonnet-5-5 | ¥13.4 | ¥66.8 | ¥0.2 | ¥1 | ¥1.3 | ¥6.5 |
 
 ## 倍率最低的前 30 名
 
@@ -26,32 +26,32 @@ permalink: /relay/claude/
 | 官方合作（固定第 1，不参与排名） | VM2 | vm2.pro | 1.2x | — | 100% | 45 |
 | 1 | ClaudeHub | qinzhiai.com | 0.1x | -85% | 100% | 590 |
 | 2 | RouteEasy | api.routeeasy.ai | 0.1x | -85% | 100% | 456 |
-| 3 | 圣诞老人AI | sd.santaa.ai | 0.1x | -85% | 100% | 244 |
-| 4 | 羊村 API | site.whyapi.top | 0.1x | -85% | 100% | 177 |
-| 5 | ZhongY API | ai.zyyun.xyz | 0.1x | -85% | 100% | 172 |
-| 6 | 夜总会 | api.yezonghui.org | 0.1x | -85% | 100% | 154 |
-| 7 | YUapi | api.yuaiapi.com | 0.1x | -85% | 100% | 150 |
-| 8 | 叮咚鸡 | api.nionio2026.xyz | 0.1x | -85% | 100% | 147 |
+| 3 | 圣诞老人AI | sd.santaa.ai | 0.1x | -85% | 100% | 196 |
+| 4 | 羊村 API | site.whyapi.top | 0.1x | -85% | 100% | 178 |
+| 5 | ZhongY API | ai.zhongygod.com | 0.1x | -85% | 100% | 175 |
+| 6 | YUapi | yuaiapi.com | 0.1x | -85% | 100% | 150 |
+| 7 | 叮咚鸡 | api.nionio2026.xyz | 0.1x | -85% | 100% | 147 |
+| 8 | EthanCode | api.ethancode.xyz | 0.1x | -85% | 100% | 138 |
 | 9 | 1024 TOKEN | api.1024token.xyz | 0.1x | -85% | 100% | 137 |
-| 10 | EthanCode | api.ethancode.xyz | 0.1x | -85% | 100% | 127 |
-| 11 | CaMeL ToB | b.kr777.top | 0.1x | -85% | 100% | 126 |
-| 12 | DragonAPI | cf.dragon3api.com | 0.1x | -85% | 100% | 126 |
-| 13 | GreatWall Link | greatwalllink.top | 0.1x | -85% | 100% | 119 |
-| 14 | PureAI | api.pureai.ink | 0.1x | -85% | 100% | 116 |
-| 15 | codex666ai | api.codex666ai.com | 0.1x | -85% | 100% | 108 |
-| 16 | New API | xinfeng.best | 0.1x | -85% | 100% | 106 |
-| 17 | 神盾 API | shendun.vip | 0.1x | -85% | 100% | 105 |
-| 18 | 河图 | api.hetune.top | 0.1x | -85% | 100% | 102 |
-| 19 | 星枢 AI | claudeaihub.cloud | 0.1x | -85% | 100% | 101 |
-| 20 | 零延API | sub.skypoem.top | 0.1x | -85% | 100% | 101 |
-| 21 | MaiAI | mydamoxing.cn | 0.1x | -85% | 100% | 98 |
-| 22 | ZLKpro api | zlkpro.tech | 0.1x | -85% | 100% | 96 |
-| 23 | xmapi | code.xmapi.cc | 0.1x | -85% | 100% | 95 |
-| 24 | OnlyCode | ai.realseek.wiki | 0.1x | -85% | 100% | 90 |
-| 25 | 小护 | new.vethra.top | 0.1x | -85% | 100% | 90 |
-| 26 | Sixoner AI中转站 | sub.sixoner.com | 0.1x | -85% | 100% | 85 |
-| 27 | AIGC Pro | code.ezaigc.cn | 0.1x | -85% | 100% | 84 |
-| 28 | YM2API 0号机 | yyds.chybenzun.top | 0.1x | -85% | 100% | 73 |
+| 10 | CaMeL ToB | b.kr777.top | 0.1x | -85% | 100% | 127 |
+| 11 | DragonAPI | cf.dragon3api.com | 0.1x | -85% | 100% | 126 |
+| 12 | PureAI | api.pureai.ink | 0.1x | -85% | 100% | 116 |
+| 13 | GreatWall Link | greatwalllink.top | 0.1x | -85% | 100% | 115 |
+| 14 | codex666ai | api.codex666ai.com | 0.1x | -85% | 100% | 111 |
+| 15 | 神盾 API | shendun.vip | 0.1x | -85% | 100% | 110 |
+| 16 | New API | xinfeng.best | 0.1x | -85% | 100% | 109 |
+| 17 | ZLKpro api | zlkpro.tech | 0.1x | -85% | 100% | 103 |
+| 18 | 星枢 AI | claudeaihub.cloud | 0.1x | -85% | 100% | 101 |
+| 19 | MaiAI | mydamoxing.cn | 0.1x | -85% | 100% | 98 |
+| 20 | xmapi | code.xmapi.cc | 0.1x | -85% | 100% | 95 |
+| 21 | 河图 | api.hetune.top | 0.1x | -85% | 100% | 95 |
+| 22 | OnlyCode | ai.realseek.wiki | 0.1x | -85% | 100% | 90 |
+| 23 | 小护 | new.vethra.top | 0.1x | -85% | 100% | 90 |
+| 24 | Sixoner AI中转站 | sub.sixoner.com | 0.1x | -85% | 100% | 88 |
+| 25 | AIGC Pro | eo.aigcpro.org | 0.1x | -85% | 100% | 84 |
+| 26 | YM2API 0号机 | yyds.chybenzun.top | 0.1x | -85% | 100% | 73 |
+| 27 | DuckCoding | www.duckcoding.ai | 0.1x | -85% | 100% | 72 |
+| 28 | SoulEcho AI 发电站⚡️ | ai.soulecho.cc | 0.1x | -85% | 100% | 65 |
 
 完整榜单：[https://tokenprice.cc/relay/claude](https://tokenprice.cc/relay/claude)
 

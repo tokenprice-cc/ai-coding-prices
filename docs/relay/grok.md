@@ -8,50 +8,50 @@ permalink: /relay/grok/
 
 > 1,791 家支持 Grok 的 API 中转站，实际倍率最低 0.1x，中位 0.3x。
 
-数据更新：2026-11-16 16:13（北京时间） · 数据来自 [TokenPrice](https://tokenprice.cc/relay/grok)
+数据更新：2026-11-17 17:26（北京时间） · 数据来自 [TokenPrice](https://tokenprice.cc/relay/grok)
 
 ## 每百万词元价格（人民币）
 
 | 模型 | 官方输入 | 官方输出 | 中转最低输入 | 中转最低输出 | 中转中位输入 | 中转中位输出 |
 | --- | --- | --- | --- | --- | --- | --- |
 | grok-4.7 | ¥13.4 | ¥40.1 | ¥0.2 | ¥0.6 | ¥0.6 | ¥1.8 |
-| grok-4.20-0309-non-reasoning | ¥8.36 | ¥16.7 | ¥0.13 | ¥0.25 | ¥0.38 | ¥0.75 |
-| grok-4.20-0309-reasoning | ¥8.36 | ¥16.7 | ¥0.13 | ¥0.25 | ¥0.38 | ¥0.75 |
+| grok-4.20-0309-reasoning | ¥8.35 | ¥16.7 | ¥0.13 | ¥0.25 | ¥0.38 | ¥0.75 |
+| grok-4.20-0309-non-reasoning | ¥8.35 | ¥16.7 | ¥0.13 | ¥0.25 | ¥0.38 | ¥0.75 |
 
 ## 倍率最低的前 30 名
 
 | 排名 | 站点 | 网址 | 实际倍率 | 比中位 | 可用性 | 模型数 |
 | --- | --- | --- | --- | --- | --- | --- |
-| 官方合作（固定第 1，不参与排名） | Sidrune AI | cn.sidrune.ai | 0.2x | — | 100% | 107 |
-| 1 | deepkey.top | deepkey.top | 0.1x | -67% | 100% | 331 |
-| 2 | Senera API | chat.senerapi.com | 0.1x | -67% | 100% | 211 |
-| 3 | Whale API | api.open.xiaojingai.com | 0.1x | -67% | 100% | 192 |
+| 官方合作（固定第 1，不参与排名） | Sidrune AI | cn.sidrune.ai | 0.2x | — | 100% | 109 |
+| 1 | deepkey.top | deepkey.top | 0.1x | -67% | 100% | 326 |
+| 2 | Senera API | chat.senerapi.com | 0.1x | -67% | 100% | 219 |
+| 3 | Whale API | api.open.xiaojingai.com | 0.1x | -67% | 100% | 191 |
 | 4 | 6345ywz API | api.6345ywz.cn | 0.1x | -67% | 100% | 184 |
-| 5 | CKF AI TECH 小鸡农场 | 68886868.xyz | 0.1x | -67% | 100% | 141 |
-| 6 | 神盾 API | shendun.vip | 0.1x | -67% | 100% | 113 |
-| 7 | 星枢 AI | claudeaihub.cloud | 0.1x | -67% | 100% | 103 |
-| 8 | ZLKpro api | api.zlkpro.tech | 0.1x | -67% | 100% | 102 |
-| 9 | CodeToken AI | api.tokenbits.net | 0.1x | -67% | 100% | 89 |
+| 5 | CKF AI TECH 小鸡农场 | ckffai.com | 0.1x | -67% | 100% | 159 |
+| 6 | 神盾 API | shendun.vip | 0.1x | -67% | 100% | 114 |
+| 7 | 星枢 AI | claudeaihub.cloud | 0.1x | -67% | 100% | 112 |
+| 8 | ZLKpro api | api.zlkpro.tech | 0.1x | -67% | 100% | 96 |
+| 9 | CodeToken AI | api.token-bits.com | 0.1x | -67% | 100% | 88 |
 | 10 | DDTokens | ddtnew.com | 0.1x | -67% | 100% | 88 |
-| 11 | Pixel API | api.ai-pixel.online | 0.1x | -67% | 100% | 86 |
-| 12 | JBB 金贝贝 | downstream.jbbtoken.cn | 0.1x | -67% | 100% | 80 |
-| 13 | DuckCoding | www.duckcoding.ai | 0.1x | -67% | 100% | 75 |
+| 11 | Pixel API | api.ai-pixel.online | 0.1x | -67% | 100% | 85 |
+| 12 | JBB 金贝贝 | jbbm1.pages.dev | 0.1x | -67% | 100% | 77 |
+| 13 | DuckCoding | api.duckcoding.ai | 0.1x | -67% | 100% | 75 |
 | 14 | LingxiCode | new.050602.xyz | 0.1x | -67% | 100% | 70 |
 | 15 | 不良人AI | buliangrenai.com | 0.1x | -67% | 100% | 64 |
-| 16 | nexfaro 探索科技 | ai.nexfaro.com | 0.1x | -67% | 100% | 59 |
+| 16 | nexfaro 探索科技 | ai.nexfaro.com | 0.1x | -67% | 100% | 62 |
 | 17 | 带派API | api.deepsb.com | 0.1x | -67% | 100% | 59 |
-| 18 | OKINTO 模型网关 | api.okinto.com | 0.1x | -67% | 100% | 58 |
-| 19 | 一元模型 | 1yapi.com | 0.1x | -67% | 100% | 58 |
-| 20 | AI_CLI | aicli.qzz.io | 0.1x | -67% | 100% | 55 |
-| 21 | Amux API | api.amux.ai | 0.1x | -67% | 100% | 55 |
-| 22 | BotNio | onefun.top | 0.1x | -67% | 100% | 55 |
-| 23 | 算舟云 | suanzhou.top | 0.1x | -67% | 100% | 55 |
+| 18 | 一元模型 | 1yapi.com | 0.1x | -67% | 100% | 58 |
+| 19 | 算舟云 | suanzhou.top | 0.1x | -67% | 100% | 57 |
+| 20 | OKINTO 模型网关 | api.okinto.com | 0.1x | -67% | 100% | 56 |
+| 21 | AI_CLI | aicli.qzz.io | 0.1x | -67% | 100% | 55 |
+| 22 | Amux API | api.amux.ai | 0.1x | -67% | 100% | 55 |
+| 23 | BotNio | onefun.top | 0.1x | -67% | 100% | 55 |
 | 24 | 鱼鱼连线 | app.yylx.io | 0.1x | -67% | 100% | 53 |
 | 25 | iai | api.zq4i.com | 0.1x | -67% | 100% | 47 |
 | 26 | 黑洞中转站 | text168.com | 0.1x | -67% | 100% | 47 |
-| 27 | ZZSwitch | api.zzswitch.com | 0.1x | -67% | 100% | 44 |
-| 28 | 赞AI | api.seanzan.com | 0.1x | -67% | 100% | 41 |
-| 29 | Husky API | pvpapi.com | 0.1x | -67% | 100% | 40 |
+| 27 | 赞AI | api.seanzan.com | 0.1x | -67% | 100% | 41 |
+| 28 | Husky API | pvpapi.com | 0.1x | -67% | 100% | 40 |
+| 29 | XingWan Club | tz.xingwan.store | 0.1x | -67% | 100% | 40 |
 
 完整榜单：[https://tokenprice.cc/relay/grok](https://tokenprice.cc/relay/grok)
 

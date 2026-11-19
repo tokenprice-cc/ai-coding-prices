@@ -1,14 +1,14 @@
 ---
 title: "GPT（Codex） API 中转站排行（每日更新）"
-description: "2,923 家支持 GPT 的 API 中转站，实际倍率最低 0.1x，中位 0.3x。"
+description: "2,905 家支持 GPT 的 API 中转站，实际倍率最低 0.1x，中位 0.3x。"
 permalink: /relay/gpt/
 ---
 
 # GPT（Codex） API 中转站排行
 
-> 2,923 家支持 GPT 的 API 中转站，实际倍率最低 0.1x，中位 0.3x。
+> 2,905 家支持 GPT 的 API 中转站，实际倍率最低 0.1x，中位 0.3x。
 
-数据更新：2026-11-18 16:49（北京时间） · 数据来自 [TokenPrice](https://tokenprice.cc/relay/gpt)
+数据更新：2026-11-19 17:02（北京时间） · 数据来自 [TokenPrice](https://tokenprice.cc/relay/gpt)
 
 ## 每百万词元价格（人民币）
 
@@ -22,36 +22,36 @@ permalink: /relay/gpt/
 
 | 排名 | 站点 | 网址 | 实际倍率 | 比中位 | 可用性 | 模型数 |
 | --- | --- | --- | --- | --- | --- | --- |
-| 官方合作（固定第 1，不参与排名） | Sidrune AI | cn.sidrune.ai | 0.1x | — | 100% | 113 |
-| 官方合作（固定第 1，不参与排名） | VM2 | vm2.pro | 0.12x | — | 100% | 45 |
-| 1 | 圣诞老人AI | sd.santaa.ai | 0.1x | -67% | 100% | 783 |
-| 2 | BeeHears | ai.beehears.com | 0.1x | -67% | 100% | 319 |
-| 3 | OpenLux | api.openlux.ai | 0.1x | -67% | 100% | 319 |
-| 4 | 深流 API | api.deepflowapi.com | 0.1x | -67% | 100% | 319 |
-| 5 | Senera API | chat.senerapi.com | 0.1x | -67% | 100% | 219 |
-| 6 | New API | apijing.com | 0.1x | -67% | 100% | 218 |
-| 7 | 银子 API | api.yinziapi.top | 0.1x | -67% | 100% | 192 |
-| 8 | 怪兽Chat | dkyx.chat | 0.1x | -67% | 100% | 191 |
-| 9 | 可乐AI | code28.ccwu.cc | 0.1x | -67% | 100% | 188 |
-| 10 | 6345ywz API | api.6345ywz.cn | 0.1x | -67% | 100% | 184 |
-| 11 | API-Paths | apipaths.com | 0.1x | -67% | 100% | 177 |
-| 12 | ZhongY API | ai.zhongygod.com | 0.1x | -67% | 100% | 174 |
-| 13 | 汪汪の中转站 | api.hyhawang.com | 0.1x | -67% | 100% | 158 |
-| 14 | AIAPIBANK | aiapibank.com | 0.1x | -67% | 100% | 134 |
-| 15 | 羚羊AI | mv88.cn | 0.1x | -67% | 100% | 133 |
-| 16 | BearLab AI | bearlab.ai | 0.1x | -67% | 100% | 130 |
-| 17 | DragonAPI | cf.dragon3api.com | 0.1x | -67% | 100% | 129 |
-| 18 | 云影 API | yyapi.cloud | 0.1x | -67% | 100% | 129 |
-| 19 | 6HU | open.6hu.cc | 0.1x | -67% | 100% | 127 |
-| 20 | 河图 | api.hetune.top | 0.1x | -67% | 100% | 121 |
-| 21 | PureAI | api.pureai.ink | 0.1x | -67% | 100% | 118 |
-| 22 | AI-ONE | ai-one.vip | 0.1x | -67% | 100% | 117 |
-| 23 | GreatWall Link | gwlink.cc | 0.1x | -67% | 100% | 114 |
-| 24 | Sidrune AI | fluxionai.space | 0.1x | -67% | 100% | 113 |
-| 25 | 星枢 AI | claudeaihub.cloud | 0.1x | -67% | 100% | 112 |
-| 26 | x-llm | x-llm.cc | 0.1x | -67% | 100% | 108 |
-| 27 | apikl.ai | api.apikl.ai | 0.1x | -67% | 100% | 104 |
-| 28 | Noot AI | noot.top | 0.1x | -67% | 100% | 104 |
+| 官方合作（固定第 1，不参与排名） | Sidrune AI | cn.sidrune.ai | 0.1x | — | 100% | 114 |
+| 官方合作（固定第 1，不参与排名） | VM2 | vm2.pro | 0.12x | — | 100% | 44 |
+| 1 | New API | apijing.com | 0.1x | -67% | 100% | 844 |
+| 2 | 圣诞老人AI | sd.santaa.ai | 0.1x | -67% | 100% | 644 |
+| 3 | WireGPT | console-wiregpt.originraft.com | 0.1x | -67% | 100% | 349 |
+| 4 | OpenLux | api.openlux.ai | 0.1x | -67% | 100% | 321 |
+| 5 | 深流 API | api.deepflowapi.com | 0.1x | -67% | 100% | 321 |
+| 6 | BeeHears | ai.beehears.com | 0.1x | -67% | 100% | 316 |
+| 7 | 良心 API | liangxinapi.top | 0.1x | -67% | 100% | 283 |
+| 8 | AI-ONE | ai-one.vip | 0.1x | -67% | 100% | 238 |
+| 9 | Senera API | chat.senerapi.com | 0.1x | -67% | 100% | 221 |
+| 10 | 可乐AI | code28.ccwu.cc | 0.1x | -67% | 100% | 203 |
+| 11 | 银子 API | api.yinziapi.top | 0.1x | -67% | 100% | 198 |
+| 12 | 怪兽Chat | dkyx.chat | 0.1x | -67% | 100% | 189 |
+| 13 | 6345ywz API | api.6345ywz.cn | 0.1x | -67% | 100% | 184 |
+| 14 | API-Paths | apipaths.com | 0.1x | -67% | 100% | 178 |
+| 15 | 汪汪の中转站 | api.hyhawang.com | 0.1x | -67% | 100% | 170 |
+| 16 | VC | sub.vcnovb.cn | 0.1x | -67% | 100% | 166 |
+| 17 | ZhongY API | ai.zyyun.xyz | 0.1x | -67% | 100% | 163 |
+| 18 | 河图 | api.hetune.top | 0.1x | -67% | 100% | 141 |
+| 19 | 羚羊AI | mv88.cn | 0.1x | -67% | 100% | 135 |
+| 20 | AIAPIBANK | aiapibank.com | 0.1x | -67% | 100% | 134 |
+| 21 | DragonAPI | cf.dragon3api.com | 0.1x | -67% | 100% | 134 |
+| 22 | 云影 API | yyapi.cloud | 0.1x | -67% | 100% | 129 |
+| 23 | 6HU | open.6hu.cc | 0.1x | -67% | 100% | 127 |
+| 24 | 星枢 AI | claudeaihub.cloud | 0.1x | -67% | 100% | 121 |
+| 25 | PureAI | api.pureai.ink | 0.1x | -67% | 100% | 118 |
+| 26 | GreatWall Link | gwlink.cc | 0.1x | -67% | 100% | 114 |
+| 27 | Sidrune AI | cn2.fluxionai.space | 0.1x | -67% | 100% | 114 |
+| 28 | ZLKpro api | api.zlkpro.tech | 0.1x | -67% | 100% | 110 |
 
 完整榜单：[https://tokenprice.cc/relay/gpt](https://tokenprice.cc/relay/gpt)
 

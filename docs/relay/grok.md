@@ -1,14 +1,14 @@
 ---
 title: "Grok API 中转站排行（每日更新）"
-description: "1,798 家支持 Grok 的 API 中转站，实际倍率最低 0.1x，中位 0.3x。"
+description: "1,789 家支持 Grok 的 API 中转站，实际倍率最低 0.1x，中位 0.3x。"
 permalink: /relay/grok/
 ---
 
 # Grok API 中转站排行
 
-> 1,798 家支持 Grok 的 API 中转站，实际倍率最低 0.1x，中位 0.3x。
+> 1,789 家支持 Grok 的 API 中转站，实际倍率最低 0.1x，中位 0.3x。
 
-数据更新：2026-11-20 16:19（北京时间） · 数据来自 [TokenPrice](https://tokenprice.cc/relay/grok)
+数据更新：2026-11-21 16:16（北京时间） · 数据来自 [TokenPrice](https://tokenprice.cc/relay/grok)
 
 ## 每百万词元价格（人民币）
 
@@ -22,36 +22,36 @@ permalink: /relay/grok/
 
 | 排名 | 站点 | 网址 | 实际倍率 | 比中位 | 可用性 | 模型数 |
 | --- | --- | --- | --- | --- | --- | --- |
-| 官方合作（固定第 1，不参与排名） | Sidrune AI | cn.sidrune.ai | 0.2x | — | 100% | 122 |
-| 1 | WireGPT | console-wiregpt.originraft.com | 0.1x | -67% | 100% | 349 |
-| 2 | deepkey.top | us.deepkey.top | 0.1x | -67% | 100% | 339 |
-| 3 | Senera API | chat.senerapi.com | 0.1x | -67% | 100% | 221 |
-| 4 | 6345ywz API | api.6345ywz.cn | 0.1x | -67% | 100% | 182 |
-| 5 | CKF AI TECH 小鸡农场 | api.ckff.tech | 0.1x | -67% | 100% | 152 |
-| 6 | 神盾 API | shendun.vip | 0.1x | -67% | 100% | 124 |
-| 7 | ZLKpro api | zlkpro.tech | 0.1x | -67% | 100% | 118 |
-| 8 | Pixel API | api.ai-pixel.online | 0.1x | -67% | 100% | 102 |
-| 9 | CodeToken AI | api.token-bits.com | 0.1x | -67% | 100% | 90 |
-| 10 | DuckCoding | www.duckcoding.ai | 0.1x | -67% | 100% | 83 |
-| 11 | JBB 金贝贝 | downstream.jbbtoken.cn | 0.1x | -67% | 100% | 76 |
+| 官方合作（固定第 1，不参与排名） | Sidrune AI | cn.sidrune.ai | 0.2x | — | 100% | 124 |
+| 1 | deepkey.top | us.deepkey.top | 0.1x | -67% | 100% | 350 |
+| 2 | WireGPT | console-wiregpt.originraft.com | 0.1x | -67% | 100% | 347 |
+| 3 | 6345ywz API | api.6345ywz.cn | 0.1x | -67% | 100% | 182 |
+| 4 | CKF AI TECH 小鸡农场 | api.ckff.tech | 0.1x | -67% | 100% | 160 |
+| 5 | 神盾 API | shendun.vip | 0.1x | -67% | 100% | 124 |
+| 6 | ZLKpro api | zlkpro.tech | 0.1x | -67% | 100% | 119 |
+| 7 | Pixel API | api.ai-pixel.online | 0.1x | -67% | 100% | 103 |
+| 8 | CodeToken AI | api.token-bits.com | 0.1x | -67% | 100% | 90 |
+| 9 | DuckCoding | www.duckcoding.ai | 0.1x | -67% | 100% | 83 |
+| 10 | JBB 金贝贝 | fc-bdu.pages.dev | 0.1x | -67% | 100% | 82 |
+| 11 | DDTokens | ddtnew.com | 0.1x | -67% | 100% | 72 |
 | 12 | LingxiCode | new.050602.xyz | 0.1x | -67% | 100% | 72 |
-| 13 | DDTokens | ddtnew.com | 0.1x | -67% | 100% | 69 |
-| 14 | 带派API | api.deepsb.com | 0.1x | -67% | 100% | 68 |
-| 15 | 一元模型 | 1yapi.com | 0.1x | -67% | 100% | 58 |
-| 16 | BotNio | onefun.top | 0.1x | -67% | 100% | 57 |
-| 17 | 算舟云 | suanzhou.top | 0.1x | -67% | 100% | 57 |
-| 18 | Amux API | api.amux.ai | 0.1x | -67% | 100% | 55 |
-| 19 | 鱼鱼连线 | app.yylx.io | 0.1x | -67% | 100% | 55 |
-| 20 | Husky API | pvpapi.com | 0.1x | -67% | 100% | 48 |
-| 21 | iai | api.zq4i.com | 0.1x | -67% | 100% | 48 |
-| 22 | OKINTO 模型网关 | api.okinto.com | 0.1x | -67% | 100% | 48 |
-| 23 | 黑洞中转站 | text168.com | 0.1x | -67% | 100% | 46 |
-| 24 | XingWan Club | xingwan.store | 0.1x | -67% | 100% | 42 |
-| 25 | 赞AI | api.seanzan.com | 0.1x | -67% | 100% | 41 |
-| 26 | MollyCloud | mollycloud.cn | 0.1x | -67% | 100% | 39 |
-| 27 | api123.top | api123.top | 0.1x | -67% | 100% | 38 |
-| 28 | 恒稳网关 | hhw1231.com | 0.1x | -67% | 100% | 38 |
-| 29 | nexfaro 探索科技 | ai.nexfaro.com | 0.1x | -67% | 100% | 36 |
+| 13 | 带派API | api.deepsb.com | 0.1x | -67% | 100% | 68 |
+| 14 | 一元模型 | 1yapi.com | 0.1x | -67% | 100% | 58 |
+| 15 | BotNio | onefun.top | 0.1x | -67% | 100% | 57 |
+| 16 | Amux API | api.amux.ai | 0.1x | -67% | 100% | 55 |
+| 17 | 鱼鱼连线 | app.yylx.io | 0.1x | -67% | 100% | 55 |
+| 18 | 算舟云 | suanzhou.top | 0.1x | -67% | 100% | 54 |
+| 19 | Husky API | pvpapi.com | 0.1x | -67% | 100% | 49 |
+| 20 | iai | api.zq4i.com | 0.1x | -67% | 100% | 48 |
+| 21 | OKINTO 模型网关 | api.okinto.com | 0.1x | -67% | 100% | 48 |
+| 22 | 黑洞中转站 | text168.com | 0.1x | -67% | 100% | 46 |
+| 23 | XingWan Club | xingwan.store | 0.1x | -67% | 100% | 42 |
+| 24 | 赞AI | api.seanzan.com | 0.1x | -67% | 100% | 41 |
+| 25 | MollyCloud | mollycloud.cn | 0.1x | -67% | 100% | 39 |
+| 26 | api123.top | api123.icu | 0.1x | -67% | 100% | 38 |
+| 27 | 恒稳网关 | hhw1231.com | 0.1x | -67% | 100% | 38 |
+| 28 | nexfaro 探索科技 | ai.nexfaro.com | 0.1x | -67% | 100% | 37 |
+| 29 | Macode | macode.cloud | 0.1x | -67% | 100% | 27 |
 
 完整榜单：[https://tokenprice.cc/relay/grok](https://tokenprice.cc/relay/grok)
 

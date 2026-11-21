@@ -1,14 +1,14 @@
 ---
 title: "DeepSeek API 中转站排行（每日更新）"
-description: "2,215 家支持 DeepSeek 的 API 中转站，实际倍率最低 0.05x，中位 0.55x。"
+description: "2,212 家支持 DeepSeek 的 API 中转站，实际倍率最低 0.05x，中位 0.55x。"
 permalink: /relay/deepseek/
 ---
 
 # DeepSeek API 中转站排行
 
-> 2,215 家支持 DeepSeek 的 API 中转站，实际倍率最低 0.05x，中位 0.55x。
+> 2,212 家支持 DeepSeek 的 API 中转站，实际倍率最低 0.05x，中位 0.55x。
 
-数据更新：2026-11-20 16:19（北京时间） · 数据来自 [TokenPrice](https://tokenprice.cc/relay/deepseek)
+数据更新：2026-11-21 16:16（北京时间） · 数据来自 [TokenPrice](https://tokenprice.cc/relay/deepseek)
 
 ## 每百万词元价格（人民币）
 
@@ -22,36 +22,36 @@ permalink: /relay/deepseek/
 
 | 排名 | 站点 | 网址 | 实际倍率 | 比中位 | 可用性 | 模型数 |
 | --- | --- | --- | --- | --- | --- | --- |
-| 官方合作（固定第 1，不参与排名） | Sidrune AI | cn.sidrune.ai | 0.5x | — | 100% | 122 |
-| 官方合作（固定第 1，不参与排名） | VM2 | vm2.pro | 1.2x | — | 100% | 44 |
-| 1 | ZLKpro api | zlkpro.tech | 0.05x | -91% | 100% | 118 |
-| 2 | Pixel API | api.ai-pixel.online | 0.05x | -91% | 100% | 102 |
-| 3 | 遂人 API | api.haokun.de | 0.05x | -91% | 100% | 80 |
-| 4 | 可达鸭鸭 API | ai.kdysite.cloud | 0.05x | -91% | 100% | 79 |
+| 官方合作（固定第 1，不参与排名） | Sidrune AI | cn.sidrune.ai | 0.5x | — | 100% | 124 |
+| 官方合作（固定第 1，不参与排名） | VM2 | vm2.pro | 1.2x | — | 100% | 42 |
+| 1 | ZLKpro api | zlkpro.tech | 0.05x | -91% | 100% | 119 |
+| 2 | Pixel API | api.ai-pixel.online | 0.05x | -91% | 100% | 103 |
+| 3 | 可达鸭鸭 API | ai.kdysite.cloud | 0.05x | -91% | 100% | 83 |
+| 4 | 遂人 API | api.haokun.de | 0.05x | -91% | 100% | 80 |
 | 5 | 灵栈AI | lingzhan.top | 0.05x | -91% | 100% | 73 |
 | 6 | ChooHub | choohub.net | 0.05x | -91% | 100% | 31 |
 | 7 | Kunkunout API | api.kunkunout.cn | 0.05x | -91% | 100% | 27 |
 | 8 | Sub2API | qwer069.com | 0.05x | -91% | 100% | 18 |
 | 9 | 百分之五 | ai.hdd.sb | 0.05x | -91% | 100% | 15 |
-| 10 | Kimera奇美拉 API | kimera.cc | 0.05x | -91% | 100% | 143 |
-| 11 | AI终点站 | wzhxiaozhan.top | 0.05x | -91% | 100% | 34 |
-| 12 | 平价api | api.asdfas.party | 0.05x | -91% | 100% | 86 |
-| 13 | 摆烂中转站 | api.bailan.store | 0.05x | -91% | 100% | 34 |
-| 14 | 方长 | aikey.top | 0.05x | -91% | 100% | 63 |
-| 15 | 421 | token.54421666.xyz | 0.05x | -91% | 100% | 42 |
-| 16 | S3AI API | api.furry.vg | 0.05x | -91% | 99% | 201 |
-| 17 | 德波尼亚 | deponia.me | 0.05x | -91% | 98% | 73 |
-| 18 | 毛豆API | maodouapi.cc | 0.05x | -91% | 96% | 82 |
-| 19 | 君悦心站 - 让人人都用得起token | api.jzgo.top | 0.05x | -91% | 94% | 41 |
-| 20 | 杂鱼API中转 | api.zayuapi.com | 0.05x | -91% | 94% | 120 |
-| 21 | RelayOne | aiapi.aiqji.cn | 0.05x | -91% | 90% | 1 |
-| 22 | 苹果社区AI站 | api.mcapple.top | 0.05x | -91% | 90% | 164 |
-| 23 | 七七Api | api.tmiaow.cn | 0.05x | -91% | 35% | 73 |
-| 24 | DD批发站 | ddl.ddpapi.top | 0.055x | -90% | 100% | 151 |
-| 25 | 鑫旺Neko API | 790053500.com | 0.055x | -90% | 100% | 108 |
-| 26 | Vector | huablog.xyz | 0.055x | -90% | 100% | 98 |
-| 27 | 猫肥Neko API | api.999555999.com | 0.055x | -90% | 100% | 72 |
-| 28 | 智叶API | api.ziyelian.site | 0.055x | -90% | 100% | 69 |
+| 10 | Kimera奇美拉 API | kimera.cc | 0.05x | -91% | 100% | 144 |
+| 11 | 二五云API | ai.idcidiot.com | 0.05x | -91% | 100% | 74 |
+| 12 | 星空 | cdn.api.inxk.com | 0.05x | -91% | 100% | 33 |
+| 13 | AI终点站 | wzhxiaozhan.top | 0.05x | -91% | 100% | 34 |
+| 14 | 平价api | api.asdfas.party | 0.05x | -91% | 100% | 86 |
+| 15 | 摆烂中转站 | api.bailan.store | 0.05x | -91% | 100% | 34 |
+| 16 | 方长 | aikey.top | 0.05x | -91% | 100% | 63 |
+| 17 | rua.chat | api.rua.chat | 0.05x | -91% | 100% | 236 |
+| 18 | 421 | token.54421666.xyz | 0.05x | -91% | 100% | 42 |
+| 19 | 德波尼亚 | deponia.me | 0.05x | -91% | 99% | 73 |
+| 20 | 君悦心站 - 让人人都用得起token | api.jzgo.top | 0.05x | -91% | 98% | 41 |
+| 21 | RelayOne | aiapi.aiqji.cn | 0.05x | -91% | 97% | 1 |
+| 22 | S3AI API | api.furry.vg | 0.05x | -91% | 94% | 198 |
+| 23 | 毛豆API | maodouapi.cc | 0.05x | -91% | 94% | 77 |
+| 24 | 杂鱼API中转 | api.zayuapi.com | 0.05x | -91% | 93% | 120 |
+| 25 | 苹果社区AI站 | api.mcapple.top | 0.05x | -91% | 89% | 165 |
+| 26 | DD批发站 | ddl.ddpapi.top | 0.055x | -90% | 100% | 149 |
+| 27 | 鑫旺Neko API | api.790053500.com | 0.055x | -90% | 100% | 108 |
+| 28 | Vector | huablog.xyz | 0.055x | -90% | 100% | 78 |
 
 完整榜单：[https://tokenprice.cc/relay/deepseek](https://tokenprice.cc/relay/deepseek)
 

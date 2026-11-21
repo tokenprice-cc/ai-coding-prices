@@ -1,14 +1,14 @@
 ---
 title: "Kimi API 中转站排行（每日更新）"
-description: "1,758 家支持 Kimi 的 API 中转站，实际倍率最低 0.05x，中位 0.6x。"
+description: "1,759 家支持 Kimi 的 API 中转站，实际倍率最低 0.05x，中位 0.6x。"
 permalink: /relay/kimi/
 ---
 
 # Kimi API 中转站排行
 
-> 1,758 家支持 Kimi 的 API 中转站，实际倍率最低 0.05x，中位 0.6x。
+> 1,759 家支持 Kimi 的 API 中转站，实际倍率最低 0.05x，中位 0.6x。
 
-数据更新：2026-11-20 16:19（北京时间） · 数据来自 [TokenPrice](https://tokenprice.cc/relay/kimi)
+数据更新：2026-11-21 16:16（北京时间） · 数据来自 [TokenPrice](https://tokenprice.cc/relay/kimi)
 
 ## 每百万词元价格（人民币）
 
@@ -22,36 +22,36 @@ permalink: /relay/kimi/
 
 | 排名 | 站点 | 网址 | 实际倍率 | 比中位 | 可用性 | 模型数 |
 | --- | --- | --- | --- | --- | --- | --- |
-| 官方合作（固定第 1，不参与排名） | Sidrune AI | cn.sidrune.ai | 0.6x | — | 100% | 122 |
-| 官方合作（固定第 1，不参与排名） | VM2 | vm2.pro | 1.2x | — | 100% | 44 |
-| 1 | momo | momoapi.xin | 0.05x | -92% | 100% | 178 |
-| 2 | ZLKpro api | zlkpro.tech | 0.05x | -92% | 100% | 118 |
-| 3 | Pixel API | api.ai-pixel.online | 0.05x | -92% | 100% | 102 |
-| 4 | 可达鸭鸭 API | ai.kdysite.cloud | 0.05x | -92% | 100% | 79 |
+| 官方合作（固定第 1，不参与排名） | Sidrune AI | cn.sidrune.ai | 0.6x | — | 100% | 124 |
+| 官方合作（固定第 1，不参与排名） | VM2 | vm2.pro | 1.2x | — | 100% | 42 |
+| 1 | momo | momoapi.xin | 0.05x | -92% | 100% | 174 |
+| 2 | ZLKpro api | zlkpro.tech | 0.05x | -92% | 100% | 119 |
+| 3 | Pixel API | api.ai-pixel.online | 0.05x | -92% | 100% | 103 |
+| 4 | 可达鸭鸭 API | ai.kdysite.cloud | 0.05x | -92% | 100% | 83 |
 | 5 | 灵栈AI | lingzhan.top | 0.05x | -92% | 100% | 73 |
 | 6 | Sub2API | qwer069.com | 0.05x | -92% | 100% | 18 |
 | 7 | 百分之五 | ai.hdd.sb | 0.05x | -92% | 100% | 15 |
-| 8 | AI算力超市 | aiapi.market | 0.05x | -92% | 100% | 226 |
-| 9 | Ccode API | api.ccode.vip | 0.05x | -92% | 100% | 171 |
-| 10 | Kimera奇美拉 API | kimera.cc | 0.05x | -92% | 100% | 143 |
-| 11 | 平价api | api.asdfas.party | 0.05x | -92% | 100% | 86 |
-| 12 | 德波尼亚 | deponia.me | 0.05x | -92% | 98% | 73 |
-| 13 | 毛豆API | maodouapi.cc | 0.05x | -92% | 96% | 82 |
-| 14 | 君悦心站 - 让人人都用得起token | api.jzgo.top | 0.05x | -92% | 94% | 41 |
-| 15 | 杂鱼API中转 | api.zayuapi.com | 0.05x | -92% | 94% | 120 |
-| 16 | 苹果社区AI站 | api.mcapple.top | 0.05x | -92% | 90% | 164 |
-| 17 | DD批发站 | ddl.ddpapi.top | 0.055x | -91% | 100% | 151 |
-| 18 | Super Subscribe | supersubscribe689.com | 0.057x | -91% | 100% | 191 |
-| 19 | Top API | topapi.io | 0.057x | -90% | 100% | 48 |
-| 20 | Aicca | ai.aicca.cc | 0.06x | -90% | 100% | 53 |
-| 21 | 河图 | api.hetune.top | 0.06x | -90% | 100% | 147 |
-| 22 | YUapi | yuaiapi.com | 0.06x | -90% | 100% | 142 |
-| 23 | LLM Hub | llmhub.ltd | 0.06x | -90% | 100% | 113 |
-| 24 | RelayCore | api-us.relaycore.cn | 0.06x | -90% | 100% | 100 |
-| 25 | 梦幻API | mhapi.net | 0.06x | -90% | 100% | 80 |
-| 26 | YMeng CC | ymeng.cc | 0.06x | -90% | 100% | 58 |
-| 27 | Z30 Ai | z30.top | 0.06x | -90% | 100% | 38 |
-| 28 | KELISIAPI | api.kelisiai.pro | 0.06x | -90% | 100% | 23 |
+| 8 | AI算力超市 | aiapi.market | 0.05x | -92% | 100% | 230 |
+| 9 | Ccode API | api.ccode.vip | 0.05x | -92% | 100% | 172 |
+| 10 | Kimera奇美拉 API | kimera.cc | 0.05x | -92% | 100% | 144 |
+| 11 | 二五云API | ai.idcidiot.com | 0.05x | -92% | 100% | 74 |
+| 12 | 平价api | api.asdfas.party | 0.05x | -92% | 100% | 86 |
+| 13 | rua.chat | api.rua.chat | 0.05x | -92% | 100% | 236 |
+| 14 | 德波尼亚 | deponia.me | 0.05x | -92% | 99% | 73 |
+| 15 | 君悦心站 - 让人人都用得起token | api.jzgo.top | 0.05x | -92% | 98% | 41 |
+| 16 | 毛豆API | maodouapi.cc | 0.05x | -92% | 94% | 77 |
+| 17 | 杂鱼API中转 | api.zayuapi.com | 0.05x | -92% | 93% | 120 |
+| 18 | 苹果社区AI站 | api.mcapple.top | 0.05x | -92% | 89% | 165 |
+| 19 | DD批发站 | ddl.ddpapi.top | 0.055x | -91% | 100% | 149 |
+| 20 | Super Subscribe | supersubscribe689.com | 0.057x | -91% | 100% | 191 |
+| 21 | Top API | topapi.io | 0.057x | -90% | 100% | 48 |
+| 22 | Aicca | ai.aicca.cc | 0.06x | -90% | 100% | 53 |
+| 23 | YUapi | yuaiapi.com | 0.06x | -90% | 100% | 143 |
+| 24 | ThinkingCODE | thinkingcode.uk | 0.06x | -90% | 100% | 126 |
+| 25 | 河图 | api.hetune.top | 0.06x | -90% | 100% | 122 |
+| 26 | LLM Hub | llmhub.uk | 0.06x | -90% | 100% | 109 |
+| 27 | RelayCore | api.relaycore.cn | 0.06x | -90% | 100% | 96 |
+| 28 | 梦幻API | mhapi.net | 0.06x | -90% | 100% | 80 |
 
 完整榜单：[https://tokenprice.cc/relay/kimi](https://tokenprice.cc/relay/kimi)
 

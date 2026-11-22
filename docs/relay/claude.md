@@ -1,14 +1,14 @@
 ---
 title: "Claude API 中转站排行（每日更新）"
-description: "2,676 家支持 Claude 的 API 中转站，实际倍率最低 0.1x，中位 0.65x。"
+description: "2,686 家支持 Claude 的 API 中转站，实际倍率最低 0.1x，中位 0.65x。"
 permalink: /relay/claude/
 ---
 
 # Claude API 中转站排行
 
-> 2,676 家支持 Claude 的 API 中转站，实际倍率最低 0.1x，中位 0.65x。
+> 2,686 家支持 Claude 的 API 中转站，实际倍率最低 0.1x，中位 0.65x。
 
-数据更新：2026-11-21 16:16（北京时间） · 数据来自 [TokenPrice](https://tokenprice.cc/relay/claude)
+数据更新：2026-11-22 16:19（北京时间） · 数据来自 [TokenPrice](https://tokenprice.cc/relay/claude)
 
 ## 每百万词元价格（人民币）
 
@@ -23,35 +23,35 @@ permalink: /relay/claude/
 | 排名 | 站点 | 网址 | 实际倍率 | 比中位 | 可用性 | 模型数 |
 | --- | --- | --- | --- | --- | --- | --- |
 | 官方合作（固定第 1，不参与排名） | Sidrune AI | cn.sidrune.ai | 0.25x | — | 100% | 124 |
-| 官方合作（固定第 1，不参与排名） | VM2 | vm2.pro | 1.2x | — | 100% | 42 |
+| 官方合作（固定第 1，不参与排名） | VM2 | vm2.pro | 1.2x | — | 100% | 41 |
 | 1 | ClaudeHub | qinzhiai.com | 0.1x | -85% | 100% | 590 |
 | 2 | RouteEasy | api.routeeasy.ai | 0.1x | -85% | 100% | 510 |
-| 3 | WireGPT | console-wiregpt.originraft.com | 0.1x | -85% | 100% | 347 |
-| 4 | ZhongY API | ai.zyyun.xyz | 0.1x | -85% | 100% | 176 |
-| 5 | 叮咚鸡 | api.nionio2026.xyz | 0.1x | -85% | 100% | 153 |
-| 6 | DD批发站 | ddl.ddpapi.top | 0.1x | -85% | 100% | 149 |
-| 7 | EthanCode | api.ethancode.xyz | 0.1x | -85% | 100% | 149 |
-| 8 | YUapi | yuaiapi.com | 0.1x | -85% | 100% | 143 |
-| 9 | 1024 TOKEN | api.1024token.xyz | 0.1x | -85% | 100% | 134 |
-| 10 | DragonAPI | cf.dragon3api.com | 0.1x | -85% | 100% | 131 |
-| 11 | CaMeL ToB | b.kr777.top | 0.1x | -85% | 100% | 126 |
-| 12 | 神盾 API | shendun.vip | 0.1x | -85% | 100% | 124 |
-| 13 | 河图 | api.hetune.top | 0.1x | -85% | 100% | 122 |
-| 14 | Sixoner AI中转站 | sub.sixoner.com | 0.1x | -85% | 100% | 120 |
-| 15 | ZLKpro api | zlkpro.tech | 0.1x | -85% | 100% | 119 |
-| 16 | PureAI | api.pureai.ink | 0.1x | -85% | 100% | 118 |
-| 17 | codex666ai | api.codex666ai.com | 0.1x | -85% | 100% | 115 |
-| 18 | GreatWall Link | greatwalllink.top | 0.1x | -85% | 100% | 112 |
-| 19 | 小护 | new.vethra.top | 0.1x | -85% | 100% | 106 |
-| 20 | apikl.ai | api.apikl.ai | 0.1x | -85% | 100% | 105 |
-| 21 | New API | xinfeng.best | 0.1x | -85% | 100% | 105 |
-| 22 | MaiAI | maiai.ai | 0.1x | -85% | 100% | 101 |
-| 23 | OnlyCode | ai.realseek.wiki | 0.1x | -85% | 100% | 95 |
-| 24 | 豆角API | apihub.hangfeizk.com | 0.1x | -85% | 100% | 94 |
-| 25 | 2xapi | wbtssfvj.kdns.fr | 0.1x | -85% | 100% | 91 |
-| 26 | 君の星辰 | ai.centos.hk | 0.1x | -85% | 100% | 86 |
-| 27 | DuckCoding | www.duckcoding.ai | 0.1x | -85% | 100% | 83 |
-| 28 | YM2API 0号机 | yyds.chybenzun.top | 0.1x | -85% | 100% | 73 |
+| 3 | deepkey.top | deepkey.top | 0.1x | -85% | 100% | 383 |
+| 4 | WireGPT | console-wiregpt.originraft.com | 0.1x | -85% | 100% | 347 |
+| 5 | ZhongY API | ai.zyyun.xyz | 0.1x | -85% | 100% | 161 |
+| 6 | DD批发站 | ddl.ddpapi.top | 0.1x | -85% | 100% | 151 |
+| 7 | 叮咚鸡 | api.nionio2026.xyz | 0.1x | -85% | 100% | 151 |
+| 8 | EthanCode | api.ethancode.xyz | 0.1x | -85% | 100% | 149 |
+| 9 | 河图 | api.hetune.top | 0.1x | -85% | 100% | 146 |
+| 10 | YUapi | api.yuaiapi.com | 0.1x | -85% | 100% | 143 |
+| 11 | DragonAPI | cf.dragon3api.com | 0.1x | -85% | 100% | 141 |
+| 12 | 1024 TOKEN | api.1024token.xyz | 0.1x | -85% | 100% | 134 |
+| 13 | CaMeL ToB | b.kr777.top | 0.1x | -85% | 100% | 130 |
+| 14 | 神盾 API | shendun.vip | 0.1x | -85% | 100% | 124 |
+| 15 | ZLKpro api | api.zlkpro.tech | 0.1x | -85% | 100% | 123 |
+| 16 | PureAI | api.pureai.ink | 0.1x | -85% | 100% | 119 |
+| 17 | Sixoner AI中转站 | api.sixoner.com | 0.1x | -85% | 100% | 119 |
+| 18 | codex666ai | codex666ai.com | 0.1x | -85% | 100% | 115 |
+| 19 | GreatWall Link | gwlink.cc | 0.1x | -85% | 100% | 113 |
+| 20 | 小护 | new.vethra.top | 0.1x | -85% | 100% | 106 |
+| 21 | 豆角API | apihub.hangfeizk.com | 0.1x | -85% | 100% | 106 |
+| 22 | apikl.ai | api.apikl.ai | 0.1x | -85% | 100% | 105 |
+| 23 | New API | xinfeng.best | 0.1x | -85% | 100% | 105 |
+| 24 | MaiAI | maiai.ai | 0.1x | -85% | 100% | 101 |
+| 25 | OnlyCode | ai.realseek.wiki | 0.1x | -85% | 100% | 95 |
+| 26 | 2xapi | wbtssfvj.kdns.fr | 0.1x | -85% | 100% | 91 |
+| 27 | 君の星辰 | ai.centos.hk | 0.1x | -85% | 100% | 86 |
+| 28 | DuckCoding | www.duckcoding.ai | 0.1x | -85% | 100% | 83 |
 
 完整榜单：[https://tokenprice.cc/relay/claude](https://tokenprice.cc/relay/claude)
 

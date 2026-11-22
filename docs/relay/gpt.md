@@ -1,14 +1,14 @@
 ---
 title: "GPT（Codex） API 中转站排行（每日更新）"
-description: "2,900 家支持 GPT 的 API 中转站，实际倍率最低 0.1x，中位 0.3x。"
+description: "2,907 家支持 GPT 的 API 中转站，实际倍率最低 0.1x，中位 0.3x。"
 permalink: /relay/gpt/
 ---
 
 # GPT（Codex） API 中转站排行
 
-> 2,900 家支持 GPT 的 API 中转站，实际倍率最低 0.1x，中位 0.3x。
+> 2,907 家支持 GPT 的 API 中转站，实际倍率最低 0.1x，中位 0.3x。
 
-数据更新：2026-11-21 16:16（北京时间） · 数据来自 [TokenPrice](https://tokenprice.cc/relay/gpt)
+数据更新：2026-11-22 16:10（北京时间） · 数据来自 [TokenPrice](https://tokenprice.cc/relay/gpt)
 
 ## 每百万词元价格（人民币）
 
@@ -23,35 +23,35 @@ permalink: /relay/gpt/
 | 排名 | 站点 | 网址 | 实际倍率 | 比中位 | 可用性 | 模型数 |
 | --- | --- | --- | --- | --- | --- | --- |
 | 官方合作（固定第 1，不参与排名） | Sidrune AI | cn.sidrune.ai | 0.1x | — | 100% | 124 |
-| 官方合作（固定第 1，不参与排名） | VM2 | vm2.pro | 0.12x | — | 100% | 42 |
-| 1 | 圣诞老人AI | sd.santaa.ai | 0.1x | -67% | 100% | 1174 |
-| 2 | New API | apijing.com | 0.1x | -67% | 100% | 885 |
+| 官方合作（固定第 1，不参与排名） | VM2 | vm2.pro | 0.12x | — | 100% | 41 |
+| 1 | 圣诞老人AI | sd.santaa.ai | 0.1x | -67% | 100% | 1179 |
+| 2 | New API | apijing.com | 0.1x | -67% | 100% | 849 |
 | 3 | WireGPT | console-wiregpt.originraft.com | 0.1x | -67% | 100% | 347 |
-| 4 | BeeHears | ai.beehears.com | 0.1x | -67% | 100% | 318 |
+| 4 | BeeHears | ai.beehears.com | 0.1x | -67% | 100% | 322 |
 | 5 | OpenLux | api.openlux.ai | 0.1x | -67% | 100% | 318 |
 | 6 | 深流 API | api.deepflowapi.com | 0.1x | -67% | 100% | 318 |
-| 7 | 良心 API | liangxinapi.top | 0.1x | -67% | 100% | 271 |
+| 7 | 良心 API | liangxinapi.top | 0.1x | -67% | 100% | 303 |
 | 8 | 可乐AI | code28.ccwu.cc | 0.1x | -67% | 100% | 211 |
-| 9 | 银子 API | api.yinziapi.top | 0.1x | -67% | 100% | 193 |
-| 10 | 怪兽Chat | chat.openapi.wang | 0.1x | -67% | 100% | 189 |
-| 11 | 词元神 - 全球AI聚合平台 | api.ciyuanshen.top | 0.1x | -67% | 100% | 185 |
-| 12 | 6345ywz API | api.6345ywz.cn | 0.1x | -67% | 100% | 182 |
-| 13 | ZhongY API | ai.zyyun.xyz | 0.1x | -67% | 100% | 176 |
-| 14 | 汪汪の中转站 | api.hyhawang.com | 0.1x | -67% | 100% | 174 |
-| 15 | DragonAPI | cf.dragon3api.com | 0.1x | -67% | 100% | 131 |
+| 9 | 怪兽Chat | dkyx.chat | 0.1x | -67% | 100% | 189 |
+| 10 | 6345ywz API | api.6345ywz.cn | 0.1x | -67% | 100% | 182 |
+| 11 | 汪汪の中转站 | api.hyhawang.com | 0.1x | -67% | 100% | 176 |
+| 12 | ZhongY API | ai.zhongygod.com | 0.1x | -67% | 100% | 161 |
+| 13 | DD批发站 | ddl.ddpapi.top | 0.1x | -67% | 100% | 151 |
+| 14 | 河图 | api.hetune.top | 0.1x | -67% | 100% | 146 |
+| 15 | DragonAPI | cf.dragon3api.com | 0.1x | -67% | 100% | 141 |
 | 16 | 6HU | open.6hu.cc | 0.1x | -67% | 100% | 127 |
-| 17 | Sidrune AI | sidrune.ai | 0.1x | -67% | 100% | 124 |
-| 18 | AI-ONE | ai-one.vip | 0.1x | -67% | 100% | 122 |
-| 19 | 河图 | api.hetune.top | 0.1x | -67% | 100% | 122 |
+| 17 | AI-ONE | ai-one.vip | 0.1x | -67% | 100% | 126 |
+| 18 | Sidrune AI | sidrune.ai | 0.1x | -67% | 100% | 124 |
+| 19 | ZLKpro api | zlkpro.tech | 0.1x | -67% | 100% | 123 |
 | 20 | 云影 API | zl.yyapi.cloud | 0.1x | -67% | 100% | 121 |
-| 21 | Sixoner AI中转站 | sub.sixoner.com | 0.1x | -67% | 100% | 120 |
-| 22 | ZLKpro api | zlkpro.tech | 0.1x | -67% | 100% | 119 |
-| 23 | PureAI | api.pureai.ink | 0.1x | -67% | 100% | 118 |
-| 24 | GreatWall Link | greatwalllink.top | 0.1x | -67% | 100% | 112 |
-| 25 | x-llm | x-llm.cc | 0.1x | -67% | 100% | 106 |
+| 21 | PureAI | api.pureai.ink | 0.1x | -67% | 100% | 119 |
+| 22 | Sixoner AI中转站 | sub.sixoner.com | 0.1x | -67% | 100% | 119 |
+| 23 | GreatWall Link | greatwalllink.top | 0.1x | -67% | 100% | 113 |
+| 24 | x-llm | x-llm.cc | 0.1x | -67% | 100% | 106 |
+| 25 | 豆角API | apihub.hangfeizk.com | 0.1x | -67% | 100% | 106 |
 | 26 | apikl.ai | api.apikl.ai | 0.1x | -67% | 100% | 105 |
 | 27 | Pixel API | api.ai-pixel.online | 0.1x | -67% | 100% | 103 |
-| 28 | 西米露 | api.zzlye.xyz | 0.1x | -67% | 100% | 100 |
+| 28 | 西米露 | api.zzlye.xyz | 0.1x | -67% | 100% | 101 |
 
 完整榜单：[https://tokenprice.cc/relay/gpt](https://tokenprice.cc/relay/gpt)
 

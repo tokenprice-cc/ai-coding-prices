@@ -1,14 +1,14 @@
 ---
 title: "智谱 GLM API 中转站排行（每日更新）"
-description: "1,869 家支持 GLM 的 API 中转站，实际倍率最低 0.05x，中位 0.6x。"
+description: "1,872 家支持 GLM 的 API 中转站，实际倍率最低 0.05x，中位 0.6x。"
 permalink: /relay/glm/
 ---
 
 # 智谱 GLM API 中转站排行
 
-> 1,869 家支持 GLM 的 API 中转站，实际倍率最低 0.05x，中位 0.6x。
+> 1,872 家支持 GLM 的 API 中转站，实际倍率最低 0.05x，中位 0.6x。
 
-数据更新：2026-11-21 16:16（北京时间） · 数据来自 [TokenPrice](https://tokenprice.cc/relay/glm)
+数据更新：2026-11-22 16:19（北京时间） · 数据来自 [TokenPrice](https://tokenprice.cc/relay/glm)
 
 ## 每百万词元价格（人民币）
 
@@ -23,35 +23,35 @@ permalink: /relay/glm/
 | 排名 | 站点 | 网址 | 实际倍率 | 比中位 | 可用性 | 模型数 |
 | --- | --- | --- | --- | --- | --- | --- |
 | 官方合作（固定第 1，不参与排名） | Sidrune AI | cn.sidrune.ai | 0.6x | — | 100% | 124 |
-| 官方合作（固定第 1，不参与排名） | VM2 | vm2.pro | 1.2x | — | 100% | 42 |
-| 1 | VC | sub.vcnovb.cn | 0.05x | -92% | 100% | 175 |
-| 2 | ZLKpro api | zlkpro.tech | 0.05x | -92% | 100% | 119 |
-| 3 | Pixel API | api.ai-pixel.online | 0.05x | -92% | 100% | 103 |
-| 4 | 可达鸭鸭 API | ai.kdysite.cloud | 0.05x | -92% | 100% | 83 |
-| 5 | 遂人 API | api.haokun.de | 0.05x | -92% | 100% | 80 |
-| 6 | 灵栈AI | lingzhan.top | 0.05x | -92% | 100% | 73 |
-| 7 | 星月API | api.xingyueapi.com | 0.05x | -92% | 100% | 43 |
-| 8 | Kunkunout API | api.kunkunout.cn | 0.05x | -92% | 100% | 27 |
-| 9 | Sub2API | qwer069.com | 0.05x | -92% | 100% | 18 |
-| 10 | 百分之五 | ai.hdd.sb | 0.05x | -92% | 100% | 15 |
-| 11 | Ccode API | api.ccode.vip | 0.05x | -92% | 100% | 172 |
-| 12 | Kimera奇美拉 API | kimera.cc | 0.05x | -92% | 100% | 144 |
-| 13 | AI终点站 | wzhxiaozhan.top | 0.05x | -92% | 100% | 34 |
-| 14 | 平价api | api.asdfas.party | 0.05x | -92% | 100% | 86 |
-| 15 | 摆烂中转站 | api.bailan.store | 0.05x | -92% | 100% | 34 |
-| 16 | 方长 | aikey.top | 0.05x | -92% | 100% | 63 |
-| 17 | TNTAPI | tntapi.com | 0.05x | -92% | 100% | 63 |
-| 18 | 德波尼亚 | deponia.me | 0.05x | -92% | 99% | 73 |
-| 19 | 君悦心站 - 让人人都用得起token | api.jzgo.top | 0.05x | -92% | 98% | 41 |
-| 20 | 毛豆API | maodouapi.cc | 0.05x | -92% | 94% | 77 |
-| 21 | 杂鱼API中转 | api.zayuapi.com | 0.05x | -92% | 93% | 120 |
-| 22 | 苹果社区AI站 | api.mcapple.top | 0.05x | -92% | 89% | 165 |
-| 23 | DD批发站 | ddl.ddpapi.top | 0.055x | -91% | 100% | 149 |
-| 24 | Vector | huablog.xyz | 0.055x | -91% | 100% | 78 |
-| 25 | Aicca | ai.aicca.cc | 0.06x | -90% | 100% | 53 |
-| 26 | YUapi | yuaiapi.com | 0.06x | -90% | 100% | 143 |
-| 27 | ThinkingCODE | thinkingcode.uk | 0.06x | -90% | 100% | 126 |
-| 28 | 河图 | api.hetune.top | 0.06x | -90% | 100% | 122 |
+| 官方合作（固定第 1，不参与排名） | VM2 | vm2.pro | 1.2x | — | 100% | 41 |
+| 1 | VC | sub.vcnovb.cn | 0.05x | -92% | 100% | 173 |
+| 2 | 秋API | vulcanapi.com | 0.05x | -92% | 100% | 134 |
+| 3 | ZLKpro api | api.zlkpro.tech | 0.05x | -92% | 100% | 123 |
+| 4 | Pixel API | api.ai-pixel.online | 0.05x | -92% | 100% | 103 |
+| 5 | 可达鸭鸭 API | ai.kdysite.cloud | 0.05x | -92% | 100% | 83 |
+| 6 | 遂人 API | api.haokun.de | 0.05x | -92% | 100% | 77 |
+| 7 | 灵栈AI | lingzhan.top | 0.05x | -92% | 100% | 73 |
+| 8 | 星月API | api.xingyueapi.com | 0.05x | -92% | 100% | 43 |
+| 9 | Kunkunout API | api.kunkunout.cn | 0.05x | -92% | 100% | 27 |
+| 10 | Sub2API | qwer069.com | 0.05x | -92% | 100% | 18 |
+| 11 | 百分之五 | ai.hdd.sb | 0.05x | -92% | 100% | 15 |
+| 12 | Ccode API | api.ccode.vip | 0.05x | -92% | 100% | 170 |
+| 13 | Kimera奇美拉 API | kimera.cc | 0.05x | -92% | 100% | 120 |
+| 14 | 二五云API | ai.idcidiot.com | 0.05x | -92% | 100% | 73 |
+| 15 | AI终点站 | wzhxiaozhan.top | 0.05x | -92% | 100% | 34 |
+| 16 | 平价api | api.asdfas.party | 0.05x | -92% | 100% | 86 |
+| 17 | 摆烂中转站 | api.bailan.store | 0.05x | -92% | 100% | 34 |
+| 18 | 方长 | aikey.top | 0.05x | -92% | 100% | 63 |
+| 19 | TNTAPI | tntapi.com | 0.05x | -92% | 100% | 63 |
+| 20 | 君悦心站 - 让人人都用得起token | api.jzgo.top | 0.05x | -92% | 100% | 41 |
+| 21 | 毛豆API | maodouapi.cc | 0.05x | -92% | 98% | 76 |
+| 22 | 杂鱼API中转 | api.zayuapi.com | 0.05x | -92% | 83% | 112 |
+| 23 | 星舟API | ai.070798.xyz | 0.05x | -92% | 73% | 48 |
+| 24 | DD批发站 | ddl.ddpapi.top | 0.055x | -91% | 100% | 151 |
+| 25 | Vector | huablog.org | 0.055x | -91% | 100% | 79 |
+| 26 | Aicca | ai.aicca.cc | 0.06x | -90% | 63% | 53 |
+| 27 | 玄枢AI | xpivot.top | 0.06x | -90% | 100% | 147 |
+| 28 | 河图 | api.hetune.top | 0.06x | -90% | 100% | 146 |
 
 完整榜单：[https://tokenprice.cc/relay/glm](https://tokenprice.cc/relay/glm)
 

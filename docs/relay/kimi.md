@@ -1,14 +1,14 @@
 ---
 title: "Kimi API 中转站排行（每日更新）"
-description: "1,779 家支持 Kimi 的 API 中转站，实际倍率最低 0.05x，中位 0.6x。"
+description: "1,773 家支持 Kimi 的 API 中转站，实际倍率最低 0.05x，中位 0.6x。"
 permalink: /relay/kimi/
 ---
 
 # Kimi API 中转站排行
 
-> 1,779 家支持 Kimi 的 API 中转站，实际倍率最低 0.05x，中位 0.6x。
+> 1,773 家支持 Kimi 的 API 中转站，实际倍率最低 0.05x，中位 0.6x。
 
-数据更新：2026-11-24 18:44（北京时间） · 数据来自 [TokenPrice](https://tokenprice.cc/relay/kimi)
+数据更新：2026-11-25 18:05（北京时间） · 数据来自 [TokenPrice](https://tokenprice.cc/relay/kimi)
 
 ## 每百万词元价格（人民币）
 
@@ -24,34 +24,34 @@ permalink: /relay/kimi/
 | --- | --- | --- | --- | --- | --- | --- |
 | 官方合作（固定第 1，不参与排名） | cn.sidrune.ai | cn.sidrune.ai | 0.6x | — | 100% | 124 |
 | 官方合作（固定第 1，不参与排名） | VM2 | vm2.pro | 1.2x | — | 100% | 41 |
-| 1 | momo | momoapi.xin | 0.05x | -92% | 100% | 190 |
-| 2 | 秋API | vulcanapi.com | 0.05x | -92% | 100% | 140 |
-| 3 | ZLKpro api | api.zlkpro.tech | 0.05x | -92% | 100% | 112 |
-| 4 | 可达鸭鸭 API | ai.kdysite.cloud | 0.05x | -92% | 100% | 89 |
+| 1 | momo | momoapi.xin | 0.05x | -92% | 100% | 184 |
+| 2 | 秋API | vulcanapi.com | 0.05x | -92% | 100% | 141 |
+| 3 | ZLKpro api | api.zlkpro.tech | 0.05x | -92% | 100% | 102 |
+| 4 | 可达鸭鸭 API | ai.kdysite.cloud | 0.05x | -92% | 100% | 80 |
 | 5 | Sub2API | qwer069.com | 0.05x | -92% | 100% | 18 |
 | 6 | 百分之五 | ai.hdd.sb | 0.05x | -92% | 100% | 15 |
 | 7 | AI算力超市 | aiapi.market | 0.05x | -92% | 100% | 231 |
-| 8 | Ccode API | ccode.vip | 0.05x | -92% | 100% | 170 |
+| 8 | Ccode API | api.ccode.vip | 0.05x | -92% | 100% | 174 |
 | 9 | Kimera奇美拉 API | kimera.cc | 0.05x | -92% | 100% | 121 |
 | 10 | 二五云API | ai.idcidiot.com | 0.05x | -92% | 100% | 72 |
 | 11 | 平价api | api.asdfas.party | 0.05x | -92% | 100% | 86 |
-| 12 | 毛豆API | maodouapi.cc | 0.05x | -92% | 100% | 75 |
-| 13 | 星舟API | ai.070798.xyz | 0.05x | -92% | 98% | 48 |
-| 14 | 君悦 - 让人人都用得起token | jun.jzgo.top | 0.05x | -92% | 92% | 39 |
-| 15 | 世界树-艾朵 | api.eido.top | 0.055x | -91% | 100% | 1353 |
-| 16 | DD批发站 | ddl.ddpapi.top | 0.055x | -91% | 100% | 169 |
-| 17 | Super Subscribe | supersubscribe689.com | 0.057x | -91% | 100% | 193 |
-| 18 | 西宫API | xigong.cloud | 0.057x | -91% | 96% | 109 |
-| 19 | Top API | topapi.io | 0.057x | -90% | 100% | 50 |
-| 20 | Aicca | ai.aicca.cc | 0.06x | -90% | 79% | 53 |
-| 21 | 河图 | api.hetune.top | 0.06x | -90% | 100% | 153 |
-| 22 | 玄枢AI | xpivot.top | 0.06x | -90% | 100% | 145 |
-| 23 | YUapi | api.yuaiapi.com | 0.06x | -90% | 100% | 142 |
-| 24 | RelayCore | api.relaycore.cn | 0.06x | -90% | 100% | 104 |
-| 25 | 梦幻API | mhapi.net | 0.06x | -90% | 100% | 80 |
-| 26 | YMeng CC | ymeng.cc | 0.06x | -90% | 100% | 58 |
-| 27 | Z30 Ai | z30.top | 0.06x | -90% | 100% | 38 |
-| 28 | KELISIAPI | api.kelisiai.pro | 0.06x | -90% | 100% | 23 |
+| 12 | 毛豆API | maodouapi.cc | 0.05x | -92% | 100% | 76 |
+| 13 | 星舟API | ai.070798.xyz | 0.05x | -92% | 99% | 48 |
+| 14 | 杂鱼API中转 | api.zayuapi.com | 0.05x | -92% | 97% | 102 |
+| 15 | 君悦 - 让人人都用得起token | jun.jzgo.top | 0.05x | -92% | 88% | 39 |
+| 16 | 世界树-艾朵 | api.eido.top | 0.055x | -91% | 100% | 1353 |
+| 17 | DD批发站 | ddl.ddpapi.top | 0.055x | -91% | 100% | 169 |
+| 18 | Super Subscribe | supersubscribe689.com | 0.057x | -91% | 100% | 59 |
+| 19 | 西宫API | xigong.cloud | 0.057x | -91% | 81% | 127 |
+| 20 | Top API | topapi.io | 0.057x | -90% | 100% | 50 |
+| 21 | Aicca | ai.aicca.cc | 0.06x | -90% | 91% | 53 |
+| 22 | 河图 | api.hetune.top | 0.06x | -90% | 100% | 153 |
+| 23 | 玄枢AI | xpivot.top | 0.06x | -90% | 100% | 145 |
+| 24 | YUapi | yuaiapi.com | 0.06x | -90% | 100% | 142 |
+| 25 | RelayCore | api.relaycore.cn | 0.06x | -90% | 100% | 99 |
+| 26 | 梦幻API | mhapi.net | 0.06x | -90% | 100% | 80 |
+| 27 | YMeng CC | ymeng.cc | 0.06x | -90% | 100% | 58 |
+| 28 | Z30 Ai | z30.top | 0.06x | -90% | 100% | 38 |
 
 完整榜单：[https://tokenprice.cc/relay/kimi](https://tokenprice.cc/relay/kimi)
 

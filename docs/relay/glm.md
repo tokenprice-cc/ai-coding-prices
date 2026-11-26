@@ -1,14 +1,14 @@
 ---
 title: "智谱 GLM API 中转站排行（每日更新）"
-description: "1,873 家支持 GLM 的 API 中转站，实际倍率最低 0.05x，中位 0.6x。"
+description: "1,870 家支持 GLM 的 API 中转站，实际倍率最低 0.05x，中位 0.6x。"
 permalink: /relay/glm/
 ---
 
 # 智谱 GLM API 中转站排行
 
-> 1,873 家支持 GLM 的 API 中转站，实际倍率最低 0.05x，中位 0.6x。
+> 1,870 家支持 GLM 的 API 中转站，实际倍率最低 0.05x，中位 0.6x。
 
-数据更新：2026-11-25 18:05（北京时间） · 数据来自 [TokenPrice](https://tokenprice.cc/relay/glm)
+数据更新：2026-11-26 17:48（北京时间） · 数据来自 [TokenPrice](https://tokenprice.cc/relay/glm)
 
 ## 每百万词元价格（人民币）
 
@@ -16,18 +16,18 @@ permalink: /relay/glm/
 | --- | --- | --- | --- | --- | --- | --- |
 | glm-5.3 | ¥9.35 | ¥29.4 | ¥0.07 | ¥0.22 | ¥0.84 | ¥2.64 |
 | glm-5.3-flash | ¥1 | ¥3.34 | ¥0.01 | ¥0.03 | ¥0.09 | ¥0.3 |
-| glm-5v-turbo | ¥8.02 | ¥26.7 | ¥0.06 | ¥0.2 | ¥0.72 | ¥2.4 |
+| glm-5v-turbo | ¥8.01 | ¥26.7 | ¥0.06 | ¥0.2 | ¥0.72 | ¥2.4 |
 
 ## 倍率最低的前 30 名
 
 | 排名 | 站点 | 网址 | 实际倍率 | 比中位 | 可用性 | 模型数 |
 | --- | --- | --- | --- | --- | --- | --- |
 | 官方合作（固定第 1，不参与排名） | cn.sidrune.ai | cn.sidrune.ai | 0.6x | — | 100% | 124 |
-| 官方合作（固定第 1，不参与排名） | VM2 | vm2.pro | 1.2x | — | 100% | 41 |
+| 官方合作（固定第 1，不参与排名） | VM2 | vm2.pro | 1.2x | — | 100% | 39 |
 | 1 | VC | sub.vcnovb.cn | 0.05x | -92% | 100% | 146 |
-| 2 | 秋API | vulcanapi.com | 0.05x | -92% | 100% | 141 |
-| 3 | ZLKpro api | api.zlkpro.tech | 0.05x | -92% | 100% | 102 |
-| 4 | 可达鸭鸭 API | ai.kdysite.cloud | 0.05x | -92% | 100% | 80 |
+| 2 | Pixel API | api.ai-pixel.online | 0.05x | -92% | 100% | 102 |
+| 3 | ZLKpro api | zlkpro.tech | 0.05x | -92% | 100% | 93 |
+| 4 | 可达鸭鸭 API | ai.kdysite.cloud | 0.05x | -92% | 100% | 81 |
 | 5 | 遂人 API | api.haokun.de | 0.05x | -92% | 100% | 75 |
 | 6 | 星月API | api.xingyueapi.com | 0.05x | -92% | 100% | 43 |
 | 7 | Kunkunout API | api.kunkunout.cn | 0.05x | -92% | 100% | 27 |
@@ -38,20 +38,20 @@ permalink: /relay/glm/
 | 12 | 平价api | api.asdfas.party | 0.05x | -92% | 100% | 86 |
 | 13 | 摆烂中转站 | api.bailan.store | 0.05x | -92% | 100% | 37 |
 | 14 | 方长 | aikey.top | 0.05x | -92% | 100% | 62 |
-| 15 | TNTAPI | tntapi.com | 0.05x | -92% | 100% | 63 |
-| 16 | 毛豆API | maodouapi.cc | 0.05x | -92% | 100% | 76 |
-| 17 | 星舟API | ai.070798.xyz | 0.05x | -92% | 99% | 48 |
-| 18 | 杂鱼API中转 | api.zayuapi.com | 0.05x | -92% | 97% | 102 |
-| 19 | 君悦 - 让人人都用得起token | jun.jzgo.top | 0.05x | -92% | 88% | 39 |
-| 20 | 世界树-艾朵 | api.eido.top | 0.055x | -91% | 100% | 1353 |
-| 21 | DD批发站 | ddl.ddpapi.top | 0.055x | -91% | 100% | 169 |
-| 22 | Vector | huablog.org | 0.055x | -91% | 100% | 80 |
-| 23 | Uno Router | api.unorouter.com | 0.056x | -91% | 100% | 140 |
-| 24 | 西宫API | xigong.cloud | 0.057x | -91% | 81% | 127 |
-| 25 | Pixel API | api.ai-pixel.online | 0.058x | -90% | 100% | 103 |
-| 26 | Aicca | ai.aicca.cc | 0.06x | -90% | 91% | 53 |
-| 27 | 河图 | api.hetune.top | 0.06x | -90% | 100% | 153 |
-| 28 | 玄枢AI | xpivot.top | 0.06x | -90% | 100% | 145 |
+| 15 | e-flowcode | e-flowcode.cc | 0.05x | -92% | 100% | 68 |
+| 16 | TNTAPI | tntapi.com | 0.05x | -92% | 100% | 63 |
+| 17 | Jasper | api.yjs.im | 0.05x | -92% | 100% | 110 |
+| 18 | 毛豆API | maodouapi.cc | 0.05x | -92% | 100% | 77 |
+| 19 | 星舟API | ai.070798.xyz | 0.05x | -92% | 100% | 48 |
+| 20 | 君悦 - 让人人都用得起token | jun.jzgo.top | 0.05x | -92% | 85% | 39 |
+| 21 | 世界树-艾朵 | api.eido.top | 0.055x | -91% | 100% | 1353 |
+| 22 | DD批发站 | ddl.ddpapi.top | 0.055x | -91% | 100% | 170 |
+| 23 | Vector | huablog.org | 0.055x | -91% | 100% | 79 |
+| 24 | 西宫API | xigong.cloud | 0.057x | -91% | 91% | 108 |
+| 25 | Aicca | ai.aicca.cc | 0.06x | -90% | 97% | 53 |
+| 26 | 河图 | api.hetune.top | 0.06x | -90% | 100% | 184 |
+| 27 | 玄枢AI | xpivot.top | 0.06x | -90% | 100% | 145 |
+| 28 | YUapi | api.yuaiapi.com | 0.06x | -90% | 100% | 142 |
 
 完整榜单：[https://tokenprice.cc/relay/glm](https://tokenprice.cc/relay/glm)
 

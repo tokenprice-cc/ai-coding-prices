@@ -8,7 +8,7 @@ permalink: /relay/gemini/
 
 > 2,017 家支持 Gemini 的 API 中转站，实际倍率最低 0.1x，中位 0.8x。
 
-数据更新：2026-11-25 18:05（北京时间） · 数据来自 [TokenPrice](https://tokenprice.cc/relay/gemini)
+数据更新：2026-11-26 17:48（北京时间） · 数据来自 [TokenPrice](https://tokenprice.cc/relay/gemini)
 
 ## 每百万词元价格（人民币）
 
@@ -23,35 +23,35 @@ permalink: /relay/gemini/
 | 排名 | 站点 | 网址 | 实际倍率 | 比中位 | 可用性 | 模型数 |
 | --- | --- | --- | --- | --- | --- | --- |
 | 官方合作（固定第 1，不参与排名） | cn.sidrune.ai | cn.sidrune.ai | 0.5x | — | 100% | 124 |
-| 1 | RouteEasy | api.routeeasy.ai | 0.1x | -88% | 100% | 550 |
+| 1 | 云影 API | yyapi.cloud | 0.1x | -88% | 100% | 202 |
 | 2 | Offices AI | officesai.top | 0.1x | -88% | 100% | 168 |
-| 3 | New API | api.xiaoyaoxx.cn | 0.1x | -88% | 100% | 132 |
-| 4 | 云影 API | zl.yyapi.cloud | 0.1x | -88% | 100% | 128 |
-| 5 | ZLKpro api | api.zlkpro.tech | 0.1x | -88% | 100% | 102 |
-| 6 | 天才第一步-歪歪纸尿裤 | ai.939593.xyz | 0.1x | -88% | 100% | 92 |
-| 7 | NikoAPI | nikoapi.xyz | 0.1x | -88% | 100% | 68 |
+| 3 | New API | api.xiaoyaoxx.cn | 0.1x | -88% | 100% | 130 |
+| 4 | ZLKpro api | zlkpro.tech | 0.1x | -88% | 100% | 93 |
+| 5 | 天才第一步-歪歪纸尿裤 | ai.939593.xyz | 0.1x | -88% | 100% | 92 |
+| 6 | NikoAPI | nikoapi.xyz | 0.1x | -88% | 100% | 84 |
+| 7 | ST-API | api.aiigo.cloud | 0.1x | -88% | 100% | 81 |
 | 8 | Buzz · AI | buzzai.cc | 0.1x | -88% | 100% | 55 |
 | 9 | Deer Codex | api.codexopenai.cloud | 0.1x | -88% | 100% | 54 |
-| 10 | XingWan Club | xingwan.store | 0.1x | -88% | 100% | 42 |
-| 11 | AI算力超市 | aiapi.market | 0.1x | -88% | 100% | 231 |
+| 10 | XingWan Club | tz.xingwan.store | 0.1x | -88% | 100% | 42 |
+| 11 | AI算力超市 | aiapi.market | 0.1x | -88% | 100% | 235 |
 | 12 | NLAPI | newapi.relayport17.asia | 0.1x | -88% | 100% | 87 |
 | 13 | 水果的API | newapi.wad4614.cn | 0.1x | -88% | 100% | 48 |
-| 14 | 章鱼公益平台 | zhangyuapi.com | 0.1x | -88% | 100% | 52 |
+| 14 | 章鱼公益平台 | zhangyuapi.com | 0.1x | -88% | 100% | 54 |
 | 15 | Cang API | sub2.palerock.cn | 0.1x | -88% | 100% | 22 |
-| 16 | Jasper | api.yjs.im | 0.1x | -88% | 100% | 109 |
-| 17 | OKINTO 模型网关 | api.okinto.com | 0.1x | -88% | 99% | 53 |
-| 18 | 6345ywz API | api.6345ywz.cn | 0.1x | -88% | 99% | 182 |
-| 19 | 云枢AI | yunshuaiapi.com | 0.1x | -88% | 79% | 188 |
-| 20 | 极客API中转站 | xckjj.com | 0.1x | -88% | 65% | 105 |
+| 16 | Jasper | api.yjs.im | 0.1x | -88% | 100% | 110 |
+| 17 | OKINTO 模型网关 | api.okinto.com | 0.1x | -88% | 100% | 53 |
+| 18 | 6345ywz API | api.6345ywz.cn | 0.1x | -88% | 100% | 182 |
+| 19 | 极客API中转站 | xckjj.com | 0.1x | -88% | 84% | 105 |
+| 20 | 云枢AI | yunshuaiapi.com | 0.1x | -88% | 74% | 188 |
 | 21 | 中转API | api.apizoo.top | 0.1x | -87% | 100% | 319 |
 | 22 | AnyAIGC | anyaigc.ai | 0.1x | -87% | 100% | 319 |
 | 23 | 西瓜皮API | xiguapi.icu | 0.1x | -87% | 100% | 319 |
-| 24 | ZhongY API | ai.zyyun.xyz | 0.11x | -86% | 100% | 207 |
-| 25 | Aoen API | newapi.aoenan.com | 0.11x | -86% | 66% | 59 |
-| 26 | 88API | api.88api.shop | 0.11x | -86% | 100% | 319 |
-| 27 | 梨子中转API | youziapi.com | 0.11x | -86% | 100% | 319 |
-| 28 | 无限API | infai.cc | 0.12x | -85% | 100% | 319 |
-| 29 | VideoCaptioner API | api.videocaptioner.cn | 0.12x | -85% | 56% | 319 |
+| 24 | 超参池 | cc2.cx | 0.1x | -87% | 93% | 400 |
+| 25 | ZhongY API | ai.zhongygod.com | 0.11x | -86% | 100% | 187 |
+| 26 | Aoen API | newapi.aoenan.com | 0.11x | -86% | 77% | 59 |
+| 27 | 88API | api.88api.shop | 0.11x | -86% | 100% | 319 |
+| 28 | 梨子中转API | youziapi.com | 0.11x | -86% | 100% | 319 |
+| 29 | 无限API | infai.cc | 0.12x | -85% | 100% | 319 |
 
 完整榜单：[https://tokenprice.cc/relay/gemini](https://tokenprice.cc/relay/gemini)
 

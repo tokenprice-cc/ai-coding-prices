@@ -1,57 +1,57 @@
 ---
 title: "Gemini API 中转站排行（每日更新）"
-description: "2,037 家支持 Gemini 的 API 中转站，实际倍率最低 0.1x，中位 0.8x。"
+description: "2,044 家支持 Gemini 的 API 中转站，实际倍率最低 0.1x，中位 0.8x。"
 permalink: /relay/gemini/
 ---
 
 # Gemini API 中转站排行
 
-> 2,037 家支持 Gemini 的 API 中转站，实际倍率最低 0.1x，中位 0.8x。
+> 2,044 家支持 Gemini 的 API 中转站，实际倍率最低 0.1x，中位 0.8x。
 
-数据更新：2026-11-27 17:52（北京时间） · 数据来自 [TokenPrice](https://tokenprice.cc/relay/gemini)
+数据更新：2026-11-28 16:12（北京时间） · 数据来自 [TokenPrice](https://tokenprice.cc/relay/gemini)
 
 ## 每百万词元价格（人民币）
 
 | 模型 | 官方输入 | 官方输出 | 中转最低输入 | 中转最低输出 | 中转中位输入 | 中转中位输出 |
 | --- | --- | --- | --- | --- | --- | --- |
-| gemini-4-argon | ¥13.4 | ¥66.8 | ¥0.2 | ¥1 | ¥1.6 | ¥8 |
-| gemini-4-hydrogen | ¥10 | ¥50.1 | ¥0.15 | ¥0.75 | ¥1.2 | ¥6 |
-| gemini-4-carbon | ¥13.4 | ¥66.8 | ¥0.2 | ¥1 | ¥1.6 | ¥8 |
+| gemini-4-argon | ¥13.3 | ¥66.7 | ¥0.2 | ¥1 | ¥1.6 | ¥8 |
+| gemini-4-hydrogen | ¥10 | ¥50 | ¥0.15 | ¥0.75 | ¥1.2 | ¥6 |
+| gemini-4-carbon | ¥13.3 | ¥66.7 | ¥0.2 | ¥1 | ¥1.6 | ¥8 |
 
 ## 倍率最低的前 30 名
 
 | 排名 | 站点 | 网址 | 实际倍率 | 比中位 | 可用性 | 模型数 |
 | --- | --- | --- | --- | --- | --- | --- |
 | 官方合作（固定第 1，不参与排名） | cn.sidrune.ai | cn.sidrune.ai | 0.5x | — | 100% | 124 |
-| 1 | 云影 API | yyapi.cloud | 0.1x | -88% | 100% | 203 |
-| 2 | Offices AI | officesai.top | 0.1x | -88% | 100% | 168 |
-| 3 | New API | api.xiaoyaoxx.cn | 0.1x | -88% | 100% | 131 |
-| 4 | ZLKpro api | zlkpro.tech | 0.1x | -88% | 100% | 94 |
+| 1 | Offices AI | officesai.top | 0.1x | -88% | 100% | 168 |
+| 2 | New API | api.xiaoyaoxx.cn | 0.1x | -88% | 100% | 131 |
+| 3 | 云影 API | zl.yyapi.cloud | 0.1x | -88% | 100% | 121 |
+| 4 | ZLKpro api | api.zlkpro.tech | 0.1x | -88% | 100% | 96 |
 | 5 | 天才第一步-歪歪纸尿裤 | ai.939593.xyz | 0.1x | -88% | 100% | 94 |
-| 6 | NikoAPI | nikoapi.xyz | 0.1x | -88% | 100% | 85 |
+| 6 | NikoAPI | nikoapi.xyz | 0.1x | -88% | 100% | 88 |
 | 7 | ST-API | api.aiigo.cloud | 0.1x | -88% | 100% | 81 |
-| 8 | Deer Codex | api.codexopenai.cloud | 0.1x | -88% | 100% | 54 |
-| 9 | Buzz · AI | buzzai.cc | 0.1x | -88% | 100% | 52 |
+| 8 | 梦幻API | mhapi.net | 0.1x | -88% | 100% | 80 |
+| 9 | Deer Codex | api.codexopenai.cloud | 0.1x | -88% | 100% | 54 |
 | 10 | XingWan Club | xingwan.store | 0.1x | -88% | 100% | 42 |
-| 11 | AI算力超市 | aiapi.market | 0.1x | -88% | 100% | 234 |
+| 11 | AI算力超市 | aiapi.market | 0.1x | -88% | 100% | 226 |
 | 12 | NLAPI | newapi.relayport17.asia | 0.1x | -88% | 100% | 87 |
 | 13 | 水果的API | newapi.wad4614.cn | 0.1x | -88% | 100% | 48 |
 | 14 | 章鱼公益平台 | zhangyuapi.com | 0.1x | -88% | 100% | 53 |
 | 15 | Cang API | sub2.palerock.cn | 0.1x | -88% | 100% | 22 |
 | 16 | OKINTO 模型网关 | api.okinto.com | 0.1x | -88% | 100% | 51 |
 | 17 | 6345ywz API | api.6345ywz.cn | 0.1x | -88% | 100% | 182 |
-| 18 | 极客API中转站 | xckjj.com | 0.1x | -88% | 96% | 108 |
-| 19 | ComputChat | comput.chat | 0.1x | -88% | 69% | 208 |
-| 20 | 中转API | api.apizoo.top | 0.1x | -87% | 100% | 315 |
-| 21 | AnyAIGC | anyaigc.ai | 0.1x | -87% | 100% | 315 |
-| 22 | 西瓜皮API | xiguapi.icu | 0.1x | -87% | 100% | 315 |
-| 23 | 超参池 | cc2.cx | 0.1x | -87% | 98% | 418 |
-| 24 | ZhongY API | ai.zhongygod.com | 0.11x | -86% | 100% | 188 |
-| 25 | Aoen API | newapi.aoenan.com | 0.11x | -86% | 80% | 59 |
-| 26 | 88API | api.88api.shop | 0.11x | -86% | 100% | 315 |
-| 27 | 梨子中转API | youziapi.com | 0.11x | -86% | 100% | 315 |
-| 28 | 无限API | infai.cc | 0.12x | -85% | 100% | 315 |
-| 29 | VideoCaptioner API | api.videocaptioner.cn | 0.12x | -85% | 63% | 315 |
+| 18 | 极客API中转站 | xckjj.com | 0.1x | -88% | 92% | 108 |
+| 19 | ComputChat | comput.chat | 0.1x | -88% | 91% | 208 |
+| 20 | 云枢AI | yunshuaiapi.com | 0.1x | -88% | 78% | 188 |
+| 21 | 中转API | api.apizoo.top | 0.1x | -87% | 100% | 315 |
+| 22 | AnyAIGC | anyaigc.ai | 0.1x | -87% | 100% | 315 |
+| 23 | 西瓜皮API | xiguapi.icu | 0.1x | -87% | 100% | 315 |
+| 24 | 超参池 | cc2.cx | 0.1x | -87% | 99% | 418 |
+| 25 | ZhongY API | ai.zhongygod.com | 0.11x | -86% | 100% | 201 |
+| 26 | Aoen API | newapi.aoenan.com | 0.11x | -86% | 89% | 59 |
+| 27 | 88API | api.88api.shop | 0.11x | -86% | 100% | 315 |
+| 28 | 梨子中转API | youziapi.com | 0.11x | -86% | 100% | 315 |
+| 29 | 无限API | infai.cc | 0.12x | -85% | 100% | 315 |
 
 完整榜单：[https://tokenprice.cc/relay/gemini](https://tokenprice.cc/relay/gemini)
 
